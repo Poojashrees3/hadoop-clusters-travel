@@ -70,11 +70,11 @@ for index, hotel in enumerate(hotels[:100]):  # Limit to 100 records
         name = hotel.find_element(By.XPATH, './/*[@data-selenium="hotel-name"]').text
         print(name)
         # Find the price span of the first hotel
-        #price_element = hotel.find_element(By.XPATH, '(//div[@class="hotel-container"])[1]//span[3]')
-        #price = price_element.text
-        #print(price)
-        rating = hotel.find_element(By.XPATH, '//*[@id="contentContainer"]/div[4]/ol[1]/li[2]/div/a/div/div[2]/div[3]/div/div[1]/div/div/p').text
-        print(rating)
+        price_element = hotel.find_element(By.XPATH, './/*[@id="contentContainer"]/div[3]/ol[1]/li[1]/div/a/div/div[2]/div[3]/div/div[2]')
+        price = price_element.text
+        print(price)
+        #rating = hotel.find_element(By.XPATH, '//*[@id="contentContainer"]/div[4]/ol[1]/li[2]/div/a/div/div[2]/div[3]/div/div[1]/div/div/p').text
+        #print(rating)
         address = hotel.find_element(By.XPATH, './/*[@data-selenium="area-city-text"]').text
         print(address)
         
