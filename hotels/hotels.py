@@ -42,18 +42,18 @@ close_pop_up(driver)
 #     print("No popup found.")
 
 # Search for hotels in a destination
-destination = "Paris"
+destination = "Paris, France"
 driver.find_element(By.CSS_SELECTOR, ".uitk-fake-input.uitk-form-field-trigger.uitk-field-fake-input.uitk-field-fake-input-hasicon").click()
 driver.find_element(By.XPATH, './/*[@data-stid="destination_form_field-menu-input"]').send_keys(destination, Keys.ENTER)
 driver.find_element(By.XPATH, './/*[@id="search_button"]').click()
 time.sleep(5)
 
 # Wait for results to load
-wait = WebDriverWait(driver, 60)
+#wait = WebDriverWait(driver, 60)
 
 
 wait = WebDriverWait(driver, 30)
-wait.until(EC.presence_of_all_elements_located((By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-two")]')))
+wait.until(EC.presence_of_all_elements_located((By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-three")]')))
 
 # Scroll to load more results
 for _ in range(3):  # Adjust number of scrolls as needed
@@ -61,53 +61,77 @@ for _ in range(3):  # Adjust number of scrolls as needed
     time.sleep(2)
 
 # Get all hotel elements
-hotels = driver.find_elements(By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-two")]')
+hotels = driver.find_elements(By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-three")]')
 print(f"Total hotels found: {len(hotels)}")
 data = []
 
 for index, hotel in enumerate(hotels):
     try:
-        name = hotel.find_element(By.TAG_NAME, 'h3').text
-    except Exception:
-        name = "Not Available"
-
+        print(f"Processing hotel {index + 1}...")
+        # Extract hotel name
+       # try:
+       #     name = hotel.find_element(By.XPATH, './/h3[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
+       #     print(name)
+       # except Exception:                                               
+       #     name = "No Name Found"
+        #wait = WebDriverWait(driver, 30).until(EC.presence_of_all_elements_located((By.XPATH, './/*[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]')))
+#
+        #name = hotel.find_element(By.XPATH, './/h3[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
+        #print(f"Total names found: {len(name)}")
+        #print(name)
+    #except Exception as e:
+        #print(f"Skipping hotel due to missing name: {e}")
+        #name = "No Name Found"
         
         #city = hotel.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-text-spacing-half truncate-lines-2 uitk-type-300 uitk-text-default-theme")]').text
         #print(city)
-        price = hotel.find_element(By.XPATH, './/div[contains(@class, "uitk-text uitk-type-300 uitk-text-default-theme is-visually-hidden")]').text
-        
-        #bed_type = hotel.find_element(By.XPATH, './/span[contains(@class, "uitk-type-300 uitk-text-default-theme")]').text
-        scrapped_rating = hotel.find_element(By.XPATH, './/span[contains(@class, "uitk-badge-base-text")]').text
-        rating =int(scrapped_rating.replace(',', ''))
+       # try:
+        #    price = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-layout-position uitk-layout-position-relative uitk-spacing uitk-spacing-padding-blockstart-half")]').text
+        #    print(price)
+        #except Exception:
+        #    price = "No Price Found"                                                              
+        #bed_type = "Double bed"
+        #print(bed_type)
+        #scrapped_rating = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-badge-base-text")]').text
+        #rating =int(scrapped_rating.replace(',', ''))
+        #print(rating)
         # Get image URL
-        image_element = hotel.find_element(By.XPATH, './/img[contains(@class, "uitk-image-media")]')
-        image_url = image_element.get_attribute('src')  # Use 'src' or 'data-src' based on the website
-        print(name,price,rating,image_url)
-        # Download and save the image
-        if image_url:
-            response = requests.get(image_url, stream=True)
-            if response.status_code == 200:
-                image_path = f'h_hotels_images/hotel_{index + 400}.jpg'
-                with open(image_path, 'wb') as img_file:
-                    for chunk in response.iter_content(1024):
-                        img_file.write(chunk)
-            else:
-                image_path = "Image not available"
-        else:
-            image_path = "No image URL"
+     
 
-        write_image_details([(f'hotelimage_{index + 400}',f'hotel_{index + 400}',image_path)])
+        #write_image_details([(f'hotelimage_{index + 400}',f'hotel_{index + 400}',image_path)])
         # Getting more details
         # Extract hotel link
-        hotel_link = [hotel.find_element(By.XPATH, './/a[contains(@id,"listing-content-entry")]').get_attribute("href") for hotel in hotels]
-
+        hotel_link = [hotel.find_element(By.XPATH, '//*[contains(@class,"uitk-card-link")]').get_attribute("href") for hotel in hotels]
+        
         # Open the hotel's page in a new tab
         driver.execute_script("window.open(arguments[0]);", hotel_link)
         driver.switch_to.window(driver.window_handles[-1])
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         # Wait for the new page to load
         time.sleep(5)
+        try:
+            #wait = WebDriverWait(driver, 30).until(EC.presence_of_all_elements_located((By.XPATH, './/img[contains(@class,"uitk-image-media")]')))
+            image_element = hotel.find_element(By.XPATH, './/*[contains(@class,"uitk-image-media")]') 
+            image_url = image_element.get_attribute('src') or image_element.get_attribute('data-src')  # Use 'src' or 'data-src' based on the website
+            print(image_url)
+            time.sleep(3)
 
+        #print(name,price,rating,image_url)
+        # Download and save the image
+           # if image_url:
+              #  response = requests.get(image_url, stream=True)
+              #  if response.status_code == 200:
+                 #   image_path = f'h_hotels_images/hotel_{index + 400}.jpg'
+                  #  with open(image_path, 'wb') as img_file:
+                     #   for chunk in response.iter_content(1024):
+                          #  img_file.write(chunk)
+           #     else:
+               #     image_path = "Image not available"
+           # else:
+             #   image_path = "No image URL"
+        except Exception:
+            image_path = "No image URL"
+            print(image_path)
         # Address
         scrapped_address = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-type-300 uitk-text-default-theme uitk-layout-flex-item uitk-layout-flex-item-flex-basis-full_width")]').text
         #text_address = scrapped_address
@@ -123,9 +147,9 @@ for index, hotel in enumerate(hotels):
             #review_summary = "Not Available"
         print(review_summary)
         # Store data
-        write_hotel_details([(f'hotel_{index + 400}', name, address,destination)])
-        write_review_details([(f'review_{(2*index) + 400}', f'hotel_{index + 400}', rating ,review_summary)])
-        write_price_details([(f'price_{(3*index)+400}',f'hotel_{index + 400}',price)])
+       # write_hotel_details([(f'hotel_{index + 400}',name, address,destination)])
+        #write_review_details([(f'review_{(2*index) + 400}', f'hotel_{index + 400}' ,rating,review_summary)])
+        #write_price_details([(f'price_{(3*index)+400}',f'hotel_{index + 400}',price)])
 
         # Close the current tab and return to the main results page
         # Close the current tab and return to the main results page
