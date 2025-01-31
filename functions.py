@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
@@ -26,10 +25,6 @@ def close_pop_up(driver):
         print("popup closed") 
     except Exception as e:
         print("No popup found.")
-    return None
-
-def get_hotel_details(hotels):
-
     return None
 
 def write_hotel_details(data):
