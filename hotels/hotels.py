@@ -56,7 +56,9 @@ for _ in range(2):  # Scroll 5 times
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
 
-hotels = driver.find_elements(By.XPATH, './/*[@data-stid="property-listing-results"]')
+wait.until(EC.presence_of_all_elements_located((By.XPATH, './/div[@data-stid="property-listing"]')))
+hotels = driver.find_elements(By.XPATH, './/div[@data-stid="property-listing"]')
+print(f"Total hotels found: {len(hotels)}")
 data = []
 
 for index, hotel in enumerate(hotels):
@@ -78,7 +80,7 @@ for index, hotel in enumerate(hotels):
         if image_url:
             response = requests.get(image_url, stream=True)
             if response.status_code == 200:
-                image_path = f'h_hotels_images/hotel_{index + 300}.jpg'
+                image_path = f'h_hotels_images/hotel_{index + 400}.jpg'
                 with open(image_path, 'wb') as img_file:
                     for chunk in response.iter_content(1024):
                         img_file.write(chunk)
@@ -87,7 +89,7 @@ for index, hotel in enumerate(hotels):
         else:
             image_path = "No image URL"
 
-        write_image_details([(f'hotelimage_{index + 300}',f'hotel_{index + 300}',image_path)])
+        write_image_details([(f'hotelimage_{index + 400}',f'hotel_{index + 400}',image_path)])
         # Getting more details
         # Extract hotel link
         hotel_link = hotel.find_element(By.XPATH, './/a[contains(@id,"listing-content-entry")]').get_attribute("href")
@@ -114,9 +116,9 @@ for index, hotel in enumerate(hotels):
             #review_summary = "Not Available"
         print(review_summary)
         # Store data
-        write_hotel_details([(f'hotel_{index + 1}', name, address,destination)])
-        write_review_details([(f'review_{(2*index) + 1}', f'hotel_{index + 1}', rating ,review_summary)])
-        write_price_details([(f'price_{(3*index)+300}',f'hotel_{index + 300}',price)])
+        write_hotel_details([(f'hotel_{index + 400}', name, address,destination)])
+        write_review_details([(f'review_{(2*index) + 400}', f'hotel_{index + 400}', rating ,review_summary)])
+        write_price_details([(f'price_{(3*index)+400}',f'hotel_{index + 400}',price)])
 
         # Close the current tab and return to the main results page
         # Close the current tab and return to the main results page

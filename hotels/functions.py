@@ -33,7 +33,7 @@ def get_hotel_details(hotels):
     return None
 
 def write_hotel_details(data):
-    file_exists = os.path.exists("hotels.csv")
+    file_exists = os.path.exists("h_hotels.csv")
     with open("h_hotels.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
@@ -42,7 +42,7 @@ def write_hotel_details(data):
     return None
 
 def write_review_details(data):
-    file_exists = os.path.exists("hotels.csv")
+    file_exists = os.path.exists("h_reviews.csv")
     with open("h_reviews.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
@@ -51,7 +51,7 @@ def write_review_details(data):
     return None
 
 def write_image_details(data):
-    file_exists = os.path.exists("hotels.csv")
+    file_exists = os.path.exists("h_images.csv")
     with open("h_images.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
@@ -60,7 +60,7 @@ def write_image_details(data):
     return None
 
 def write_price_details(data):
-    file_exists = os.path.exists("hotels.csv")
+    file_exists = os.path.exists("h_prices.csv")
     with open("h_prices.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
