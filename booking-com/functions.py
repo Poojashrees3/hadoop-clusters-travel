@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
@@ -28,13 +27,9 @@ def close_pop_up(driver):
         print("No popup found.")
     return None
 
-def get_hotel_details(hotels):
-
-    return None
-
 def write_hotel_details(data):
-    file_exists = os.path.exists("h_hotels.csv")
-    with open("h_hotels.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("hotels.csv")
+    with open("hotels.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["hotel_id", "hotel_name", "hotel_address", "hotel_city"])
@@ -42,8 +37,8 @@ def write_hotel_details(data):
     return None
 
 def write_review_details(data):
-    file_exists = os.path.exists("h_reviews.csv")
-    with open("h_reviews.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("reviews.csv")
+    with open("reviews.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["review_id", "hotel_id", "rating", "review_description"])
@@ -51,8 +46,8 @@ def write_review_details(data):
     return None
 
 def write_image_details(data):
-    file_exists = os.path.exists("h_images.csv")
-    with open("h_images.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("images.csv")
+    with open("images.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["image_id", "hotel_id", "image_path"])
@@ -60,10 +55,10 @@ def write_image_details(data):
     return None
 
 def write_price_details(data):
-    file_exists = os.path.exists("h_prices.csv")
-    with open("h_prices.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("prices.csv")
+    with open("prices.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
-            writer.writerow(["price_id", "hotel_id","total_price"])
+            writer.writerow(["price_id", "hotel_id", "room_type", "price_per_night","total_price"])
         writer.writerows(data) 
     return None
