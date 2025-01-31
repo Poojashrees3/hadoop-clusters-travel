@@ -112,7 +112,7 @@ for index,hotel in enumerate(hotels):
         else:
             image_path = "No image URL"
 
-        write_image_details([(f'hotel_{index + 300}',f'hotel_{index + 300}',image_path)])
+        write_image_details([(f'image_{index + 300}',f'hotel_{index + 300}',image_path)])
         # Getting more details
         # Extract hotel link
         hotel_link = hotel.find_element(By.XPATH, './/*[@data-testid="title-link"]').get_attribute("href")
@@ -140,7 +140,7 @@ for index,hotel in enumerate(hotels):
         #f'hotel_{index + 1}',name, price_per_night, total_price, rating, bed_type, address,total_reviews,review_summary
         write_hotel_details([(f'hotel_{index + 300}',name, address,destination)])
         write_review_details([(f'review_{(2*index) + 300}',f'hotel_{index + 300}',rating,review_summary)])
-        write_price_details([(f'hotel_{(3*index)+300}',f'hotel_{index + 300}',bed_type,price_per_night,int(total_price.replace(',', '')))])
+        write_price_details([(f'price_{(3*index)+300}',f'hotel_{index + 300}',bed_type,price_per_night,int(total_price.replace(',', '')))])
 
         # Close the current tab and return to the main results page
         driver.close()
