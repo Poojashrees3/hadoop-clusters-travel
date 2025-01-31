@@ -51,19 +51,26 @@ time.sleep(5)
 # Wait for results to load
 wait = WebDriverWait(driver, 60)
 
+
+wait = WebDriverWait(driver, 30)
+wait.until(EC.presence_of_all_elements_located((By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-two")]')))
+
 # Scroll to load more results
-for _ in range(2):  # Scroll 5 times
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+for _ in range(3):  # Adjust number of scrolls as needed
+    driver.execute_script("window.scrollBy(0, 800);")  
     time.sleep(2)
 
-wait.until(EC.presence_of_all_elements_located((By.XPATH, './/div[@data-stid="property-listing"]')))
-hotels = driver.find_elements(By.XPATH, './/div[@data-stid="property-listing"]')
+# Get all hotel elements
+hotels = driver.find_elements(By.XPATH, '//*[contains(@class,"uitk-spacing uitk-spacing-margin-blockstart-two")]')
 print(f"Total hotels found: {len(hotels)}")
 data = []
 
 for index, hotel in enumerate(hotels):
     try:
-        name = hotel.find_element(By.XPATH, './/h3[contains(@class,"uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
+        name = hotel.find_element(By.TAG_NAME, 'h3').text
+    except Exception:
+        name = "Not Available"
+
         
         #city = hotel.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-text-spacing-half truncate-lines-2 uitk-type-300 uitk-text-default-theme")]').text
         #print(city)
@@ -92,7 +99,7 @@ for index, hotel in enumerate(hotels):
         write_image_details([(f'hotelimage_{index + 400}',f'hotel_{index + 400}',image_path)])
         # Getting more details
         # Extract hotel link
-        hotel_link = hotel.find_element(By.XPATH, './/a[contains(@id,"listing-content-entry")]').get_attribute("href")
+        hotel_link = [hotel.find_element(By.XPATH, './/a[contains(@id,"listing-content-entry")]').get_attribute("href") for hotel in hotels]
 
         # Open the hotel's page in a new tab
         driver.execute_script("window.open(arguments[0]);", hotel_link)
