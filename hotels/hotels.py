@@ -43,7 +43,7 @@ close_pop_up(driver)
 
 # Search for hotels in a destination
 destination = "Paris, France"
-driver.find_element(By.CSS_SELECTOR, ".uitk-fake-input.uitk-form-field-trigger.uitk-field-fake-input.uitk-field-fake-input-hasicon").click()
+driver.find_element(By.XPATH, './/*[@data-stid="destination_form_field-dialog-trigger"]').click()
 driver.find_element(By.XPATH, './/*[@data-stid="destination_form_field-menu-input"]').send_keys(destination, Keys.ENTER)
 driver.find_element(By.XPATH, './/*[@id="search_button"]').click()
 time.sleep(5)
@@ -101,7 +101,7 @@ for index, hotel in enumerate(hotels):
         #write_image_details([(f'hotelimage_{index + 400}',f'hotel_{index + 400}',image_path)])
         # Getting more details
         # Extract hotel link
-        hotel_link = [hotel.find_element(By.XPATH, '//*[contains(@class,"uitk-card-link")]').get_attribute("href") for hotel in hotels]
+        hotel_link = hotel.find_element(By.XPATH, '//*[contains(@class,"uitk-card-link")]').get_attribute("href")
         
         # Open the hotel's page in a new tab
         driver.execute_script("window.open(arguments[0]);", hotel_link)
