@@ -42,7 +42,7 @@ close_pop_up(driver)
 #     print("No popup found.")
 
 # Search for hotels in a destination
-destination = "Paris"
+destination = "Copenhagen"
 driver.find_element(By.CSS_SELECTOR, ".uitk-fake-input.uitk-form-field-trigger.uitk-field-fake-input.uitk-field-fake-input-hasicon").click()
 driver.find_element(By.XPATH, './/*[@data-stid="destination_form_field-menu-input"]').send_keys(destination, Keys.ENTER)
 driver.find_element(By.XPATH, './/*[@id="search_button"]').click()
@@ -67,13 +67,13 @@ data = []
 
 for index, hotel in enumerate(hotels):
     try:
-      #  print(f"Processing hotel {index + 1}...")
+        print(f"Processing hotel {index + 1}...")
         # Extract hotel name
-       # try:
-       #     name = hotel.find_element(By.XPATH, './/h3[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
-       #     print(name)
-       # except Exception:                                               
-       #     name = "No Name Found"
+        try:
+            name = hotel.find_element(By.XPATH, './/h3[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
+            print(name)
+        except Exception:                                               
+           name = "No Name Found"
         #wait = WebDriverWait(driver, 30).until(EC.presence_of_all_elements_located((By.XPATH, './/*[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]')))
 #
         #name = hotel.find_element(By.XPATH, './/h3[contains(@class, "uitk-heading uitk-heading-5 overflow-wrap uitk-layout-grid-item uitk-layout-grid-item-has-row-start")]').text
@@ -85,25 +85,25 @@ for index, hotel in enumerate(hotels):
         
         #city = hotel.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-text-spacing-half truncate-lines-2 uitk-type-300 uitk-text-default-theme")]').text
        # #print(city)
-       # try:
-       #     price = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-layout-position uitk-layout-position-relative uitk-spacing uitk-spacing-padding-blockstart-half")]').text
-       #     print(price)
-       # except Exception:
-       #     price = "No Price Found"                                                              
-       # bed_type = "Double bed"
-       # print(bed_type)
-       # try:
-       #     scrapped_rating = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-badge-base-text")]').text
-       #     rating =int(scrapped_rating.replace(',', ''))
+        try:
+            price = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-layout-position uitk-layout-position-relative uitk-spacing uitk-spacing-padding-blockstart-half")]').text
+            print(price)
+        except Exception:
+            price = "No Price Found"                                                              
+        bed_type = "Double bed"
+        print(bed_type)
+        try:
+            scrapped_rating = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-badge-base-text")]').text
+            rating =int(scrapped_rating.replace(',', ''))
        #     print(rating)
-       # except Exception:
-       #     rating = "No Rating Found"
-       #     print(rating)
+        except Exception:
+            rating = "No Rating Found"
+            print(rating)
         # Get image URL
         
 
         try:
-            wait = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH, './/img[contains(@class,"uitk-image-media")]')))
+            wait = WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/img[contains(@class,"uitk-image-media")]')))
             image_element = hotel.find_element(By.XPATH, './/img[contains(@class,"uitk-image-media")]') 
             image_url = image_element.get_attribute('src')   # Use 'src' or 'data-src' based on the website
             print(image_url)
@@ -114,7 +114,7 @@ for index, hotel in enumerate(hotels):
             if image_url:
                 response = requests.get(image_url, stream=True)
                 if response.status_code == 200:
-                    image_path = f'new_hotels_images/hotel_{index + 400}.jpg'
+                    image_path = f'new_hotels_images/hotel_{index + 746}.jpg'
                     with open(image_path, 'wb') as img_file:
                         for chunk in response.iter_content(1024):
                            img_file.write(chunk)
@@ -128,33 +128,33 @@ for index, hotel in enumerate(hotels):
         # write_image_details([(f'hotelimage_{index + 709}',f'hotel_{index + 709}',f'new_hotels_images/hotel_{index + 709}.jpg')])
         # Getting more details
         # Extract hotel link
-       # hotel_link = hotel.find_element(By.XPATH, './/*[contains(@class,"uitk-card-link")]').get_attribute("href")
+        hotel_link = hotel.find_element(By.XPATH, './/*[contains(@class,"uitk-card-link")]').get_attribute("href")
         
         # Open the hotel's page in a new tab
-       # driver.execute_script("window.open(arguments[0]);", hotel_link)
-       # driver.switch_to.window(driver.window_handles[-1])
-       # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        # Wait for the new page to load
-       # time.sleep(3)
+        driver.execute_script("window.open(arguments[0]);", hotel_link)
+        driver.switch_to.window(driver.window_handles[-1])
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+         #Wait for the new page to load
+        time.sleep(2)
             
         # Address
-      #  try:
-      #      scrapped_address = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-type-300 uitk-text-default-theme uitk-layout-flex-item uitk-layout-flex-item-flex-basis-full_width")]').text
-      #  #text_address = scrapped_address
-       #     address = scrapped_address.replace(',', ' ')
+        try:
+            scrapped_address = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-type-300 uitk-text-default-theme uitk-layout-flex-item uitk-layout-flex-item-flex-basis-full_width")]').text
+        #text_address = scrapped_address
+            address = scrapped_address.replace(',', ' ')
        #     print(address)
-       # except:
-       #     address = "No Address Found"
+        except:
+            address = "No Address Found"
        #     print(address)
         # Summary
-       # try:
-       #     scrapped_summary = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text truncate-lines-4 uitk-type-300 uitk-text-default-theme uitk-layout-flex-item")]').text
-       #     review_summary = scrapped_summary.replace(',', ' ')
-       # except:
+        try:
+            scrapped_summary = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text truncate-lines-4 uitk-type-300 uitk-text-default-theme uitk-layout-flex-item")]').text
+            review_summary = scrapped_summary.replace(',', ' ')
+        except:
             #try:
             #    review_summary = driver.find_element(By.XPATH, './/*[@data-testid="featuredreview-text"]').text
            # except:
-       #     review_summary = "Stay is good and just perfect"
+            review_summary = "Stay is good and just perfect"
        # print(review_summary)
         # Store data
        # write_hotel_details([(f'hotel_{index + 709}',name, address,destination)])
