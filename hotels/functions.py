@@ -64,6 +64,6 @@ def write_price_details(data):
     with open("h_prices.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
-            writer.writerow(["price_id", "hotel_id","total_price"])
+            writer.writerow(["price_id", "hotel_id","room_type","total_price"])
         writer.writerows(data) 
     return None
