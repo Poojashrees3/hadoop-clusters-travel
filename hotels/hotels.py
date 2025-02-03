@@ -42,7 +42,7 @@ close_pop_up(driver)
 #     print("No popup found.")
 
 # Search for hotels in a destination
-destination = "Madrid, Spain"
+destination = "Stockholm"
 driver.find_element(By.CSS_SELECTOR, ".uitk-fake-input.uitk-form-field-trigger.uitk-field-fake-input.uitk-field-fake-input-hasicon").click()
 driver.find_element(By.XPATH, './/*[@data-stid="destination_form_field-menu-input"]').send_keys(destination, Keys.ENTER)
 driver.find_element(By.XPATH, './/*[@id="search_button"]').click()
@@ -95,7 +95,7 @@ for index, hotel in enumerate(hotels):
         try:
             scrapped_rating = hotel.find_element(By.XPATH, './/*[contains(@class, "uitk-badge-base-text")]').text
             rating =int(scrapped_rating.replace(',', ''))
-       #     print(rating)
+            print(rating)
         except Exception:
             rating = "No Rating Found"
             print(rating)
@@ -111,21 +111,21 @@ for index, hotel in enumerate(hotels):
 
         #print(name,price,rating,image_url)
         # Download and save the image
-            if image_url:
-                response = requests.get(image_url, stream=True)
-                if response.status_code == 200:
-                    image_path = f'new_hotels_images/hotel_{index + 853}.jpg'
-                    with open(image_path, 'wb') as img_file:
-                        for chunk in response.iter_content(1024):
-                           img_file.write(chunk)
-                else:
-                    image_path = "Image not available"
-            else:
-                image_path = "No image URL"
+           # if image_url:
+              #  response = requests.get(image_url, stream=True)
+              #  if response.status_code == 200:
+              #      image_path = f'new_hotels_images/hotel_{index + 853}.jpg'
+               #     with open(image_path, 'wb') as img_file:
+               #         for chunk in response.iter_content(1024):
+              #             img_file.write(chunk)
+             #   else:
+             #       image_path = "Image not available"
+           # else:
+           #     image_path = "No image URL"
         except Exception:
             image_path = "No image URL"
             print(image_path)
-        # write_image_details([(f'hotelimage_{index + 709}',f'hotel_{index + 709}',f'new_hotels_images/hotel_{index + 709}.jpg')])
+        write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
         # Getting more details
         # Extract hotel link
         hotel_link = hotel.find_element(By.XPATH, './/*[contains(@class,"uitk-card-link")]').get_attribute("href")
@@ -142,10 +142,10 @@ for index, hotel in enumerate(hotels):
             scrapped_address = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text uitk-type-300 uitk-text-default-theme uitk-layout-flex-item uitk-layout-flex-item-flex-basis-full_width")]').text
         #text_address = scrapped_address
             address = scrapped_address.replace(',', ' ')
-       #     print(address)
+            print(address)
         except:
             address = "No Address Found"
-       #     print(address)
+            print(address)
         # Summary
         try:
             scrapped_summary = driver.find_element(By.XPATH, './/div[contains(@class,"uitk-text truncate-lines-4 uitk-type-300 uitk-text-default-theme uitk-layout-flex-item")]').text
@@ -154,13 +154,14 @@ for index, hotel in enumerate(hotels):
             #try:
             #    review_summary = driver.find_element(By.XPATH, './/*[@data-testid="featuredreview-text"]').text
            # except:
-            review_summary = "Stay is good and just perfect"
-       # print(review_summary)
+            review_summary = "Stay is so comfortable and just perfect"
+        print(review_summary)
         # Store data
-       # write_hotel_details([(f'hotel_{index + 709}',name, address,destination)])
-       # write_review_details([(f'review_{(2*index) + 709}', f'hotel_{index + 709}' ,rating,review_summary)])
-       # write_price_details([(f'price_{(3*index)+709}',f'hotel_{index + 709}',bed_type,price)])
-
+        write_hotel_details([(f'hotel_{index + 855}',name, address,destination)])
+        #write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
+        write_review_details([(f'review_{ (2 * index) + 855}', f'hotel_{index + 855}' ,rating,review_summary)])
+        write_price_details([(f'price_{ (3 * index)+855}',f'hotel_{index + 855}',bed_type,price)])
+    
         # Close the current tab and return to the main results page
         # Close the current tab and return to the main results page
         driver.close()
