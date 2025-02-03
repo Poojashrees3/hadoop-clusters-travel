@@ -1,442 +1,539 @@
-price_id,hotel_id,room_type,total_price
-price_401,hotel_400,Double bed,"Der aktuelle Preis beträgt 1.068 €.1.068 €"
-price_403,hotel_401,Double bed,"Der aktuelle Preis beträgt 757 €.757 €"
-price_406,hotel_402,Double bed,"Der aktuelle Preis beträgt 737 €.737 €"
-price_409,hotel_403,Double bed,"Der aktuelle Preis beträgt 687 €.687 €"
-price_412,hotel_404,Double bed,"Der aktuelle Preis beträgt 397 €.397 €"
-price_415,hotel_405,Double bed,"Der aktuelle Preis beträgt 563 €.563 €"
-price_418,hotel_406,Double bed,"Der aktuelle Preis beträgt 663 €.663 €"
-price_421,hotel_407,Double bed,"Der aktuelle Preis beträgt 520 €.520 €"
-price_424,hotel_408,Double bed,"Der aktuelle Preis beträgt 618 €.618 €"
-price_427,hotel_409,Double bed,"Der aktuelle Preis beträgt 941 €.941 €"
-price_430,hotel_410,Double bed,"Der aktuelle Preis beträgt 671 €.671 €"
-price_436,hotel_412,Double bed,"Der aktuelle Preis beträgt 484 €.484 €"
-price_439,hotel_413,Double bed,"Der aktuelle Preis beträgt 490 €.490 €"
-price_442,hotel_414,Double bed,"Der aktuelle Preis beträgt 929 €.929 €"
-price_448,hotel_416,Double bed,"Der aktuelle Preis beträgt 550 €.550 €"
-price_451,hotel_417,Double bed,"Der aktuelle Preis beträgt 580 €.580 €"
-price_454,hotel_418,Double bed,"Der aktuelle Preis beträgt 732 €.732 €"
-price_457,hotel_419,Double bed,"Der aktuelle Preis beträgt 901 €.901 €"
-price_460,hotel_420,Double bed,"Der aktuelle Preis beträgt 1.184 €.1.184 €"
-price_463,hotel_421,Double bed,"Der aktuelle Preis beträgt 701 €.701 €"
-price_466,hotel_422,Double bed,"Der aktuelle Preis beträgt 671 €.671 €"
-price_469,hotel_423,Double bed,"Der aktuelle Preis beträgt 632 €.632 €"
-price_472,hotel_424,Double bed,"Der aktuelle Preis beträgt 729 €.729 €"
-price_475,hotel_425,Double bed,"Der aktuelle Preis beträgt 616 €.616 €"
-price_478,hotel_426,Double bed,"Der aktuelle Preis beträgt 612 €.612 €"
-price_481,hotel_427,Double bed,"Der aktuelle Preis beträgt 901 €.901 €"
-price_484,hotel_428,Double bed,"Der aktuelle Preis beträgt 620 €.620 €"
-price_487,hotel_429,Double bed,"Der aktuelle Preis beträgt 1.013 €.1.013 €"
-price_490,hotel_430,Double bed,"Der aktuelle Preis beträgt 802 €.802 €"
-price_493,hotel_431,Double bed,"Der aktuelle Preis beträgt 501 €.501 €"
-price_499,hotel_433,Double bed,"Der aktuelle Preis beträgt 664 €.664 €"
-price_502,hotel_434,Double bed,"Der aktuelle Preis beträgt 596 €.596 €"
-price_505,hotel_435,Double bed,"Der aktuelle Preis beträgt 752 €.752 €"
-price_508,hotel_436,Double bed,"Der aktuelle Preis beträgt 672 €.672 €"
-price_511,hotel_437,Double bed,"Der aktuelle Preis beträgt 417 €.417 €"
-price_514,hotel_438,Double bed,"Der aktuelle Preis beträgt 537 €.537 €"
-price_517,hotel_439,Double bed,"Der aktuelle Preis beträgt 455 €.455 €"
-price_520,hotel_440,Double bed,"Der aktuelle Preis beträgt 601 €.601 €"
-price_523,hotel_441,Double bed,"Der aktuelle Preis beträgt 881 €.881 €"
-price_526,hotel_442,Double bed,"Der aktuelle Preis beträgt 697 €.697 €"
-price_529,hotel_443,Double bed,"Der aktuelle Preis beträgt 772 €.772 €"
-price_532,hotel_444,Double bed,"Der aktuelle Preis beträgt 938 €.938 €"
-price_535,hotel_445,Double bed,"Der aktuelle Preis beträgt 835 €.835 €"
-price_538,hotel_446,Double bed,"Der aktuelle Preis beträgt 649 €.649 €"
-price_541,hotel_447,Double bed,"Der aktuelle Preis beträgt 602 €.602 €"
-price_544,hotel_448,Double bed,"Der aktuelle Preis beträgt 774 €.774 €"
-price_547,hotel_449,Double bed,"Der aktuelle Preis beträgt 753 €.753 €"
-price_550,hotel_450,Double bed,"Der aktuelle Preis beträgt 741 €.741 €"
-price_553,hotel_451,Double bed,"Der aktuelle Preis beträgt 978 €.978 €"
-price_556,hotel_452,Double bed,"Der aktuelle Preis beträgt 1.063 €.1.063 €"
-price_559,hotel_453,Double bed,"Der aktuelle Preis beträgt 806 €.806 €"
-price_562,hotel_454,Double bed,"Der aktuelle Preis beträgt 761 €.761 €"
-price_565,hotel_455,Double bed,"Der aktuelle Preis beträgt 680 €.680 €"
-price_568,hotel_456,Double bed,"Der aktuelle Preis beträgt 829 €.829 €"
-price_571,hotel_457,Double bed,"Der aktuelle Preis beträgt 621 €.621 €"
-price_574,hotel_458,Double bed,"Der aktuelle Preis beträgt 838 €.838 €"
-price_577,hotel_459,Double bed,"Der aktuelle Preis beträgt 813 €.813 €"
-price_580,hotel_460,Double bed,"Der aktuelle Preis beträgt 730 €.730 €"
-price_583,hotel_461,Double bed,"Der aktuelle Preis beträgt 1.053 €.1.053 €"
-price_586,hotel_462,Double bed,"Der aktuelle Preis beträgt 995 €.995 €"
-price_589,hotel_463,Double bed,"Der aktuelle Preis beträgt 1.090 €.1.090 €"
-price_592,hotel_464,Double bed,"Der aktuelle Preis beträgt 706 €.706 €"
-price_595,hotel_465,Double bed,"Der aktuelle Preis beträgt 871 €.871 €"
-price_598,hotel_466,Double bed,"Der aktuelle Preis beträgt 712 €.712 €"
-price_601,hotel_467,Double bed,"Der aktuelle Preis beträgt 1.215 €.1.215 €"
-price_604,hotel_468,Double bed,"Der aktuelle Preis beträgt 383 €.383 €"
-price_607,hotel_469,Double bed,"Der aktuelle Preis beträgt 1.063 €.1.063 €"
-price_610,hotel_470,Double bed,"Der aktuelle Preis beträgt 549 €.549 €"
-price_613,hotel_471,Double bed,"Der aktuelle Preis beträgt 939 €.939 €"
-price_616,hotel_472,Double bed,"Der aktuelle Preis beträgt 868 €.868 €"
-price_619,hotel_473,Double bed,"Der aktuelle Preis beträgt 648 €.648 €"
-price_622,hotel_474,Double bed,"Der aktuelle Preis beträgt 840 €.840 €"
-price_625,hotel_475,Double bed,"Der aktuelle Preis beträgt 901 €.901 €"
-price_628,hotel_476,Double bed,"Der aktuelle Preis beträgt 1.300 €.1.300 €"
-price_631,hotel_477,Double bed,"Der aktuelle Preis beträgt 491 €.491 €"
-price_634,hotel_478,Double bed,"Der aktuelle Preis beträgt 677 €.677 €"
-price_637,hotel_479,Double bed,"Der aktuelle Preis beträgt 1.036 €.1.036 €"
-price_640,hotel_480,Double bed,"Der aktuelle Preis beträgt 900 €.900 €"
-price_643,hotel_481,Double bed,"Der aktuelle Preis beträgt 748 €.748 €"
-price_646,hotel_482,Double bed,"Der aktuelle Preis beträgt 640 €.640 €"
-price_649,hotel_483,Double bed,"Der aktuelle Preis beträgt 604 €.604 €"
-price_652,hotel_484,Double bed,"Der aktuelle Preis beträgt 836 €.836 €"
-price_655,hotel_485,Double bed,"Der aktuelle Preis beträgt 967 €.967 €"
-price_658,hotel_486,Double bed,"Der aktuelle Preis beträgt 859 €.859 €"
-price_661,hotel_487,Double bed,"Der aktuelle Preis beträgt 751 €.751 €"
-price_664,hotel_488,Double bed,"Der aktuelle Preis beträgt 855 €.855 €"
-price_667,hotel_489,Double bed,"Der aktuelle Preis beträgt 696 €.696 €"
-price_670,hotel_490,Double bed,"Der aktuelle Preis beträgt 1.060 €.1.060 €"
-price_673,hotel_491,Double bed,"Der aktuelle Preis beträgt 591 €.591 €"
-price_676,hotel_492,Double bed,"Der aktuelle Preis beträgt 811 €.811 €"
-price_679,hotel_493,Double bed,"Der aktuelle Preis beträgt 791 €.791 €"
-price_682,hotel_494,Double bed,"Der aktuelle Preis beträgt 811 €.811 €"
-price_685,hotel_495,Double bed,"Der aktuelle Preis beträgt 839 €.839 €"
-price_688,hotel_496,Double bed,"Der aktuelle Preis beträgt 837 €.837 €"
-price_691,hotel_497,Double bed,"Der aktuelle Preis beträgt 846 €.846 €"
-price_694,hotel_498,Double bed,"Der aktuelle Preis beträgt 771 €.771 €"
-price_697,hotel_499,Double bed,"Der aktuelle Preis beträgt 931 €.931 €"
-price_700,hotel_500,Double bed,"Der aktuelle Preis beträgt 752 €.752 €"
-price_703,hotel_501,Double bed,"Der aktuelle Preis beträgt 874 €.874 €"
-price_706,hotel_502,Double bed,"Der aktuelle Preis beträgt 755 €.755 €"
-price_503,hotel_503,Double bed,"Der aktuelle Preis beträgt 174 €.174 €"
-price_506,hotel_504,Double bed,"Der aktuelle Preis beträgt 313 €.313 €"
-price_509,hotel_505,Double bed,"Der aktuelle Preis beträgt 110 €.110 €"
-price_512,hotel_506,Double bed,"Der aktuelle Preis beträgt 174 €.174 €"
-price_515,hotel_507,Double bed,"Der aktuelle Preis beträgt 313 €.313 €"
-price_518,hotel_508,Double bed,"Der aktuelle Preis beträgt 150 €.150 €"
-price_521,hotel_509,Double bed,"Der aktuelle Preis beträgt 203 €.203 €"
-price_524,hotel_510,Double bed,"Der aktuelle Preis beträgt 138 €.138 €"
-price_527,hotel_511,Double bed,"Der aktuelle Preis beträgt 233 €.233 €"
-price_530,hotel_512,Double bed,"Der aktuelle Preis beträgt 181 €.181 €"
-price_533,hotel_513,Double bed,"Der aktuelle Preis beträgt 111 €.111 €"
-price_539,hotel_515,Double bed,"Der aktuelle Preis beträgt 250 €.250 €"
-price_542,hotel_516,Double bed,"Der aktuelle Preis beträgt 254 €.254 €"
-price_545,hotel_517,Double bed,"Der aktuelle Preis beträgt 325 €.325 €"
-price_551,hotel_519,Double bed,"Der aktuelle Preis beträgt 147 €.147 €"
-price_554,hotel_520,Double bed,"Der aktuelle Preis beträgt 163 €.163 €"
-price_557,hotel_521,Double bed,"Der aktuelle Preis beträgt 115 €.115 €"
-price_560,hotel_522,Double bed,"Der aktuelle Preis beträgt 106 €.106 €"
-price_563,hotel_523,Double bed,"Der aktuelle Preis beträgt 373 €.373 €"
-price_566,hotel_524,Double bed,"Der aktuelle Preis beträgt 101 €.101 €"
-price_569,hotel_525,Double bed,"Der aktuelle Preis beträgt 172 €.172 €"
-price_572,hotel_526,Double bed,"Der aktuelle Preis beträgt 165 €.165 €"
-price_575,hotel_527,Double bed,"Der aktuelle Preis beträgt 117 €.117 €"
-price_578,hotel_528,Double bed,"Der aktuelle Preis beträgt 123 €.123 €"
-price_581,hotel_529,Double bed,"Der aktuelle Preis beträgt 120 €.120 €"
-price_584,hotel_530,Double bed,"Der aktuelle Preis beträgt 295 €.295 €"
-price_587,hotel_531,Double bed,"Der aktuelle Preis beträgt 226 €.226 €"
-price_590,hotel_532,Double bed,"Der aktuelle Preis beträgt 199 €.199 €"
-price_593,hotel_533,Double bed,"Der aktuelle Preis beträgt 200 €.200 €"
-price_596,hotel_534,Double bed,"Der aktuelle Preis beträgt 184 €.184 €"
-price_602,hotel_536,Double bed,"Der aktuelle Preis beträgt 220 €.220 €"
-price_605,hotel_537,Double bed,"Der aktuelle Preis beträgt 141 €.141 €"
-price_608,hotel_538,Double bed,"Der aktuelle Preis beträgt 199 €.199 €"
-price_611,hotel_539,Double bed,"Der aktuelle Preis beträgt 135 €.135 €"
-price_614,hotel_540,Double bed,"Der aktuelle Preis beträgt 237 €.237 €"
-price_617,hotel_541,Double bed,"Der aktuelle Preis beträgt 224 €.224 €"
-price_620,hotel_542,Double bed,"Der aktuelle Preis beträgt 176 €.176 €"
-price_623,hotel_543,Double bed,"Der aktuelle Preis beträgt 204 €.204 €"
-price_626,hotel_544,Double bed,"Der aktuelle Preis beträgt 132 €.132 €"
-price_629,hotel_545,Double bed,"Der aktuelle Preis beträgt 150 €.150 €"
-price_632,hotel_546,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_635,hotel_547,Double bed,"Der aktuelle Preis beträgt 209 €.209 €"
-price_638,hotel_548,Double bed,"Der aktuelle Preis beträgt 240 €.240 €"
-price_641,hotel_549,Double bed,"Der aktuelle Preis beträgt 154 €.154 €"
-price_644,hotel_550,Double bed,"Der aktuelle Preis beträgt 244 €.244 €"
-price_647,hotel_551,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_650,hotel_552,Double bed,"Der aktuelle Preis beträgt 161 €.161 €"
-price_653,hotel_553,Double bed,"Der aktuelle Preis beträgt 139 €.139 €"
-price_656,hotel_554,Double bed,"Der aktuelle Preis beträgt 210 €.210 €"
-price_659,hotel_555,Double bed,"Der aktuelle Preis beträgt 430 €.430 €"
-price_662,hotel_556,Double bed,"Der aktuelle Preis beträgt 181 €.181 €"
-price_665,hotel_557,Double bed,"Der aktuelle Preis beträgt 184 €.184 €"
-price_668,hotel_558,Double bed,"Der aktuelle Preis beträgt 164 €.164 €"
-price_671,hotel_559,Double bed,"Der aktuelle Preis beträgt 144 €.144 €"
-price_674,hotel_560,Double bed,"Der aktuelle Preis beträgt 178 €.178 €"
-price_677,hotel_561,Double bed,"Der aktuelle Preis beträgt 180 €.180 €"
-price_680,hotel_562,Double bed,"Der aktuelle Preis beträgt 219 €.219 €"
-price_683,hotel_563,Double bed,"Der aktuelle Preis beträgt 467 €.467 €"
-price_686,hotel_564,Double bed,"Der aktuelle Preis beträgt 364 €.364 €"
-price_689,hotel_565,Double bed,"Der aktuelle Preis beträgt 172 €.172 €"
-price_692,hotel_566,Double bed,"Der aktuelle Preis beträgt 112 €.112 €"
-price_695,hotel_567,Double bed,"Der aktuelle Preis beträgt 244 €.244 €"
-price_698,hotel_568,Double bed,"Der aktuelle Preis beträgt 172 €.172 €"
-price_701,hotel_569,Double bed,"Der aktuelle Preis beträgt 173 €.173 €"
-price_704,hotel_570,Double bed,"Der aktuelle Preis beträgt 155 €.155 €"
-price_707,hotel_571,Double bed,"Der aktuelle Preis beträgt 269 €.269 €"
-price_710,hotel_572,Double bed,"Der aktuelle Preis beträgt 127 €.127 €"
-price_713,hotel_573,Double bed,"Der aktuelle Preis beträgt 110 €.110 €"
-price_716,hotel_574,Double bed,"Der aktuelle Preis beträgt 350 €.350 €"
-price_719,hotel_575,Double bed,"Der aktuelle Preis beträgt 130 €.130 €"
-price_722,hotel_576,Double bed,"Der aktuelle Preis beträgt 143 €.143 €"
-price_725,hotel_577,Double bed,"Der aktuelle Preis beträgt 280 €.280 €"
-price_728,hotel_578,Double bed,"Der aktuelle Preis beträgt 167 €.167 €"
-price_731,hotel_579,Double bed,"Der aktuelle Preis beträgt 204 €.204 €"
-price_734,hotel_580,Double bed,"Der aktuelle Preis beträgt 133 €.133 €"
-price_737,hotel_581,Double bed,"Der aktuelle Preis beträgt 188 €.188 €"
-price_740,hotel_582,Double bed,"Der aktuelle Preis beträgt 192 €.192 €"
-price_743,hotel_583,Double bed,"Der aktuelle Preis beträgt 328 €.328 €"
-price_746,hotel_584,Double bed,"Der aktuelle Preis beträgt 199 €.199 €"
-price_749,hotel_585,Double bed,"Der aktuelle Preis beträgt 191 €.191 €"
-price_752,hotel_586,Double bed,"Der aktuelle Preis beträgt 138 €.138 €"
-price_755,hotel_587,Double bed,"Der aktuelle Preis beträgt 64 €.64 €"
-price_758,hotel_588,Double bed,"Der aktuelle Preis beträgt 92 €.92 €"
-price_761,hotel_589,Double bed,"Der aktuelle Preis beträgt 185 €.185 €"
-price_764,hotel_590,Double bed,"Der aktuelle Preis beträgt 217 €.217 €"
-price_767,hotel_591,Double bed,"Der aktuelle Preis beträgt 130 €.130 €"
-price_770,hotel_592,Double bed,"Der aktuelle Preis beträgt 134 €.134 €"
-price_773,hotel_593,Double bed,"Der aktuelle Preis beträgt 185 €.185 €"
-price_776,hotel_594,Double bed,"Der aktuelle Preis beträgt 128 €.128 €"
-price_779,hotel_595,Double bed,"Der aktuelle Preis beträgt 231 €.231 €"
-price_782,hotel_596,Double bed,"Der aktuelle Preis beträgt 237 €.237 €"
-price_785,hotel_597,Double bed,"Der aktuelle Preis beträgt 98 €.98 €"
-price_788,hotel_598,Double bed,"Der aktuelle Preis beträgt 155 €.155 €"
-price_791,hotel_599,Double bed,"Der aktuelle Preis beträgt 275 €.275 €"
-price_794,hotel_600,Double bed,"Der aktuelle Preis beträgt 202 €202 €"
-price_797,hotel_601,Double bed,"Der aktuelle Preis beträgt 373 €.373 €"
-price_800,hotel_602,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_803,hotel_603,Double bed,"Der aktuelle Preis beträgt 265 €.265 €"
-price_806,hotel_604,Double bed,"Der aktuelle Preis beträgt 229 €.229 €"
-price_809,hotel_605,Double bed,"Der aktuelle Preis beträgt 138 €.138 €"
-price_606,hotel_606,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_609,hotel_607,Double bed,"Der aktuelle Preis beträgt 131 €.131 €"
-price_612,hotel_608,Double bed,"Der aktuelle Preis beträgt 148 €.148 €"
-price_615,hotel_609,Double bed,"Der aktuelle Preis beträgt 125 €.125 €"
-price_618,hotel_610,Double bed,"Der aktuelle Preis beträgt 79 €.79 €"
-price_621,hotel_611,Double bed,"Der aktuelle Preis beträgt 212 €.212 €"
-price_624,hotel_612,Double bed,"Der aktuelle Preis beträgt 143 €.143 €"
-price_627,hotel_613,Double bed,"Der aktuelle Preis beträgt 191 €.191 €"
-price_630,hotel_614,Double bed,"Der aktuelle Preis beträgt 44 €.44 €"
-price_633,hotel_615,Double bed,"Der aktuelle Preis beträgt 238 €.238 €"
-price_636,hotel_616,Double bed,"Der aktuelle Preis beträgt 106 €.106 €"
-price_642,hotel_618,Double bed,"Der aktuelle Preis beträgt 312 €.312 €"
-price_645,hotel_619,Double bed,"Der aktuelle Preis beträgt 144 €.144 €"
-price_648,hotel_620,Double bed,"Der aktuelle Preis beträgt 58 €.58 €"
-price_654,hotel_622,Double bed,"Der aktuelle Preis beträgt 104 €.104 €"
-price_657,hotel_623,Double bed,"Der aktuelle Preis beträgt 63 €.63 €"
-price_660,hotel_624,Double bed,"Der aktuelle Preis beträgt 94 €.94 €"
-price_663,hotel_625,Double bed,"Der aktuelle Preis beträgt 61 €.61 €"
-price_666,hotel_626,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_669,hotel_627,Double bed,"Der aktuelle Preis beträgt 143 €.143 €"
-price_672,hotel_628,Double bed,"Der aktuelle Preis beträgt 189 €.189 €"
-price_675,hotel_629,Double bed,"Der aktuelle Preis beträgt 179 €.179 €"
-price_678,hotel_630,Double bed,"Der aktuelle Preis beträgt 117 €.117 €"
-price_681,hotel_631,Double bed,"Der aktuelle Preis beträgt 35 €.35 €"
-price_684,hotel_632,Double bed,"Der aktuelle Preis beträgt 113 €.113 €"
-price_687,hotel_633,Double bed,"Der aktuelle Preis beträgt 194 €.194 €"
-price_690,hotel_634,Double bed,"Der aktuelle Preis beträgt 103 €.103 €"
-price_693,hotel_635,Double bed,"Der aktuelle Preis beträgt 165 €.165 €"
-price_696,hotel_636,Double bed,"Der aktuelle Preis beträgt 276 €.276 €"
-price_699,hotel_637,Double bed,"Der aktuelle Preis beträgt 69 €.69 €"
-price_705,hotel_639,Double bed,"Der aktuelle Preis beträgt 107 €.107 €"
-price_708,hotel_640,Double bed,"Der aktuelle Preis beträgt 78 €.78 €"
-price_711,hotel_641,Double bed,"Der aktuelle Preis beträgt 107 €.107 €"
-price_714,hotel_642,Double bed,"Der aktuelle Preis beträgt 93 €.93 €"
-price_717,hotel_643,Double bed,"Der aktuelle Preis beträgt 134 €.134 €"
-price_720,hotel_644,Double bed,"Der aktuelle Preis beträgt 133 €.133 €"
-price_723,hotel_645,Double bed,"Der aktuelle Preis beträgt 204 €.204 €"
-price_726,hotel_646,Double bed,"Der aktuelle Preis beträgt 61 €.61 €"
-price_729,hotel_647,Double bed,"Der aktuelle Preis beträgt 179 €.179 €"
-price_732,hotel_648,Double bed,"Der aktuelle Preis beträgt 109 €.109 €"
-price_735,hotel_649,Double bed,"Der aktuelle Preis beträgt 131 €.131 €"
-price_738,hotel_650,Double bed,"Der aktuelle Preis beträgt 156 €.156 €"
-price_741,hotel_651,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_744,hotel_652,Double bed,"Der aktuelle Preis beträgt 145 €145 €"
-price_747,hotel_653,Double bed,"Der aktuelle Preis beträgt 60 €.60 €"
-price_750,hotel_654,Double bed,"Der aktuelle Preis beträgt 215 €.215 €"
-price_753,hotel_655,Double bed,"Der aktuelle Preis beträgt 47 €.47 €"
-price_756,hotel_656,Double bed,"Der aktuelle Preis beträgt 174 €.174 €"
-price_759,hotel_657,Double bed,"Der aktuelle Preis beträgt 150 €.150 €"
-price_762,hotel_658,Double bed,"Der aktuelle Preis beträgt 131 €.131 €"
-price_765,hotel_659,Double bed,"Der aktuelle Preis beträgt 141 €.141 €"
-price_768,hotel_660,Double bed,"Der aktuelle Preis beträgt 108 €.108 €"
-price_771,hotel_661,Double bed,"Der aktuelle Preis beträgt 128 €.128 €"
-price_774,hotel_662,Double bed,"Der aktuelle Preis beträgt 237 €.237 €"
-price_777,hotel_663,Double bed,"Der aktuelle Preis beträgt 100 €.100 €"
-price_780,hotel_664,Double bed,"Der aktuelle Preis beträgt 167 €.167 €"
-price_783,hotel_665,Double bed,"Der aktuelle Preis beträgt 121 €.121 €"
-price_786,hotel_666,Double bed,"Der aktuelle Preis beträgt 227 €.227 €"
-price_789,hotel_667,Double bed,"Der aktuelle Preis beträgt 60 €.60 €"
-price_792,hotel_668,Double bed,"Der aktuelle Preis beträgt 120 €.120 €"
-price_795,hotel_669,Double bed,"Der aktuelle Preis beträgt 192 €.192 €"
-price_798,hotel_670,Double bed,"Der aktuelle Preis beträgt 163 €.163 €"
-price_801,hotel_671,Double bed,"Der aktuelle Preis beträgt 70 €.70 €"
-price_804,hotel_672,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_807,hotel_673,Double bed,"Der aktuelle Preis beträgt 68 €.68 €"
-price_810,hotel_674,Double bed,"Der aktuelle Preis beträgt 208 €.208 €"
-price_813,hotel_675,Double bed,"Der aktuelle Preis beträgt 163 €.163 €"
-price_816,hotel_676,Double bed,"Der aktuelle Preis beträgt 314 €.314 €"
-price_819,hotel_677,Double bed,"Der aktuelle Preis beträgt 131 €.131 €"
-price_822,hotel_678,Double bed,"Der aktuelle Preis beträgt 128 €.128 €"
-price_825,hotel_679,Double bed,"Der aktuelle Preis beträgt 70 €.70€"
-price_828,hotel_680,Double bed,"Der aktuelle Preis beträgt 134 €.134 €"
-price_831,hotel_681,Double bed,"Der aktuelle Preis beträgt 100 €.100 €"
-price_834,hotel_682,Double bed,"Der aktuelle Preis beträgt 129 €129 €"
-price_837,hotel_683,Double bed,"Der aktuelle Preis beträgt 161 €.161 €"
-price_840,hotel_684,Double bed,"Der aktuelle Preis beträgt 122 €.122 €"
-price_843,hotel_685,Double bed,"Der aktuelle Preis beträgt 116 €.116 €"
-price_846,hotel_686,Double bed,"Der aktuelle Preis beträgt 63 €.63 €"
-price_849,hotel_687,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_852,hotel_688,Double bed,"Der aktuelle Preis beträgt 220 €.220 €"
-price_855,hotel_689,Double bed,"Der aktuelle Preis beträgt 160 €.160 €"
-price_858,hotel_690,Double bed,"Der aktuelle Preis beträgt 89 €.89 €"
-price_861,hotel_691,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_864,hotel_692,Double bed,"Der aktuelle Preis beträgt 61 €.61 €"
-price_867,hotel_693,Double bed,"Der aktuelle Preis beträgt 124 €.124 €"
-price_870,hotel_694,Double bed,"Der aktuelle Preis beträgt 79 €.79 €"
-price_873,hotel_695,Double bed,"Der aktuelle Preis beträgt 677 €.677 €"
-price_876,hotel_696,Double bed,"Der aktuelle Preis beträgt 483 €.483 €"
-price_879,hotel_697,Double bed,"Der aktuelle Preis beträgt 249 €.249 €"
-price_882,hotel_698,Double bed,"Der aktuelle Preis beträgt 693 €.693 €"
-price_885,hotel_699,Double bed,"Der aktuelle Preis beträgt 153 €.153 €"
-price_888,hotel_700,Double bed,"Der aktuelle Preis beträgt 426 €.426 €"
-price_891,hotel_701,Double bed,"Der aktuelle Preis beträgt 99 €.99 €"
-price_894,hotel_702,Double bed,"Der aktuelle Preis beträgt 172 €.172 €"
-price_897,hotel_703,Double bed,"Der aktuelle Preis beträgt 294 €.294 €"
-price_900,hotel_704,Double bed,"Der aktuelle Preis beträgt 131 €.131 €"
-price_903,hotel_705,Double bed,"Der aktuelle Preis beträgt 156 €.156 €"
-price_906,hotel_706,Double bed,"Der aktuelle Preis beträgt 223 €.223 €"
-price_909,hotel_707,Double bed,"Der aktuelle Preis beträgt 424 €.424 €"
-price_912,hotel_708,Double bed,"Der aktuelle Preis beträgt 179 €.179 €"
-price_709,hotel_709,Double bed,"Der aktuelle Preis beträgt 145 €.145 €"
-price_712,hotel_710,Double bed,"Der aktuelle Preis beträgt 91 €.91 €"
-price_715,hotel_711,Double bed,"Der aktuelle Preis beträgt 68 €.68 €"
-price_718,hotel_712,Double bed,"Der aktuelle Preis beträgt 98 €.98 €"
-price_721,hotel_713,Double bed,"Der aktuelle Preis beträgt 69 €.69 €"
-price_724,hotel_714,Double bed,"Der aktuelle Preis beträgt 151 €.151 €"
-price_727,hotel_715,Double bed,"Der aktuelle Preis beträgt 120 €.120 €"
-price_730,hotel_716,Double bed,"Der aktuelle Preis beträgt 66 €.66 €"
-price_733,hotel_717,Double bed,"Der aktuelle Preis beträgt 70 €.70 €"
-price_736,hotel_718,Double bed,"Der aktuelle Preis beträgt 127 €.127 €"
-price_739,hotel_719,Double bed,"Der aktuelle Preis beträgt 121 €.121 €"
-price_745,hotel_721,Double bed,"Der aktuelle Preis beträgt 172 €.172 €"
-price_748,hotel_722,Double bed,"Der aktuelle Preis beträgt 136 €.136 €"
-price_751,hotel_723,Double bed,"Der aktuelle Preis beträgt 162 €.162 €"
-price_757,hotel_725,Double bed,"Der aktuelle Preis beträgt 261 €.261 €"
-price_760,hotel_726,Double bed,"Der aktuelle Preis beträgt 178 €.178 €"
-price_763,hotel_727,Double bed,"Der aktuelle Preis beträgt 238 €.238 €"
-price_766,hotel_728,Double bed,"Der aktuelle Preis beträgt 140 €.140 €"
-price_769,hotel_729,Double bed,"Der aktuelle Preis beträgt 196 €.196 €"
-price_778,hotel_732,Double bed,"Der aktuelle Preis beträgt 96 €.96 €"
-price_781,hotel_733,Double bed,"Der aktuelle Preis beträgt 136 €.136 €"
-price_784,hotel_734,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_787,hotel_735,Double bed,"Der aktuelle Preis beträgt 426 €.426 €"
-price_790,hotel_736,Double bed,"Der aktuelle Preis beträgt 96 €.96 €"
-price_793,hotel_737,Double bed,"Der aktuelle Preis beträgt 149 €.149 €"
-price_796,hotel_738,Double bed,"Der aktuelle Preis beträgt 136 €.136 €"
-price_799,hotel_739,Double bed,"Der aktuelle Preis beträgt 161 €.161 €"
-price_802,hotel_740,Double bed,"Der aktuelle Preis beträgt 96 €.96 €"
-price_805,hotel_741,Double bed,"Der aktuelle Preis beträgt 251 €.251 €"
-price_808,hotel_742,Double bed,"Der aktuelle Preis beträgt 136 €.136 €"
-price_814,hotel_744,Double bed,"Der aktuelle Preis beträgt 161 €.161 €"
-price_817,hotel_745,Double bed,"Der aktuelle Preis beträgt 106 €.106 €"
-price_820,hotel_746,Double bed,"Der aktuelle Preis beträgt 181 €.181 €"
-price_823,hotel_747,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_826,hotel_748,Double bed,"Der aktuelle Preis beträgt 261 €.261 €"
-price_829,hotel_749,Double bed,"Der aktuelle Preis beträgt 96 €.96 €"
-price_832,hotel_750,Double bed,"Der aktuelle Preis beträgt 426 €.426 €"
-price_835,hotel_751,Double bed,"Der aktuelle Preis beträgt 296 €.296 €"
-price_752,hotel_752,Double bed,"Der aktuelle Preis beträgt 435 €.435 €"
-price_755,hotel_753,Double bed,"Der aktuelle Preis beträgt 720 €.720 €"
-price_758,hotel_754,Double bed,"Der aktuelle Preis beträgt 288 €.288 €"
-price_761,hotel_755,Double bed,"Der aktuelle Preis beträgt 211 €.211 €"
-price_764,hotel_756,Double bed,"Der aktuelle Preis beträgt 145 €.145 €"
-price_767,hotel_757,Double bed,"Der aktuelle Preis beträgt 940 €.940 €"
-price_770,hotel_758,Double bed,"Der aktuelle Preis beträgt 376 €.376 €"
-price_773,hotel_759,Double bed,"Der aktuelle Preis beträgt 299 €.299 €"
-price_776,hotel_760,Double bed,"Der aktuelle Preis beträgt 122 €.122 €"
-price_779,hotel_761,Double bed,"Der aktuelle Preis beträgt 525 €.525 €"
-price_782,hotel_762,Double bed,"Der aktuelle Preis beträgt 243 €.243 €"
-price_788,hotel_764,Double bed,"Der aktuelle Preis beträgt 264 €.264 €"
-price_791,hotel_765,Double bed,"Der aktuelle Preis beträgt 201 €.201 €"
-price_794,hotel_766,Double bed,"Der aktuelle Preis beträgt 209 €.209 €"
-price_800,hotel_768,Double bed,"Der aktuelle Preis beträgt 230 €.230 €"
-price_803,hotel_769,Double bed,"Der aktuelle Preis beträgt 238 €.238 €"
-price_806,hotel_770,Double bed,"Der aktuelle Preis beträgt 171 €.171 €"
-price_809,hotel_771,Double bed,"Der aktuelle Preis beträgt 233 €.233 €"
-price_812,hotel_772,Double bed,"Der aktuelle Preis beträgt 392 €.392 €"
-price_815,hotel_773,Double bed,"Der aktuelle Preis beträgt 122 €.122 €"
-price_818,hotel_774,Double bed,"Der aktuelle Preis beträgt 276 €.276 €"
-price_821,hotel_775,Double bed,"Der aktuelle Preis beträgt 266 €.266 €"
-price_824,hotel_776,Double bed,"Der aktuelle Preis beträgt 220 €.220 €"
-price_827,hotel_777,Double bed,"Der aktuelle Preis beträgt 189 €.189 €"
-price_830,hotel_778,Double bed,"Der aktuelle Preis beträgt 266 €.266 €"
-price_833,hotel_779,Double bed,"Der aktuelle Preis beträgt 152 €.152 €"
-price_836,hotel_780,Double bed,"Der aktuelle Preis beträgt 150 €.150 €"
-price_839,hotel_781,Double bed,"Der aktuelle Preis beträgt 780 €.780 €"
-price_842,hotel_782,Double bed,"Der aktuelle Preis beträgt 497 €.497 €"
-price_845,hotel_783,Double bed,"Der aktuelle Preis beträgt 260 €.260 €"
-price_851,hotel_785,Double bed,"Der aktuelle Preis beträgt 270 €.270 €"
-price_854,hotel_786,Double bed,"Der aktuelle Preis beträgt 180 €.180 €"
-price_857,hotel_787,Double bed,"Der aktuelle Preis beträgt 536 €.536 €"
-price_860,hotel_788,Double bed,"Der aktuelle Preis beträgt 215 €.215 €"
-price_863,hotel_789,Double bed,"Der aktuelle Preis beträgt 234 €.234 €"
-price_866,hotel_790,Double bed,"Der aktuelle Preis beträgt 437 €.437 €"
-price_869,hotel_791,Double bed,"Der aktuelle Preis beträgt 420 €.420 €"
-price_872,hotel_792,Double bed,"Der aktuelle Preis beträgt 338 €.338 €"
-price_875,hotel_793,Double bed,"Der aktuelle Preis beträgt 225 €.225 €"
-price_878,hotel_794,Double bed,"Der aktuelle Preis beträgt 199 €.199 €"
-price_881,hotel_795,Double bed,"Der aktuelle Preis beträgt 140 €.140 €"
-price_884,hotel_796,Double bed,"Der aktuelle Preis beträgt 338 €.338 €"
-price_887,hotel_797,Double bed,"Der aktuelle Preis beträgt 270 €.270 €"
-price_890,hotel_798,Double bed,"Der aktuelle Preis beträgt 338 €.338 €"
-price_893,hotel_799,Double bed,"Der aktuelle Preis beträgt 176 €.176 €"
-price_896,hotel_800,Double bed,"Der aktuelle Preis beträgt 578 €.578 €"
-price_899,hotel_801,Double bed,"Der aktuelle Preis beträgt 150 €.150 €"
-price_902,hotel_802,Double bed,"Der aktuelle Preis beträgt 220 €.220 €"
-price_905,hotel_803,Double bed,"Der aktuelle Preis beträgt 271 €.271 €"
-price_908,hotel_804,Double bed,"Der aktuelle Preis beträgt 345 €.345 €"
-price_911,hotel_805,Double bed,"Der aktuelle Preis beträgt 720 €.720 €"
-price_914,hotel_806,Double bed,"Der aktuelle Preis beträgt 216 €.216 €"
-price_917,hotel_807,Double bed,"Der aktuelle Preis beträgt 969 €.969 €"
-price_920,hotel_808,Double bed,"Der aktuelle Preis beträgt 228 €.228 €"
-price_923,hotel_809,Double bed,"Der aktuelle Preis beträgt 409 €.409 €"
-price_926,hotel_810,Double bed,"Der aktuelle Preis beträgt 185 €.185 €"
-price_929,hotel_811,Double bed,"Der aktuelle Preis beträgt 308 €.308 €"
-price_932,hotel_812,Double bed,"Der aktuelle Preis beträgt 356 €.356 €"
-price_935,hotel_813,Double bed,"Der aktuelle Preis beträgt 254 €.254 €"
-price_938,hotel_814,Double bed,"Der aktuelle Preis beträgt 447 €.447 €"
-price_941,hotel_815,Double bed,"Der aktuelle Preis beträgt 340 €.340 €"
-price_944,hotel_816,Double bed,"Der aktuelle Preis beträgt 233 €.233 €"
-price_947,hotel_817,Double bed,"Der aktuelle Preis beträgt 86 €.86 €"
-price_950,hotel_818,Double bed,"Der aktuelle Preis beträgt 281 €.281 €"
-price_953,hotel_819,Double bed,"Der aktuelle Preis beträgt 141 €.141 €"
-price_956,hotel_820,Double bed,"Der aktuelle Preis beträgt 330 €.330 €"
-price_959,hotel_821,Double bed,"Der aktuelle Preis beträgt 193 €.193 €"
-price_962,hotel_822,Double bed,"Der aktuelle Preis beträgt 409 €.409 €"
-price_965,hotel_823,Double bed,"Der aktuelle Preis beträgt 880 €.880 €"
-price_968,hotel_824,Double bed,"Der aktuelle Preis beträgt 309 €.309 €"
-price_971,hotel_825,Double bed,"Der aktuelle Preis beträgt 253 €.253 €"
-price_974,hotel_826,Double bed,"Der aktuelle Preis beträgt 178 €.178 €"
-price_977,hotel_827,Double bed,"Der aktuelle Preis beträgt 762 €.762 €"
-price_980,hotel_828,Double bed,"Der aktuelle Preis beträgt 174 €.174 €"
-price_983,hotel_829,Double bed,"Der aktuelle Preis beträgt 255 €.255 €"
-price_986,hotel_830,Double bed,"Der aktuelle Preis beträgt 200 €.200 €"
-price_989,hotel_831,Double bed,"Der aktuelle Preis beträgt 306 €.306 €"
-price_992,hotel_832,Double bed,"Der aktuelle Preis beträgt 179 €.179 €"
-price_995,hotel_833,Double bed,"Der aktuelle Preis beträgt 392 €.392 €"
-price_998,hotel_834,Double bed,"Der aktuelle Preis beträgt 237 €.237 €"
-price_1001,hotel_835,Double bed,"Der aktuelle Preis beträgt 474 €.474 €"
-price_1004,hotel_836,Double bed,"Der aktuelle Preis beträgt 230 €.230 €"
-price_1007,hotel_837,Double bed,"Der aktuelle Preis beträgt 170 €.170 €"
-price_1010,hotel_838,Double bed,"Der aktuelle Preis beträgt 95 €.95 €"
-price_1013,hotel_839,Double bed,"Der aktuelle Preis beträgt 296 €.296 €"
-price_1016,hotel_840,Double bed,"Der aktuelle Preis beträgt 336 €.336 €"
-price_1019,hotel_841,Double bed,"Der aktuelle Preis beträgt 310 €.310 €"
-price_1022,hotel_842,Double bed,"Der aktuelle Preis beträgt 164 €.164 €"
-price_1025,hotel_843,Double bed,"Der aktuelle Preis beträgt 341 €.341 €"
-price_1028,hotel_844,Double bed,"Der aktuelle Preis beträgt 1.210 €.1.210 €"
-price_1031,hotel_845,Double bed,"Der aktuelle Preis beträgt 270 €.270 €"
-price_1034,hotel_846,Double bed,"Der aktuelle Preis beträgt 275 €.275 €"
-price_1037,hotel_847,Double bed,"Der aktuelle Preis beträgt 127 €.127 €"
-price_1040,hotel_848,Double bed,"Der aktuelle Preis beträgt 198 €.198 €"
-price_1043,hotel_849,Double bed,"Der aktuelle Preis beträgt 340 €.340 €"
-price_1046,hotel_850,Double bed,"Der aktuelle Preis beträgt 304 €.304 €"
-price_1049,hotel_851,Double bed,"Der aktuelle Preis beträgt 346 €.346 €"
-price_1052,hotel_852,Double bed,"Der aktuelle Preis beträgt 376 €.376 €"
-price_1055,hotel_853,Double bed,"Der aktuelle Preis beträgt 495 €.495 €"
-price_1058,hotel_854,Double bed,"Der aktuelle Preis beträgt 280 €.280 €"
-
-
-
+price_id,hotel_id,room_type,price_per_night,total_price
+price_401,hotel_400,Double bed,168,3192
+price_403,hotel_401,Double bed,757,14383
+price_406,hotel_402,Double bed,737,14003
+price_409,hotel_403,Double bed,687,13053
+price_412,hotel_404,Double bed,397,7543
+price_415,hotel_405,Double bed,563,10697
+price_418,hotel_406,Double bed,663,12597
+price_421,hotel_407,Double bed,520,9880
+price_424,hotel_408,Double bed,618,11742
+price_427,hotel_409,Double bed,941,17879
+price_430,hotel_410,Double bed,671,12749
+price_436,hotel_412,Double bed,484,9196
+price_439,hotel_413,Double bed,490,9310
+price_442,hotel_414,Double bed,929,17651
+price_448,hotel_416,Double bed,550,10450
+price_451,hotel_417,Double bed,580,11020
+price_454,hotel_418,Double bed,732,13908
+price_457,hotel_419,Double bed,901,17119
+price_460,hotel_420,Double bed,184,3496
+price_463,hotel_421,Double bed,701,13319
+price_466,hotel_422,Double bed,671,12749
+price_469,hotel_423,Double bed,632,12008
+price_472,hotel_424,Double bed,729,13851
+price_475,hotel_425,Double bed,616,11704
+price_478,hotel_426,Double bed,612,11628
+price_481,hotel_427,Double bed,901,17119
+price_484,hotel_428,Double bed,620,11780
+price_487,hotel_429,Double bed,113,2147
+price_490,hotel_430,Double bed,802,15238
+price_493,hotel_431,Double bed,501,9519
+price_499,hotel_433,Double bed,664,12616
+price_502,hotel_434,Double bed,596,11324
+price_505,hotel_435,Double bed,752,14288
+price_508,hotel_436,Double bed,672,12768
+price_511,hotel_437,Double bed,417,7923
+price_514,hotel_438,Double bed,537,10203
+price_517,hotel_439,Double bed,455,8645
+price_520,hotel_440,Double bed,601,11419
+price_523,hotel_441,Double bed,881,16739
+price_526,hotel_442,Double bed,697,13243
+price_529,hotel_443,Double bed,772,14668
+price_532,hotel_444,Double bed,938,17822
+price_535,hotel_445,Double bed,835,15865
+price_538,hotel_446,Double bed,649,12331
+price_541,hotel_447,Double bed,602,11438
+price_544,hotel_448,Double bed,774,14706
+price_547,hotel_449,Double bed,753,14307
+price_550,hotel_450,Double bed,741,14079
+price_553,hotel_451,Double bed,978,18582
+price_556,hotel_452,Double bed,163,3097
+price_559,hotel_453,Double bed,806,15314
+price_562,hotel_454,Double bed,761,14459
+price_565,hotel_455,Double bed,680,12920
+price_568,hotel_456,Double bed,829,15751
+price_571,hotel_457,Double bed,621,11799
+price_574,hotel_458,Double bed,838,15922
+price_577,hotel_459,Double bed,813,15447
+price_580,hotel_460,Double bed,730,13870
+price_583,hotel_461,Double bed,153,2907
+price_586,hotel_462,Double bed,995,18905
+price_589,hotel_463,Double bed,190,3610
+price_592,hotel_464,Double bed,706,13414
+price_595,hotel_465,Double bed,871,16549
+price_598,hotel_466,Double bed,712,13528
+price_601,hotel_467,Double bed,1215,23085
+price_604,hotel_468,Double bed,383,7277
+price_607,hotel_469,Double bed,163,3097
+price_610,hotel_470,Double bed,549,10431
+price_613,hotel_471,Double bed,939,17841
+price_616,hotel_472,Double bed,868,16492
+price_619,hotel_473,Double bed,648,12312
+price_622,hotel_474,Double bed,840,15960
+price_625,hotel_475,Double bed,901,17119
+price_628,hotel_476,Double bed,1300,24700
+price_631,hotel_477,Double bed,491,9329
+price_634,hotel_478,Double bed,677,12863
+price_637,hotel_479,Double bed,136,2584
+price_640,hotel_480,Double bed,900,17100
+price_643,hotel_481,Double bed,748,14212
+price_646,hotel_482,Double bed,640,12160
+price_649,hotel_483,Double bed,604,11476
+price_652,hotel_484,Double bed,836,15884
+price_655,hotel_485,Double bed,967,18373
+price_658,hotel_486,Double bed,859,16321
+price_661,hotel_487,Double bed,751,14269
+price_664,hotel_488,Double bed,855,16245
+price_667,hotel_489,Double bed,696,13224
+price_670,hotel_490,Double bed,160,3040
+price_673,hotel_491,Double bed,591,11229
+price_676,hotel_492,Double bed,811,15409
+price_679,hotel_493,Double bed,791,15029
+price_682,hotel_494,Double bed,811,15409
+price_685,hotel_495,Double bed,839,15941
+price_688,hotel_496,Double bed,837,15903
+price_691,hotel_497,Double bed,846,16074
+price_694,hotel_498,Double bed,771,14649
+price_697,hotel_499,Double bed,931,17689
+price_700,hotel_500,Double bed,752,14288
+price_703,hotel_501,Double bed,874,16606
+price_706,hotel_502,Double bed,755,14345
+price_503,hotel_503,Double bed,174,3306
+price_506,hotel_504,Double bed,313,5947
+price_509,hotel_505,Double bed,110,2090
+price_512,hotel_506,Double bed,174,3306
+price_515,hotel_507,Double bed,313,5947
+price_518,hotel_508,Double bed,150,2850
+price_521,hotel_509,Double bed,203,3857
+price_524,hotel_510,Double bed,138,2622
+price_527,hotel_511,Double bed,233,4427
+price_530,hotel_512,Double bed,181,3439
+price_533,hotel_513,Double bed,111,2109
+price_539,hotel_515,Double bed,250,4750
+price_542,hotel_516,Double bed,254,4826
+price_545,hotel_517,Double bed,325,6175
+price_551,hotel_519,Double bed,147,2793
+price_554,hotel_520,Double bed,163,3097
+price_557,hotel_521,Double bed,115,2185
+price_560,hotel_522,Double bed,106,2014
+price_563,hotel_523,Double bed,373,7087
+price_566,hotel_524,Double bed,101,1919
+price_569,hotel_525,Double bed,172,3268
+price_572,hotel_526,Double bed,165,3135
+price_575,hotel_527,Double bed,117,2223
+price_578,hotel_528,Double bed,123,2337
+price_581,hotel_529,Double bed,120,2280
+price_584,hotel_530,Double bed,295,5605
+price_587,hotel_531,Double bed,226,4294
+price_590,hotel_532,Double bed,199,3781
+price_593,hotel_533,Double bed,200,3800
+price_596,hotel_534,Double bed,184,3496
+price_602,hotel_536,Double bed,220,4180
+price_605,hotel_537,Double bed,141,2679
+price_608,hotel_538,Double bed,199,3781
+price_611,hotel_539,Double bed,135,2565
+price_614,hotel_540,Double bed,237,4503
+price_617,hotel_541,Double bed,224,4256
+price_620,hotel_542,Double bed,176,3344
+price_623,hotel_543,Double bed,204,3876
+price_626,hotel_544,Double bed,132,2508
+price_629,hotel_545,Double bed,150,2850
+price_632,hotel_546,Double bed,162,3078
+price_635,hotel_547,Double bed,209,3971
+price_638,hotel_548,Double bed,240,4560
+price_641,hotel_549,Double bed,154,2926
+price_644,hotel_550,Double bed,244,4636
+price_647,hotel_551,Double bed,162,3078
+price_650,hotel_552,Double bed,161,3059
+price_653,hotel_553,Double bed,139,2641
+price_656,hotel_554,Double bed,210,3990
+price_659,hotel_555,Double bed,430,8170
+price_662,hotel_556,Double bed,181,3439
+price_665,hotel_557,Double bed,184,3496
+price_668,hotel_558,Double bed,164,3116
+price_671,hotel_559,Double bed,144,2736
+price_674,hotel_560,Double bed,178,3382
+price_677,hotel_561,Double bed,180,3420
+price_680,hotel_562,Double bed,219,4161
+price_683,hotel_563,Double bed,467,8873
+price_686,hotel_564,Double bed,364,6916
+price_689,hotel_565,Double bed,172,3268
+price_692,hotel_566,Double bed,112,2128
+price_695,hotel_567,Double bed,244,4636
+price_698,hotel_568,Double bed,172,3268
+price_701,hotel_569,Double bed,173,3287
+price_704,hotel_570,Double bed,155,2945
+price_707,hotel_571,Double bed,269,5111
+price_710,hotel_572,Double bed,127,2413
+price_713,hotel_573,Double bed,110,2090
+price_716,hotel_574,Double bed,350,6650
+price_719,hotel_575,Double bed,130,2470
+price_722,hotel_576,Double bed,143,2717
+price_725,hotel_577,Double bed,280,5320
+price_728,hotel_578,Double bed,167,3173
+price_731,hotel_579,Double bed,204,3876
+price_734,hotel_580,Double bed,133,2527
+price_737,hotel_581,Double bed,188,3572
+price_740,hotel_582,Double bed,192,3648
+price_743,hotel_583,Double bed,328,6232
+price_746,hotel_584,Double bed,199,3781
+price_749,hotel_585,Double bed,191,3629
+price_752,hotel_586,Double bed,138,2622
+price_755,hotel_587,Double bed,64,1216
+price_758,hotel_588,Double bed,92,1748
+price_761,hotel_589,Double bed,185,3515
+price_764,hotel_590,Double bed,217,4123
+price_767,hotel_591,Double bed,130,2470
+price_770,hotel_592,Double bed,134,2546
+price_773,hotel_593,Double bed,185,3515
+price_776,hotel_594,Double bed,128,2432
+price_779,hotel_595,Double bed,231,4389
+price_782,hotel_596,Double bed,237,4503
+price_785,hotel_597,Double bed,98,1862
+price_788,hotel_598,Double bed,155,2945
+price_791,hotel_599,Double bed,275,5225
+price_794,hotel_600,Double bed,202,3838
+price_797,hotel_601,Double bed,373,7087
+price_800,hotel_602,Double bed,162,3078
+price_803,hotel_603,Double bed,265,5035
+price_806,hotel_604,Double bed,229,4351
+price_809,hotel_605,Double bed,138,2622
+price_606,hotel_606,Double bed,170,3230
+price_609,hotel_607,Double bed,131,2489
+price_612,hotel_608,Double bed,148,2812
+price_615,hotel_609,Double bed,125,2375
+price_618,hotel_610,Double bed,79,1501
+price_621,hotel_611,Double bed,212,4028
+price_624,hotel_612,Double bed,143,2717
+price_627,hotel_613,Double bed,191,3629
+price_630,hotel_614,Double bed,44,836
+price_633,hotel_615,Double bed,238,4522
+price_636,hotel_616,Double bed,106,2014
+price_642,hotel_618,Double bed,312,5928
+price_645,hotel_619,Double bed,144,2736
+price_648,hotel_620,Double bed,58,1102
+price_654,hotel_622,Double bed,104,1976
+price_657,hotel_623,Double bed,63,1197
+price_660,hotel_624,Double bed,94,1786
+price_663,hotel_625,Double bed,61,1159
+price_666,hotel_626,Double bed,170,3230
+price_669,hotel_627,Double bed,143,2717
+price_672,hotel_628,Double bed,189,3591
+price_675,hotel_629,Double bed,179,3401
+price_678,hotel_630,Double bed,117,2223
+price_681,hotel_631,Double bed,35,665
+price_684,hotel_632,Double bed,113,2147
+price_687,hotel_633,Double bed,194,3686
+price_690,hotel_634,Double bed,103,1957
+price_693,hotel_635,Double bed,165,3135
+price_696,hotel_636,Double bed,276,5244
+price_699,hotel_637,Double bed,69,1311
+price_705,hotel_639,Double bed,107,2033
+price_708,hotel_640,Double bed,78,1482
+price_711,hotel_641,Double bed,107,2033
+price_714,hotel_642,Double bed,93,1767
+price_717,hotel_643,Double bed,134,2546
+price_720,hotel_644,Double bed,133,2527
+price_723,hotel_645,Double bed,204,3876
+price_726,hotel_646,Double bed,61,1159
+price_729,hotel_647,Double bed,179,3401
+price_732,hotel_648,Double bed,109,2071
+price_735,hotel_649,Double bed,131,2489
+price_738,hotel_650,Double bed,156,2964
+price_741,hotel_651,Double bed,162,3078
+price_744,hotel_652,Double bed,145,2755
+price_747,hotel_653,Double bed,60,1140
+price_750,hotel_654,Double bed,215,4085
+price_753,hotel_655,Double bed,47,893
+price_756,hotel_656,Double bed,174,3306
+price_759,hotel_657,Double bed,150,2850
+price_762,hotel_658,Double bed,131,2489
+price_765,hotel_659,Double bed,141,2679
+price_768,hotel_660,Double bed,108,2052
+price_771,hotel_661,Double bed,128,2432
+price_774,hotel_662,Double bed,237,4503
+price_777,hotel_663,Double bed,100,1900
+price_780,hotel_664,Double bed,167,3173
+price_783,hotel_665,Double bed,121,2299
+price_786,hotel_666,Double bed,227,4313
+price_789,hotel_667,Double bed,60,1140
+price_792,hotel_668,Double bed,120,2280
+price_795,hotel_669,Double bed,192,3648
+price_798,hotel_670,Double bed,163,3097
+price_801,hotel_671,Double bed,70,1330
+price_804,hotel_672,Double bed,170,3230
+price_807,hotel_673,Double bed,68,1292
+price_810,hotel_674,Double bed,208,3952
+price_813,hotel_675,Double bed,163,3097
+price_816,hotel_676,Double bed,314,5966
+price_819,hotel_677,Double bed,131,2489
+price_822,hotel_678,Double bed,128,2432
+price_825,hotel_679,Double bed,70,1330
+price_828,hotel_680,Double bed,134,2546
+price_831,hotel_681,Double bed,100,1900
+price_834,hotel_682,Double bed,129,2451
+price_837,hotel_683,Double bed,161,3059
+price_840,hotel_684,Double bed,122,2318
+price_843,hotel_685,Double bed,116,2204
+price_846,hotel_686,Double bed,63,1197
+price_849,hotel_687,Double bed,162,3078
+price_852,hotel_688,Double bed,220,4180
+price_855,hotel_689,Double bed,160,3040
+price_858,hotel_690,Double bed,89,1691
+price_861,hotel_691,Double bed,162,3078
+price_864,hotel_692,Double bed,61,1159
+price_867,hotel_693,Double bed,124,2356
+price_870,hotel_694,Double bed,79,1501
+price_873,hotel_695,Double bed,677,12863
+price_876,hotel_696,Double bed,483,9177
+price_879,hotel_697,Double bed,249,4731
+price_882,hotel_698,Double bed,693,13167
+price_885,hotel_699,Double bed,153,2907
+price_888,hotel_700,Double bed,426,8094
+price_891,hotel_701,Double bed,99,1881
+price_894,hotel_702,Double bed,172,3268
+price_897,hotel_703,Double bed,294,5586
+price_900,hotel_704,Double bed,131,2489
+price_903,hotel_705,Double bed,156,2964
+price_906,hotel_706,Double bed,223,4237
+price_909,hotel_707,Double bed,424,8056
+price_912,hotel_708,Double bed,179,3401
+price_709,hotel_709,Double bed,145,2755
+price_712,hotel_710,Double bed,91,1729
+price_715,hotel_711,Double bed,68,1292
+price_718,hotel_712,Double bed,98,1862
+price_721,hotel_713,Double bed,69,1311
+price_724,hotel_714,Double bed,151,2869
+price_727,hotel_715,Double bed,120,2280
+price_730,hotel_716,Double bed,66,1254
+price_733,hotel_717,Double bed,70,1330
+price_736,hotel_718,Double bed,127,2413
+price_739,hotel_719,Double bed,121,2299
+price_745,hotel_721,Double bed,172,3268
+price_748,hotel_722,Double bed,136,2584
+price_751,hotel_723,Double bed,162,3078
+price_757,hotel_725,Double bed,261,4959
+price_760,hotel_726,Double bed,178,3382
+price_763,hotel_727,Double bed,238,4522
+price_766,hotel_728,Double bed,140,2660
+price_769,hotel_729,Double bed,196,3724
+price_778,hotel_732,Double bed,96,1824
+price_781,hotel_733,Double bed,136,2584
+price_784,hotel_734,Double bed,170,3230
+price_787,hotel_735,Double bed,426,8094
+price_790,hotel_736,Double bed,96,1824
+price_793,hotel_737,Double bed,149,2831
+price_796,hotel_738,Double bed,136,2584
+price_799,hotel_739,Double bed,161,3059
+price_802,hotel_740,Double bed,96,1824
+price_805,hotel_741,Double bed,251,4769
+price_808,hotel_742,Double bed,136,2584
+price_814,hotel_744,Double bed,161,3059
+price_817,hotel_745,Double bed,106,2014
+price_820,hotel_746,Double bed,181,3439
+price_823,hotel_747,Double bed,170,3230
+price_826,hotel_748,Double bed,261,4959
+price_829,hotel_749,Double bed,96,1824
+price_832,hotel_750,Double bed,426,8094
+price_835,hotel_751,Double bed,296,5624
+price_752,hotel_752,Double bed,435,8265
+price_755,hotel_753,Double bed,720,13680
+price_758,hotel_754,Double bed,288,5472
+price_761,hotel_755,Double bed,211,4009
+price_764,hotel_756,Double bed,145,2755
+price_767,hotel_757,Double bed,940,17860
+price_770,hotel_758,Double bed,376,7144
+price_773,hotel_759,Double bed,299,5681
+price_776,hotel_760,Double bed,122,2318
+price_779,hotel_761,Double bed,525,9975
+price_782,hotel_762,Double bed,243,4617
+price_788,hotel_764,Double bed,264,5016
+price_791,hotel_765,Double bed,201,3819
+price_794,hotel_766,Double bed,209,3971
+price_800,hotel_768,Double bed,230,4370
+price_803,hotel_769,Double bed,238,4522
+price_806,hotel_770,Double bed,171,3249
+price_809,hotel_771,Double bed,233,4427
+price_812,hotel_772,Double bed,392,7448
+price_815,hotel_773,Double bed,122,2318
+price_818,hotel_774,Double bed,276,5244
+price_821,hotel_775,Double bed,266,5054
+price_824,hotel_776,Double bed,220,4180
+price_827,hotel_777,Double bed,189,3591
+price_830,hotel_778,Double bed,266,5054
+price_833,hotel_779,Double bed,152,2888
+price_836,hotel_780,Double bed,150,2850
+price_839,hotel_781,Double bed,780,14820
+price_842,hotel_782,Double bed,497,9443
+price_845,hotel_783,Double bed,260,4940
+price_851,hotel_785,Double bed,270,5130
+price_854,hotel_786,Double bed,180,3420
+price_857,hotel_787,Double bed,536,10184
+price_860,hotel_788,Double bed,215,4085
+price_863,hotel_789,Double bed,234,4446
+price_866,hotel_790,Double bed,437,8303
+price_869,hotel_791,Double bed,420,7980
+price_872,hotel_792,Double bed,338,6422
+price_875,hotel_793,Double bed,225,4275
+price_878,hotel_794,Double bed,199,3781
+price_881,hotel_795,Double bed,140,2660
+price_884,hotel_796,Double bed,338,6422
+price_887,hotel_797,Double bed,270,5130
+price_890,hotel_798,Double bed,338,6422
+price_893,hotel_799,Double bed,176,3344
+price_896,hotel_800,Double bed,578,10982
+price_899,hotel_801,Double bed,150,2850
+price_902,hotel_802,Double bed,220,4180
+price_905,hotel_803,Double bed,271,5149
+price_908,hotel_804,Double bed,345,6555
+price_911,hotel_805,Double bed,720,13680
+price_914,hotel_806,Double bed,216,4104
+price_917,hotel_807,Double bed,969,18411
+price_920,hotel_808,Double bed,228,4332
+price_923,hotel_809,Double bed,409,7771
+price_926,hotel_810,Double bed,185,3515
+price_929,hotel_811,Double bed,308,5852
+price_932,hotel_812,Double bed,356,6764
+price_935,hotel_813,Double bed,254,4826
+price_938,hotel_814,Double bed,447,8493
+price_941,hotel_815,Double bed,340,6460
+price_944,hotel_816,Double bed,233,4427
+price_947,hotel_817,Double bed,86,1634
+price_950,hotel_818,Double bed,281,5339
+price_953,hotel_819,Double bed,141,2679
+price_956,hotel_820,Double bed,330,6270
+price_959,hotel_821,Double bed,193,3667
+price_962,hotel_822,Double bed,409,7771
+price_965,hotel_823,Double bed,880,16720
+price_968,hotel_824,Double bed,309,5871
+price_971,hotel_825,Double bed,253,4807
+price_974,hotel_826,Double bed,178,3382
+price_977,hotel_827,Double bed,762,14478
+price_980,hotel_828,Double bed,174,3306
+price_983,hotel_829,Double bed,255,4845
+price_986,hotel_830,Double bed,200,3800
+price_989,hotel_831,Double bed,306,5814
+price_992,hotel_832,Double bed,179,3401
+price_995,hotel_833,Double bed,392,7448
+price_998,hotel_834,Double bed,237,4503
+price_1001,hotel_835,Double bed,474,9006
+price_1004,hotel_836,Double bed,230,4370
+price_1007,hotel_837,Double bed,170,3230
+price_1010,hotel_838,Double bed,95,1805
+price_1013,hotel_839,Double bed,296,5624
+price_1016,hotel_840,Double bed,336,6384
+price_1019,hotel_841,Double bed,310,5890
+price_1022,hotel_842,Double bed,164,3116
+price_1025,hotel_843,Double bed,341,6479
+price_1028,hotel_844,Double bed,1210,22990
+price_1031,hotel_845,Double bed,270,5130
+price_1034,hotel_846,Double bed,275,5225
+price_1037,hotel_847,Double bed,127,2413
+price_1040,hotel_848,Double bed,198,3762
+price_1043,hotel_849,Double bed,340,6460
+price_1046,hotel_850,Double bed,304,5776
+price_1049,hotel_851,Double bed,346,6574
+price_1052,hotel_852,Double bed,376,7144
+price_1055,hotel_853,Double bed,495,9405
+price_1058,hotel_854,Double bed,280,5320
+price_855,hotel_855,Double bed,166,3154
+price_858,hotel_856,Double bed,217,4123
+price_861,hotel_857,Double bed,207,3933
+price_864,hotel_858,Double bed,100,1900
+price_867,hotel_859,Double bed,104,1976
+price_870,hotel_860,Double bed,217,4123
+price_873,hotel_861,Double bed,94,1786
+price_876,hotel_862,Double bed,58,1102
+price_879,hotel_863,Double bed,44,836
+price_882,hotel_864,Double bed,120,2280
+price_885,hotel_865,Double bed,196,3724
+price_891,hotel_867,Double bed,84,1596
+price_894,hotel_868,Double bed,78,1482
+price_897,hotel_869,Double bed,91,1729
+price_903,hotel_871,Double bed,208,3952
+price_906,hotel_872,Double bed,210,3990
+price_909,hotel_873,Double bed,247,4693
+price_912,hotel_874,Double bed,156,2964
+price_915,hotel_875,Double bed,86,1634
+price_918,hotel_876,Double bed,118,2242
+price_921,hotel_877,Double bed,391,7429
+price_924,hotel_878,Double bed,98,1862
+price_927,hotel_879,Double bed,249,4731
+price_930,hotel_880,Double bed,96,1824
+price_933,hotel_881,Double bed,166,3154
+price_936,hotel_882,Double bed,223,4237
+price_939,hotel_883,Double bed,187,3553
+price_942,hotel_884,Double bed,285,5415
+price_945,hotel_885,Double bed,297,5643
+price_948,hotel_886,Double bed,270,5130
+price_954,hotel_888,Double bed,222,4218
+price_957,hotel_889,Double bed,252,4788
+price_960,hotel_890,Double bed,300,5700
+price_963,hotel_891,Double bed,356,6764
+price_966,hotel_892,Double bed,339,6441
+price_969,hotel_893,Double bed,211,4009
+price_972,hotel_894,Double bed,104,1976
+price_975,hotel_895,Double bed,235,4465
+price_978,hotel_896,Double bed,143,2717
+price_981,hotel_897,Double bed,260,4940
+price_984,hotel_898,Double bed,269,5111
+price_987,hotel_899,Double bed,186,3534
+price_990,hotel_900,Double bed,263,4997
+price_993,hotel_901,Double bed,125,2375
+price_996,hotel_902,Double bed,286,5434
+price_999,hotel_903,Double bed,143,2717
+price_1002,hotel_904,Double bed,212,4028
+price_1005,hotel_905,Double bed,345,6555
+price_1008,hotel_906,Double bed,173,3287
+price_1011,hotel_907,Double bed,138,2622
+price_1014,hotel_908,Double bed,260,4940
+price_1017,hotel_909,Double bed,284,5396
+price_1020,hotel_910,Double bed,241,4579
+price_1023,hotel_911,Double bed,304,5776
+price_1026,hotel_912,Double bed,244,4636
+price_1029,hotel_913,Double bed,192,3648
+price_1032,hotel_914,Double bed,338,6422
+price_1035,hotel_915,Double bed,199,3781
+price_1038,hotel_916,Double bed,165,3135
+price_1041,hotel_917,Double bed,250,4750
+price_1044,hotel_918,Double bed,156,2964
+price_1047,hotel_919,Double bed,252,4788
+price_1050,hotel_920,Double bed,217,4123
+price_1053,hotel_921,Double bed,452,8588
+price_1056,hotel_922,Double bed,236,4484
+price_1059,hotel_923,Double bed,217,4123
+price_1062,hotel_924,Double bed,193,3667
+price_1065,hotel_925,Double bed,217,4123
+price_1068,hotel_926,Double bed,243,4617
+price_1071,hotel_927,Double bed,217,4123
+price_1074,hotel_928,Double bed,267,5073
+price_1077,hotel_929,Double bed,132,2508
+price_1080,hotel_930,Double bed,260,4940
+price_1083,hotel_931,Double bed,225,4275
+price_1086,hotel_932,Double bed,91,1729
+price_1089,hotel_933,Double bed,252,4788
+price_1092,hotel_934,Double bed,321,6099
+price_1095,hotel_935,Double bed,260,4940
+price_1098,hotel_936,Double bed,338,6422
+price_1101,hotel_937,Double bed,241,4579
+price_1104,hotel_938,Double bed,252,4788
+price_1107,hotel_939,Double bed,303,5757
+price_1110,hotel_940,Double bed,583,11077
+price_1113,hotel_941,Double bed,128,2432
+price_1116,hotel_942,Double bed,461,8759
+price_1119,hotel_943,Double bed,272,5168
+price_1122,hotel_944,Double bed,95,1805
+price_1125,hotel_945,Double bed,125,2375
+price_1128,hotel_946,Double bed,565,10735
+price_1131,hotel_947,Double bed,269,5111
+price_1134,hotel_948,Double bed,200,3800
+price_1137,hotel_949,Double bed,398,7562
+price_1140,hotel_950,Double bed,217,4123
+price_1143,hotel_951,Double bed,213,4047
+price_1146,hotel_952,Double bed,61,1159
+price_1149,hotel_953,Double bed,273,5187
+price_1152,hotel_954,Double bed,165,3135
+price_1155,hotel_955,Double bed,85,1615
+price_1158,hotel_956,Double bed,37,703
+price_1161,hotel_957,Double bed,51,969

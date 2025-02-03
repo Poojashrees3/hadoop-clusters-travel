@@ -111,21 +111,21 @@ for index, hotel in enumerate(hotels):
 
         #print(name,price,rating,image_url)
         # Download and save the image
-           # if image_url:
-              #  response = requests.get(image_url, stream=True)
-              #  if response.status_code == 200:
-              #      image_path = f'new_hotels_images/hotel_{index + 853}.jpg'
-               #     with open(image_path, 'wb') as img_file:
-               #         for chunk in response.iter_content(1024):
-              #             img_file.write(chunk)
-             #   else:
-             #       image_path = "Image not available"
-           # else:
-           #     image_path = "No image URL"
+            if image_url:
+                response = requests.get(image_url, stream=True)
+                if response.status_code == 200:
+                    image_path = f'new_hotels_images/hotel_{index + 947}.jpg'
+                    with open(image_path, 'wb') as img_file:
+                        for chunk in response.iter_content(1024):
+                           img_file.write(chunk)
+                else:
+                    image_path = "Image not available"
+            else:
+                image_path = "No image URL"
         except Exception:
             image_path = "No image URL"
             print(image_path)
-        write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
+     #   write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
         # Getting more details
         # Extract hotel link
         hotel_link = hotel.find_element(By.XPATH, './/*[contains(@class,"uitk-card-link")]').get_attribute("href")
@@ -157,10 +157,10 @@ for index, hotel in enumerate(hotels):
             review_summary = "Stay is so comfortable and just perfect"
         print(review_summary)
         # Store data
-        write_hotel_details([(f'hotel_{index + 855}',name, address,destination)])
-        #write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
-        write_review_details([(f'review_{ (2 * index) + 855}', f'hotel_{index + 855}' ,rating,review_summary)])
-        write_price_details([(f'price_{ (3 * index)+855}',f'hotel_{index + 855}',bed_type,price)])
+      #  write_hotel_details([(f'hotel_{index + 855}',name, address,destination)])
+       # write_image_details([(f'hotelimage_{index + 855}',f'hotel_{index + 855}',f'new_hotels_images/hotel_{index + 855}.jpg')])
+      #  write_review_details([(f'review_{ (2 * index) + 855}', f'hotel_{index + 855}' ,rating,review_summary)])
+      #  write_price_details([(f'price_{ (3 * index)+855}',f'hotel_{index + 855}',bed_type,price)])
     
         # Close the current tab and return to the main results page
         # Close the current tab and return to the main results page
