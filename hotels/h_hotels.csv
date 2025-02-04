@@ -1,0 +1,539 @@
+hotel_id,hotel_name,hotel_address,hotel_city
+hotel_400,Hotel du Jeu de Paume,54  rue Saint Louis en l'île  Ile Saint Louis  Paris  75004,Paris
+hotel_401,Hôtel Belloy Saint-Germain,2 Rue Racine/bd St Michel  Paris  Paris  75006,Paris
+hotel_402,Villa Beaumarchais,5 Rue Des Arquebusiers  Paris  Paris  75003,Paris
+hotel_403,1K Paris,13 Boulevard Du Temple  Paris  75003,Paris
+hotel_404,Hotel Antin Saint-Georges,21 rue Notre Dame de Lorette  Paris  Paris  75009,Paris
+hotel_405,Maxim Quartier Latin,28 Rue Censier  Paris  Paris  75005,Paris
+hotel_406,OKKO Hotels Paris Gare de l'Est,30 A rue d'Alsace  Paris  75010,Paris
+hotel_407,D'win Hotel,20 Rue Du Temple  Paris  Paris  75004,Paris
+hotel_408,Hôtel Castex,5 Rue Castex  Paris  Paris  75004,Paris
+hotel_409,citizenM Paris Opera,18 Rue du Croissant  Paris  75002,Paris
+hotel_410,Hotel du Vieux Marais,8 rue du Plâtre  Paris  75004,Paris
+hotel_412,Hotel Regyn's Montmartre,18 Place Des Abbesses  Paris  Paris  75018,Paris
+hotel_413,Hôtel Le Chat Noir,68 Boulevard De Clichy  Paris  Paris  75018,Paris
+hotel_414,La Dépendance,20 Rue Moliere  Paris  Paris  75001,Paris
+hotel_416,Hôtel Basss,57 Rue Des Abbesses  Paris  Paris  75018,Paris
+hotel_417,Timhotel Montmartre,11 Rue Ravignan  Paris  Paris  75018,Paris
+hotel_418,Hôtel Rochechouart - Orso Hotels,55 Boulevard de Rochechouart  Paris  Paris  75009,Paris
+hotel_419,Hotel Louvre Piemont,22 Rue De Richelieu  Paris  Paris  75001,Paris
+hotel_420,Hôtel Pont Royal,7 Rue Montalembert  Paris  Paris  75007,Paris
+hotel_421,Londres Saint-Honoré Hotel,13 Rue Saint-roch  Paris  Paris  75001,Paris
+hotel_422,Beaugency Hotel,21 Rue Duvivier  Paris  Paris  75007,Paris
+hotel_423,Libertel Montmartre Opéra,32 Rue Duperré  Paris  Paris  75009,Paris
+hotel_424,Casa Ô,108 rue Réaumur  Paris  75002,Paris
+hotel_425,Villa Royale,2 Rue Duperré  Paris  Paris  75009,Paris
+hotel_426,"Hôtel Littéraire Marcel Aymé, BW Premier Collection",16 Rue Tholoze  Paris  Paris  75018,Paris
+hotel_427,Hotel Louvre Piemont,22 Rue De Richelieu  Paris  Paris  75001,Paris
+hotel_428,Citadines Montmartre Paris,16 Avenue Rachel  Paris  Paris  75018,Paris
+hotel_429,citizenM Paris Champs-Élysées,128 Rue la Boétie  Paris  75008,Paris
+hotel_430,Hôtel Le Saint-Grégoire,43  rue de l'Abbé Grégoire  Paris  Paris  75006,Paris
+hotel_431,Hôtel Du Beaumont,3 Rue Lepic  Paris  Paris  75018,Paris
+hotel_433,Hotel De Nice,42 Bis Rue De Rivoli  Paris  Paris  75004,Paris
+hotel_434,Hôtel Lorette - Astotel,36 Rue Notre Dame De Lorette  Paris  Paris  75009,Paris
+hotel_435,Hotel Turenne Le Marais,6 Rue De Turenne  Paris  Paris  75004,Paris
+hotel_436,Hôtel de La Herse d'Or,20 Rue Saint Antoine  Paris  Paris  75004,Paris
+hotel_437,Hotel Bonsejour Montmartre,11 Rue Burq  Paris  Paris  75018,Paris
+hotel_438,WS Louvre - Casanova,24 Rue Danielle Casanova  Paris  75002,Paris
+hotel_439,Hôtel Phénix,5  rue du général Lanrezac  Paris  75017,Paris
+hotel_440,Hotel au coeur des Arts et Metiers,19 Rue du Vertbois  Paris  Département de Paris  75003,Paris
+hotel_441,Rayz Eiffel,77 avenue bosquet  Paris  75007,Paris
+hotel_442,Villa Alessandra,9 Place Boulnois  Paris  Paris  75017,Paris
+hotel_443,Grand Pigalle Experimental,29 Rue Victor Massé  Paris  Paris  75009,Paris
+hotel_444,Boudoir des Muses,6 rue de Saintonge  Paris  75006,Paris
+hotel_445,Hôtel L de Lutèce - Notre-Dame,65 Rue Saint-Louis-en-l'Ile  Paris  Paris  75004,Paris
+hotel_446,Hôtel Saint-Roch,25 Rue Saint-Roch  Paris  Paris  75001,Paris
+hotel_447,Hotel Americain,72 Rue Charlot  Paris  Paris  75003,Paris
+hotel_448,Relais Bosquet by Malone,19 Rue Du Champ De Mars  Paris  Paris  75007,Paris
+hotel_449,Hotel Andrea,3 rue Saint-Bon  Paris  75004,Paris
+hotel_450,Hôtel Les 3 Poussins,15 Rue Clauzel  Paris  Paris  75009,Paris
+hotel_451,Hôtel Da Vinci & Spa,25 Rue des Saint Pères  Paris  Paris  75006,Paris
+hotel_452,L'Empire Paris,48 Rue De L Arbre Sec  Paris  Paris  75001,Paris
+hotel_453,Hôtel Caron le Marais,3 Rue Caron  Paris  Paris  75004,Paris
+hotel_454,Le Relais Montmartre,6  rue Constance  Paris  Paris  75018,Paris
+hotel_455,Pratic Hotel,9 rue d'Ormesson  Paris  Paris  75004,Paris
+hotel_456,Hôtel Emile Le Marais,2 rue Malher  Paris  75004,Paris
+hotel_457,Hôtel Arvor Saint Georges,8 Rue Laferriere  Paris  Paris  75009,Paris
+hotel_458,Hôtel Filigrane & Spa,40 Rue Vivienne  Paris  Département de Paris  75002,Paris
+hotel_459,Artemisia Montmartre,11 Rue Fromentin  Paris  Paris  75009,Paris
+hotel_460,citizenM Paris Gare de Lyon,8 Rue van Gogh  Paris  Ile-de-France  75012,Paris
+hotel_461,Hotel Bachaumont,18 rue Bachaumont  Paris  Paris  75002,Paris
+hotel_462,Padam Hôtel,9 Rue Jean Giraudoux  Paris  Département de Paris  75116,Paris
+hotel_463,Hotel Elysees Regencia,41  Avenue Marceau  Paris  Paris  75116,Paris
+hotel_464,Hotel Ile de France Opéra,26 Rue Saint Augustin  Paris  Paris  75002,Paris
+hotel_465,Le Tsuba Hotel,45 rue des Acacias  Paris  75017,Paris
+hotel_466,Hôtel Baudelaire Opéra,61 rue Sainte-Anne  Paris  Paris  75002,Paris
+hotel_467,Hotel Duminy Vendome,3 Rue du Mont Thabor  Paris  Paris  75001,Paris
+hotel_468,Hotel Regina Montmartre,94 boulevard de Rochechouart  Montmartre-Pigalle (18e)  Paris  Paris  75018,Paris
+hotel_469,L'Empire Paris,48 Rue De L Arbre Sec  Paris  Paris  75001,Paris
+hotel_470,Ibis Paris Montmartre Sacré-Coeur,5 Rue Caulaincourt  Paris  Paris  75018,Paris
+hotel_471,Ginette à la Folie,49 Rue de Malte  Paris  Département de Paris  75011,Paris
+hotel_472,My Maison In Paris - Invalides,149 Rue de Grenelle  Paris  Département de Paris  75007,Paris
+hotel_473,La Villa des Ternes Hotel,97 Avenue Des Ternes  Paris  Paris  75017,Paris
+hotel_474,Hotel Saint Dominique,62 Rue Saint Dominique  Paris  Paris  75007,Paris
+hotel_475,Terrass'' Hotel,12-14 Rue Joseph de Maistre  Paris  Paris  75018,Paris
+hotel_476,Normandy Le Chantier,7 Rue De L Echelle  Paris  Paris  75001,Paris
+hotel_477,Hotel Riviera Elysées,55  rue des Acacias  Paris  75017,Paris
+hotel_478,Stella,Avenue Carnot 20  Paris  Ile-de-France  75017,Paris
+hotel_479,Le Belmont Paris,30 Rue De Bassano  Paris  Paris  75116,Paris
+hotel_480,Hotel du Cadran,10 Rue Du Champ De Mars  Paris  Paris  75007,Paris
+hotel_481,Mercure Paris Butte Montmartre Basilique,100  Boulevard Rochechouart  Paris  75018,Paris
+hotel_482,Les Patios du Marais,26 Rue des Gravilliers  Paris  75003,Paris
+hotel_483,Tonic Hotel Du Louvre,12-14 Rue Du Roule  Paris  Paris  75001,Paris
+hotel_484,Hotel Le Cercle Tour Eiffel,117 Avenue De La Bourdonnais  Paris  Paris  75007,Paris
+hotel_485,Hotel Britannique,20 Avenue Victoria  Paris  Paris  75001,Paris
+hotel_486,Hôtel Helzear Champs Elysées,49 avenue Marceau  Paris  Paris  75116,Paris
+hotel_487,Timhotel Opera Blanche Fontaine,34 Rue Pierre Fontaine  Paris  Paris  75009,Paris
+hotel_488,Hôtel Monsieur Aristide,3 Rue Aristide Bruant  Paris  Département de Paris  75018,Paris
+hotel_489,Hôtel Hiro,7 Rue Brey  Paris  Paris  75017,Paris
+hotel_490,Aparthotel Quartier Libre Marais,82 Boulevard de Sébastopol  Paris  75003,Paris
+hotel_491,Hotel Albert 1er Paris Lafayette,162 Rue La Fayette  Paris  Paris  75010,Paris
+hotel_492,Hôtel Les Matins de Paris & Spa,3 rue Clauzel  Paris  75009,Paris
+hotel_493,1er Etage SoPi,34 rue Jean Baptiste Pigalle  Paris  75009,Paris
+hotel_494,Hôtel Les Matins de Paris & Spa,3 rue Clauzel  Paris  75009,Paris
+hotel_495,Maison Pigalle,41 Rue Jean-baptiste Pigalle  Paris  Paris  75009,Paris
+hotel_496,Timhotel Le Louvre,4 rue Croix des Petits Champs  Paris  75001,Paris
+hotel_497,Hotel Saint Honore 85,85 Rue Saint Honore  Paris  Paris  75001,Paris
+hotel_498,Timhotel Invalides Eiffel,Boulevard De La Tour Maubourg  35  Paris  Paris  75007,Paris
+hotel_499,Hôtel Le 123 Sébastopol - Astotel,123 boulevard de Sébastopol  Paris  Paris  75002,Paris
+hotel_500,"ELSA, Hôtel Paris",27 Avenue Carnot  Paris  Paris  75017,Paris
+hotel_501,Hôtel Lion d'Or Louvre,5 Rue de la Sourdière  Paris  Paris  75001,Paris
+hotel_502,Hôtel Châteaudun Opéra,30 Rue de Chateaudun  Paris  Paris  75009,Paris
+hotel_503,citizenM Rome Isola Tiberina,LUNGOTEVERE DE CENCI 5-8  Rome  RM  00186,Rome
+hotel_504,47 Boutique Hotel,Via Luigi Petroselli 47  Rome  RM  186,Rome
+hotel_505,Fauno Urban Resort,Via della Fonte di Fauno 31  Rome  RM  153,Rome
+hotel_506,citizenM Rome Isola Tiberina,LUNGOTEVERE DE CENCI 5-8  Rome  RM  00186,Rome
+hotel_507,47 Boutique Hotel,Via Luigi Petroselli 47  Rome  RM  186,Rome
+hotel_508,Golden Tulip Rome Piram,Via Giovanni Amendola 7  Rome  RM  185,Rome
+hotel_509,The Independent Hotel,Via Volturno 48  Rome  RM  185,Rome
+hotel_510,Window on Rome,Piazza Sidney Sonnino 25  Rome  RM  00153,Rome
+hotel_511,Kolbe Hotel Rome,Via di San Teodoro 48  Rome  RM  186,Rome
+hotel_512,Little Queen Suite,Via Florida 20  Rome  RM  186,Rome
+hotel_513,Nicolas Inn,Via Cavour 295  Rome  RM  184,Rome
+hotel_515,Dimora ai Fori - Guesthouse,Via Cavour 325  Rome  RM  00184,Rome
+hotel_516,Hotel Chapter Roma,Via S. Maria de' Calderari 47  Rome  RM  00186,Rome
+hotel_517,"Palazzo Velabro, a Member of Design Hotels",Via del Velabro 16  Rome  RM  00186,Rome
+hotel_519,Town House Campo de' Fiori,Via dei Giubbonari 43  Rome  RM  186,Rome
+hotel_520,Jb Relais Luxury,Via di San Bartolomeo de Vaccinari 19  Rome  RM  186,Rome
+hotel_521,Flatinrome Trastevere Deluxe Rooms,Via della Luce 41  Rome  RM  00153,Rome
+hotel_522,Hotel Tito,Via Marghera 29  Rome  RM  185,Rome
+hotel_523,"Radisson Collection Hotel, Roma Antica",VIA DELLE BOTTEGHE OSCURE 46  Rome  RM  00186,Rome
+hotel_524,B&B Circus Maximus,Viale Aventino 61  Rome  RM  153,Rome
+hotel_525,The Spanish Suite Campo de Fiori,Piazza Cairoli 9 A  Rome  RM  186,Rome
+hotel_526,Hotel San Francesco,Via Jacopa de' Settesoli 7  Rome  RM  153,Rome
+hotel_527,Casa de' Fiori Biscione,Piazza Del Biscione 83  Rome  RM  186,Rome
+hotel_528,Magenta Collection Sant'Anna,Via di Sant'Anna 11  Rome  RM  00186,Rome
+hotel_529,Royal Rooms Colosseo,Via di S. Giovanni in Laterano 10  Rome  RM  184,Rome
+hotel_530,Giuditta in Trastevere,Piazza Giuditta Tavani Arquati 113  Rome  RM  00153,Rome
+hotel_531,UNAHOTELS Trastevere Roma,Via Emilio Morosini 27  Rome  RM  00153,Rome
+hotel_532,Hotel Quirinale,Via Nazionale 7  Rome  RM  184,Rome
+hotel_533,Splendor Suite Rome - Suites and Apartments,Piazza San Lorenzo in Lucina  35  Rome  RM  186,Rome
+hotel_534,MZ Hotel Rome,Via Della Trinita Dei Pellegrini 12  Rome  RM  00186,Rome
+hotel_536,The Sanctuary Urban Retreat,Via di Santa Prisca 11/B  Rome  RM  00153,Rome
+hotel_537,Hanky Suite,16 Via Roma Libera  Rome  RM  00153,Rome
+hotel_538,Hotel Le Clarisse al Pantheon,Via Arco Della Ciambella 19  Rome  RM  186,Rome
+hotel_539,Hotel Artorius,via del Boschetto  13  Rome  RM  184,Rome
+hotel_540,Relais Badoer,Largo Arenula 11  Rome  RM  186,Rome
+hotel_541,Argentina Residenza Style Hotel,Via di Torre Argentina 47  Rome  RM  186,Rome
+hotel_542,Hotel Paba,Via Cavour 266  Rome  RM  00184,Rome
+hotel_543,Sourire Hotel,Via delle Terme Deciane 3  Rome  RM  153,Rome
+hotel_544,Guesthouse o Affitta Camere iRooms Campo Dei Fiori,Piazza del Gesù  47  Rome  RM  186,Rome
+hotel_545,Hotel Fiori,Via Nazionale 163  Rome  RM  00184,Rome
+hotel_546,Hotel Trastevere,Via Luciano Manara 24A/25  Rome  RM  153,Rome
+hotel_547,Borgo Ripa Urban Travel,Lungotevere Ripa 3  Rome  RM  00153,Rome
+hotel_548,Torre Argentina Relais,Via Di Torre Argentina 44  Rome  RM  186,Rome
+hotel_549,Via Del Corso Home,Via del Corso  277  Rome  RM  186,Rome
+hotel_550,Hotel Romano,Largo Corrado Ricci  32  Rome  RM  184,Rome
+hotel_551,Giubbonari Suites,Via dei Giubbonari 23  Rome  RM  00186,Rome
+hotel_552,Domus Vitra,Via Cavour 275  6  Rome  RM  00184,Rome
+hotel_553,Naman Hotellerie Monti,261 Via Panisperna  Rome  RM  00184,Rome
+hotel_554,Antica Residenza del Corso,Via delle Convertite 5  Rome  RM  00187,Rome
+hotel_555,Hotel Splendide Royal - The Leading Hotels of the World,Via Di Porta Pinciana 14  Rome  RM  187,Rome
+hotel_556,Campo de' Fiori 34,Piazza Pollarola 34  Rome  RM  00186,Rome
+hotel_557,Albergo Santa Chiara Hotel Rome,Via Santa Chiara 21  Rome  RM  186,Rome
+hotel_558,Piccola Navona Roof Garden,4 Via de' Baullari  Rome  RM  00186,Rome
+hotel_559,Duca di Cavour,Via Cavour 221  Rome  RM  00184,Rome
+hotel_560,Guesthouse o Affitta Camere IRooms Pantheon,Piazza del Gesù 47  third floor (with lift)  Rome  RM  186,Rome
+hotel_561,Colonna Suite del Corso,Via della Colonna Antonina 41  Rome  RM  00186,Rome
+hotel_562,Hotel della Torre Argentina,Corso Vittorio Emanuele II  102  Rome  RM  00186,Rome
+hotel_563,Hotel Locarno,Via Della Penna 22  Rome  RM  186,Rome
+hotel_564,Aleph Rome Hotel Curio Collection by Hilton,Via di San Basilio 15  Rome  RM  00187,Rome
+hotel_565,iRooms Forum and Colosseum,Via Baccina 45  Rome  RM  184,Rome
+hotel_566,Colosseo Rooms Imperial Rome,Via di S. Giovanni in Laterano 10  Rome  RM  00184,Rome
+hotel_567,Lunetta Hotel & SPA,Piazza del Paradiso  68  Rome  RM  186,Rome
+hotel_568,Luxury Trastevere,Via Paglia 7  Rome  RM  158,Rome
+hotel_569,Tullia e Prisca Relais,Via Tommaso Grossi 6  Rome  RM  184,Rome
+hotel_570,BDB Rooms Trastevere,Via Benedetta 16  Rome  RM  00153,Rome
+hotel_571,Hotel Forum,Via Tor de' Conti  25  Rome  RM  184,Rome
+hotel_572,TrastevereInn,Vicolo de' Cinque 16  Rome  RM  00153,Rome
+hotel_573,Hotel San Valentino,Via Ezio 55  Rome  RM  00192,Rome
+hotel_574,Corso 281 Luxury Suites Roma,Via del Corso  281  Rome  RM  186,Rome
+hotel_575,Maison Giulia,Via Giulia 189/a  Rome  RM  186,Rome
+hotel_576,magenta collection navona,184 Corso Vittorio Emanuele II  Rome  RM  00186,Rome
+hotel_577,Hotel Smeraldo,Via dei Chiavari 20  Rome  RM  186,Rome
+hotel_578,Little Queen Pantheon Residence,Via del Collegio Capranica 4  Rome  RM  186,Rome
+hotel_579,Hotel Navona,Via dei Sediari 8  Rome  RM  186,Rome
+hotel_580,Trastevere Rooms,Viale Trastevere  108  Rome  RM  153,Rome
+hotel_581,163 Boutique Hotel,Via Nazionale 163  Rome  RM  00184,Rome
+hotel_582,Rhea Silvia Luxury Navona,Corsia Agonale  10  Rome  RM  00187,Rome
+hotel_583,Hotel Monte Cenci,Via Beatrice Cenci  10  Rome  RM  00186,Rome
+hotel_584,Hotel Centro Cavour,Via Cavour 237  Rome  RM  184,Rome
+hotel_585,Salotto Monti,Via della Consulta 1b  Rome  RM  184,Rome
+hotel_586,Daplace - Arena House,Via Marco Aurelio 37  Rome  RM  00184,Rome
+hotel_587,La Farfalla,Via Giovanni Lanza 99  Rome  RM  00184,Rome
+hotel_588,Residenza Belli,Via Goffredo Mameli  47  Rome  RM  153,Rome
+hotel_589,Sweet Dreams Roma,Via Nazionale 163  Rome  RM  184,Rome
+hotel_590,Hotel Hiberia,Via XXIV Maggio  8  Rome  RM  187,Rome
+hotel_591,BePlace Aventino,Via di S. Saba  Rome  RM  00153,Rome
+hotel_592,Relais Servio Tullio,Via Nazionale 243  Rome  RM  184,Rome
+hotel_593,Seven Suites,Via Nicola Zabaglia  11  Rome  RM  153,Rome
+hotel_594,Domus Mea,Via Calatafimi 31  Rome  RM  00185,Rome
+hotel_595,Sonder at Prati Lungotevere,17 Lungotevere Prati  Rome  RM  00193,Rome
+hotel_596,Vittoriano Suite,Via d'Aracoeli  3  Rome  RM  00186,Rome
+hotel_597,Excellence Suite,Via della Purificazione 38  Rome  RM  186,Rome
+hotel_598,Nerva Accomodation Cavour,150 Via Cavour  Rome  RM  00184,Rome
+hotel_599,H10 Palazzo Galla,Via IV Novembre  102  Rome  RM  00187,Rome
+hotel_600,Hotel Ripa Roma,Via Degli Orti Di Trastevere 3  Rome  RM  153,Rome
+hotel_601,"Radisson Collection Hotel, Roma Antica",VIA DELLE BOTTEGHE OSCURE 46  Rome  RM  00186,Rome
+hotel_602,Sonder Testaccio,Via Beniamino Franklin 4  Rome  RM  153,Rome
+hotel_603,Nerva Boutique Hotel,Via Tor de' Conti 3/4  Rome  RM  184,Rome
+hotel_604,Trastevere Royal Suite Trilussa,Lungotevere Raffaello Sanzio 1  Rome  RM  153,Rome
+hotel_605,Relais La Maison De Luxe,Via Agostino Depretis 70  Rome  RM  184,Rome
+hotel_606,DoubleTree by Hilton Dubai M Square Hotel & Residences,M Square Building  Al Mankhool  Dubai,Dubai
+hotel_607,Rove Trade Centre,2nd December Road  Jafiliya  Trade Centre  Dubai  119444,Dubai
+hotel_608,Wyndham Dubai Deira,Sherina Plaza 4 Al Corniche Rd 111  Dubai  Dubai,Dubai
+hotel_609,Days Hotel By Wyndham Dubai Deira,One Deira Plaza Gold Souk Metro Station  Al Corniche - 111  Dubai  119303,Dubai
+hotel_610,SKY VIEW HOTEL,Al Khor St  Dubai  Dubai,Dubai
+hotel_611,Rove La Mer Beach,La Mer South  Jumeirah 1  Dubai  ARE  119444,Dubai
+hotel_612,Grand Mercure Dubai City,61B Street  Garhoud  Next to GGICO Metro  Dubai  13868,Dubai
+hotel_613,XVA Art Hotel,Al Fahidi Neighborhood  Bur Dubai  Dubai,Dubai
+hotel_614,Private UNISEX Loft rooms Near Bur Dubai,7 14 St  Dubai  Dubai,Dubai
+hotel_615,Sonder Business Bay,6B Marasi Drive  Dubai  DU  00000,Dubai
+hotel_616,CAPE TOWN HOTEL,Sabka Bus Station  Deira  Dubai  Dubai,Dubai
+hotel_618,Arabian Boutique Hotel,Al Fahidi St  Dubai  Dubai,Dubai
+hotel_619,"Al Seef Heritage Hotel Dubai, Curio Collection by Hilton",Al Seef Street  Dubai Creek  Dubai  35449,Dubai
+hotel_620,City Relax Hotel,Al Sabkha Rd  Dubai  Dubai  971,Dubai
+hotel_622,London Hotel,Al Sabkha Road   Dubai  Deira  0000,Dubai
+hotel_623,Three 888 Hotel,Al Burj St  Dubai  Dubai,Dubai
+hotel_624,Wescott Hotel,No. 32795 Al Souq Al Kabeer  Dubai  Dubai  32795,Dubai
+hotel_625,Collection O Phoenix Hotel,28  St.28 C  Community 118  Nakheel Area  Dubai  Dubai  39674,Dubai
+hotel_626,Pullman Dubai Creek City Centre,Port Saeed Road Baniyas Street  Dubai  61871,Dubai
+hotel_627,Riviera Hotel Dubai,Baniyas Road 5  Deira  Dubai,Dubai
+hotel_628,Arabian Courtyard Hotel & Spa,Al Fahidi Street  Bur Dubai  Dubai  46500,Dubai
+hotel_629,"Radisson Blu Hotel, Dubai Deira Creek",Bani Yas Road  Deira  Dubai  476,Dubai
+hotel_630,Queen Elizabeth 2 Hotel,Mina Rashid Marina  Bur Dubai District  Dubai  6769,Dubai
+hotel_631,Family Double Partition Room in Bur Dubai,Al Rolla Rd  Dubai  Dubai,Dubai
+hotel_632,Florida City Hotel Apartments,Baniyas Square  Deira  P.O. Box 49530  Dubai  Dubai,Dubai
+hotel_633,Hyatt Regency Dubai,Deira Corniche Alkhaleej Road  Dubai,Dubai
+hotel_634,Maaeen Hotel,10th Street  Al butteen Rd  Deria  Dubai  Dubai  78273,Dubai
+hotel_635,Millennium Plaza Downtown Suites,Sheikh Zayed Al Nahyan Road  Dubai,Dubai
+hotel_636,Taj Dubai,Burj Khalifa Street  Dubai  8489,Dubai
+hotel_637,White Fort Hotel,Nasser Square  Near Baniyas  Metro Station  Dubai  83163,Dubai
+hotel_639,Ibis Styles Dubai Deira,Maitha Plaza  Al Khaleej Road 110  Deira  Dubai,Dubai
+hotel_640,New California Hotel,Al Nakhal Rd  Dubai  Dubai,Dubai
+hotel_641,Florida Square Hotel,Sabkha Street  Deira  near Sabkha Bus station  Dubai  Dubai,Dubai
+hotel_642,MOUNT SINA HOTEL BY AURA,Al Sabkha Rd  Dubai  Dubai,Dubai
+hotel_643,Swissotel Al Ghurair,Omar Bin Al Khattab Street  Dubai  185051,Dubai
+hotel_644,Super 8 by Wyndham Dubai Deira,Maryam Plaza 1  Al Daghaya Rd- 113  Deira  Dubai  119303,Dubai
+hotel_645,Majestic Premier Hotel,Khalid Bin Waleed  Dubai,Dubai
+hotel_646,Collection O Phoenix Hotel,28  St.28 C  Community 118  Nakheel Area  Dubai  Dubai  39674,Dubai
+hotel_647,Hyatt Regency Galleria Residence Dubai,Deira Corniche  Po Box 6655  Dubai,Dubai
+hotel_648,Gold Sky Avenue Hotel,Al Khor Street  Deira - Al Sabkha  Dubai,Dubai
+hotel_649,Grayton Hotel Dubai,12A Street  Al Mankhool  Bur Dubai  Dubai,Dubai
+hotel_650,Mercure Dubai Deira,Al Yazia Plaza Al Khaleej Road 110 Deira  Dubai  15472,Dubai
+hotel_651,AL KARNAK HOTEL BRANCH,Al Sabkha Rd  Dubai  Dubai,Dubai
+hotel_652,Gateway Hotel,Al Nahdha St- Al Fahidi - Khaleed Bin  Waleed Road  Bur Dubai  Dubai,Dubai
+hotel_653,Collection O San Marino Hotel,Frij Al Murar  Deira  Dubai,Dubai
+hotel_654,Swissotel Living Al Ghurair,Umar Bin Al kattab Rd  Deira  Near Al Ghurair Center  Dubai,Dubai
+hotel_655,Oyo 492 Gulf Star,9 12 A St  Dubai  Dubai,Dubai
+hotel_656,Majestic City Retreat Hotel,Mankhool Road  Bur Dubai  Dubai  122235,Dubai
+hotel_657,Millennium Plaza Downtown Hotel,Sheikh Zayed Road  Po Box 23215  Dubai,Dubai
+hotel_658,"Rove City Centre, Deira",24 19b Street  Port Saeed  Dubai,Dubai
+hotel_659,Savoy Crest Hotel Apartments,Al Mankhool 10b Street  Bur Dubai  Dubai  29016,Dubai
+hotel_660,City Stay Premium Hotel Apartments,Naif St  Dubai  Dubai,Dubai
+hotel_661,Best Western Plus Pearl Creek,90 Baniyas Road  Dubai  83163,Dubai
+hotel_662,The Canvas Dubai - MGallery Hotel Collection,23  Kuwait Street  Port Rashid  Dubai  Dubai  116656,Dubai
+hotel_663,Regent Palace Hotel,World Trade Centre Rd  Dubai,Dubai
+hotel_664,Sheraton Dubai Creek Hotel & Towers,Baniyas Street  Po Box 4250  Dubai,Dubai
+hotel_665,Nihal Residency Hotel Apartments,Behind ADCB Bank &  Al Fahidi Metro Station  Dubai  25295,Dubai
+hotel_666,Jumeirah Living - World Trade Centre Residence,2nd Zabeel Road  World Trade Center  Dubai  0000,Dubai
+hotel_667,Collection O San Marino Hotel,Frij Al Murar  Deira  Dubai,Dubai
+hotel_668,Aparthotel Adagio Dubai Deira,110 Al Khaleej Road  Deira-Afra Plaza  Dubai,Dubai
+hotel_669,Hyatt Place Wasl District Residences,Wasl District  Dubai  Dubai  128851,Dubai
+hotel_670,Ascot Hotel,Khalid Bin Walid Road  Bur Dubai  Dubai,Dubai
+hotel_671,New Royal Mark Hotel Apartments,Dubai  Dubai  Dubai,Dubai
+hotel_672,DoubleTree by Hilton Dubai M Square Hotel & Residences,M Square Building  Al Mankhool  Dubai,Dubai
+hotel_673,Royal Tulip Hotel,Opposite Delhi Resturant  Al Murar area  Deira  Dubai  Dubai,Dubai
+hotel_674,Al Bandar Rotana – Dubai Creek,Baniyas Road  Deira  Dubai,Dubai
+hotel_675,Royal Ascot Hotel,Khalid Bin Walid Road  Bur Dubai  Dubai,Dubai
+hotel_676,Centara Mirage Beach Resort Dubai,Dubai Islands  Dubai  P.O31308,Dubai
+hotel_677,Rove Healthcare City - Bur Dubai,19th Street  Oud Metha  Bur Dubai  Dubai,Dubai
+hotel_678,Canopy by Hilton Dubai Al Seef,Al Seef Street Building A  Dubai  12331,Dubai
+hotel_679,Pearl Swiss Hotel,Behind Commercial Bank Building  Al Rigga Rd  Deira  Dubai,Dubai
+hotel_680,City Seasons Towers,Khalifa Bin Zayed Road  Mankhool  Next to Burjuman Mall  Dubai  5847,Dubai
+hotel_681,Wescott Plaza Hotel Apartment,Kuwait St  Dubai  Dubai,Dubai
+hotel_682,Smana Hotel Al Raffa,37  Al Raffa  Bur Dubai  Dubai  Dubai  Dubai,Dubai
+hotel_683,Park Regis Kris Kin Hotel Dubai,Sheikh Khalifah Bin Zayed Street  Opp. Burjuman Centre  Dubai  8264,Dubai
+hotel_684,Gulf Inn Hotel Deira Formerly City Star,139 Salah Al Din St  Dubai  Dubai,Dubai
+hotel_685,Hampton by Hilton Dubai Al Seef,Al Seef Street  Dubai Creek  Dubai  12331,Dubai
+hotel_686,Hafez Hotel Apartments,Next to E NBD Bank Bldg  Al Ras  Opp. Metro & Fire Station  Deira  Dubai  83163,Dubai
+hotel_687,Rose Garden Hotel Apartments - Bur Dubai,Behind Burjman Shopping Mall  Near Burjuman metro station  Dubai  Bur Dubai  45113,Dubai
+hotel_688,Azur Regency Hotel Apartment,10 B Street  317 Community  Al Mankhool  Bur Dubai  Dubai,Dubai
+hotel_689,Four Points by Sheraton Bur Dubai,Mankhool Road  4c Street  Bur Dubai  Dubai,Dubai
+hotel_690,Manhattan Avenue Hotel,Al Mankhool Road  Near Al Fahidi Metro Station  Dubai  24607,Dubai
+hotel_691,Edge Creekside Hotel,Rigga Al Buteen Street  Dubai,Dubai
+hotel_692,Fortune Hotel Deira,Omar Al Khattab Street  opp DEWA office  Deira  Dubai  49185,Dubai
+hotel_693,Garden City Hotel,35 A  Naif  Dubai,Dubai
+hotel_694,Landmark Summit Hotel,34 B Street  Behind Commercial Bank Building  Deira  Dubai  64264,Dubai
+hotel_695,Raviz Center Point Hotel,Khalid Bin Al Waleed Street  Bank Street  Dubai  33382,Dubai
+hotel_696,Fortune Atrium Hotel,Khalid Bin Al Waleed Rd  Dubai  Dubai,Dubai
+hotel_697,Marriott Marquis Dubai,Jewel of the Creek  Port Saeed  Dubai,Dubai
+hotel_698,Address Dubai Mall,Sheikh Mohammed Bin Rashid Boulevard  Downtown Dubai PO Box 27443  Dubai,Dubai
+hotel_699,Sea View Hotel,Al Mina Road  Bur Dubai  Opposite to Dubai Customs Building  Dubai,Dubai
+hotel_700,Savoy Park Hotel Apartments,10B Community 317Mankhool  Dubai  111204,Dubai
+hotel_701,ibis Al Rigga,Al Rigga Road  Deira  Po Box 186878  Dubai,Dubai
+hotel_702,Suha Mina Rashid Hotel Apartments,Al Mankhool Rd  Bur Dubai  Dubai,Dubai
+hotel_703,Deira Suites Hotel Apartment,Al Maktoum Road  Dubai  Dubai  186256,Dubai
+hotel_704,Citymax Bur Dubai,Kuwait Street Mankhool Area  Dubai,Dubai
+hotel_705,Khalidia Palace Hotel Dubai,Al Maktoum Rd  Dubai  Dubai,Dubai
+hotel_706,Al Bandar Arjaan by Rotana - Dubai Creek,Baniyas Street  Dubai  Dubai  04080,Dubai
+hotel_707,Savoy Central Hotel Apartments,Al Rolla Road Bur Dubai  Dubai  49519,Dubai
+hotel_708,Knight Castle Hotel,Al Maktoum Road  Dubai,Dubai
+hotel_709,Fairfield Inn & Suites Watertown Thousand Islands,250 Commerce Park Dr  Watertown  NY  13601,Copenhagen
+hotel_710,Pleasant Night Inn,30 N Broad St  Carthage  NY  13619,Copenhagen
+hotel_711,Quality Inn & Suites Watertown Fort Drum,8000 Virginia Smith Drive  Calcium  NY  13616,Copenhagen
+hotel_712,Best Western Watertown Fort Drum,300 Washington St  Watertown  NY  13601,Copenhagen
+hotel_713,Days Inn by Wyndham Watertown Fort Drum,25940 US Route 11  Calcium  NY  13637,Copenhagen
+hotel_714,Golden Pond Cabins,2617 New York 13  Altmar  NY  13302,Copenhagen
+hotel_715,"Candlewood Suites Watertown Fort Drum, an IHG Hotel",26513 Herrick Drive  Evans Mills  NY  13637,Copenhagen
+hotel_716,Nest Inn,23442 New York 37  Watertown  NY  13601,Copenhagen
+hotel_717,Adirondack Efficiencies Watertown,1030 Arsenal Street  Building A  Watertown  NY  13601,Copenhagen
+hotel_718,Comfort Inn & Suites Watertown - 1000 Islands,110 Commerce Park Drive  Watertown  NY  13601,Copenhagen
+hotel_719,Hampton Inn Watertown,155 Commerce Park Dr  Watertown  NY  13601,Copenhagen
+hotel_721,Hilton Garden Inn Watertown/Thousand Islands,1290 Arsenal Street  Watertown  NY  13601,Copenhagen
+hotel_722,"Holiday Inn Express Hotel & Suites Watertown-Thousand Island, an IHG Hotel",1290 Arsenal St  Watertown  NY  13601,Copenhagen
+hotel_723,Allen's Budget Motel,24019 NY State Route 342  Watertown  NY  13601-5155,Copenhagen
+hotel_725,Royal Inn Motel,25791 Route 37  Watertown  NY  13601,Copenhagen
+hotel_726,Harbor House Inn,103 General Smith Drive  Sackets Harbor  NY  13685,Copenhagen
+hotel_727,"Tailwater Lodge Altmar, Tapestry Collection by Hilton",52 Pulaski St  Altmar  NY  13302,Copenhagen
+hotel_728,The School House Inn,29 Pulaski Street  Altmar  NY  13302,Copenhagen
+hotel_729,Ramada by Wyndham Watertown/Thousand Islands NY,21000 NY State Rt 3  Watertown  NY  13601,Copenhagen
+hotel_732,Travelodge by Wyndham Watertown,1190 Arsenal Street  Watertown  NY  13601,Copenhagen
+hotel_733,Tug Hill Resort,100 Noble Shores Dr  Redfield  NY  13437,Copenhagen
+hotel_734,Brantingham Home: ATV & Snowmobile Trails On-site!,Brantingham  NY,Copenhagen
+hotel_735,Dexter Vacation Rental in Walkable Location!,Dexter  NY,Copenhagen
+hotel_736,Modern Lake Ontario Escape w/ Beach Access!,Henderson  NY,Copenhagen
+hotel_737,Cozy Beachfront Cottage on Lake Ontario!,Henderson  NY,Copenhagen
+hotel_738,Spacious Lake Ontario Getaway: Steps to Beach!,Henderson  NY,Copenhagen
+hotel_739,Pet-friendly Brantingham Cabin by ATV Trails,Brantingham  NY,Copenhagen
+hotel_740,Adirondack Cabin on Private Lake Near Glenfield!,Glenfield  NY,Copenhagen
+hotel_741,"Adirondacks Cabin: Fish, Hunt & Hike!",Brantingham  NY,Copenhagen
+hotel_742,5-acre Brantingham Property w/ Porch & Grill!,Brantingham  NY,Copenhagen
+hotel_744,Spacious Lowville Retreat on 4 Private Acres!,Lowville  NY,Copenhagen
+hotel_745,Henderson Harbor Cottage w/ Lake Access!,10401 Bayshore Dr  Henderson Harbor  NY  13651,Copenhagen
+hotel_746,8 Mi to Lake Ontario: Pet-friendly Apt w/ Deck!,Adams  NY,Copenhagen
+hotel_747,Upstate New York Home Near Snowmobiling & Atving!,Lyons Falls  NY,Copenhagen
+hotel_748,"Peaceful Home w/ 11 Acres, Creek & Fire Pit!",Glenfield  NY,Copenhagen
+hotel_749,Altmar Family Home w/ Rivers & Trails Nearby!,Altmar  NY,Copenhagen
+hotel_750,Altmar Home w/ Fire Pit < 1 Mi to Salmon River!,Altmar  NY,Copenhagen
+hotel_751,Lake Ontario Cottage BBQ Fire Pit,Sandy Creek  NY,Copenhagen
+hotel_752,Only YOU Hotel Atocha,Paseo Infanta Isabel 13  Atocha  Madrid  28014,Madrid
+hotel_753,Only YOU Boutique Hotel,Calle Barquillo  21  Madrid  Madrid  28004,Madrid
+hotel_754,SmartRental Collection Gran Vía Capital,Calle Gran Vía 14  Madrid  28013,Madrid
+hotel_755,Akeah Hotel Gran Via,San Bernardo  48  Madrid  Madrid  28015,Madrid
+hotel_756,Hotel JC Rooms Chueca,Calle Infantas 5  Madrid  28004,Madrid
+hotel_757,Bless Hotel Madrid a member of The Leading Hotels of the World,62 Velazquez St  Madrid  Madrid  28001,Madrid
+hotel_758,Avani Alonso Martinez Martinez (previously NH Alonso Martinez),Calle de Santa Engracia  5  Madrid  Madrid  28010,Madrid
+hotel_759,Room Mate Óscar,Plaza Pedro Zerolo  12  Madrid  Comunidad de Madrid  28004,Madrid
+hotel_760,Hostal Hispano Gran Vía,C/ Hortaleza  Nº38 - 2º  Madrid  Madrid  28004,Madrid
+hotel_761,Uma Suites O'Donnell,C. del Dr. Esquerdo 77  Madrid  Madrid  28007,Madrid
+hotel_762,Woohoo Rooms Hortaleza,Calle de Hortaleza  21  2  Madrid  Madrid  28004,Madrid
+hotel_764,Tribu Malasaña,C. de San Vicente Ferrer 1  Madrid  Madrid  28004,Madrid
+hotel_765,Hostal Sonsoles Madrid Centro,Calle de Fuencarral  18 2º Derecha  Madrid  Madrid  28004,Madrid
+hotel_766,Feelathome San Marcos Apartments,Calle San Marcos 31  Madrid  Madrid  28004,Madrid
+hotel_768,ibis Styles Madrid Maravillas,Calle de Manuela Malasana  6  Madrid  Madrid  28004,Madrid
+hotel_769,Motel One Madrid-Plaza de España,Calle De Tutor 1  Esquina Ventura Rodriguez  Madrid  28008,Madrid
+hotel_770,Hostal Vázquez de Mella,Plaza Pedro Zerolo 1  3 piso  Madrid  Madrid  28004,Madrid
+hotel_771,Hotel Principe Pio,Cuesta San Vicente 14  Madrid  Madrid  28008,Madrid
+hotel_772,Pestana CR7 Gran Vía Madrid,Gran Vía 29  Madrid  28013,Madrid
+hotel_773,Hostal América,C/ Hortaleza 19  Madrid  Madrid  28004,Madrid
+hotel_774,Gran View Apartments,C/ Gran Vía 48  Madrid  Madrid  28013,Madrid
+hotel_775,Hotel Gran Versalles,Covarrubias 4  Madrid  Madrid  28010,Madrid
+hotel_776,Fuencarral Rooms,Calle Fuencarral  39-3 Derecha  Madrid  28004,Madrid
+hotel_777,Hostal Abril,Calle Fuencarral 39 Dcha 4  Madrid  Madrid  28004,Madrid
+hotel_778,Feelathome Madrid Suites Apartments,Calle Martín de los Heros  6  Madrid  Madrid  28008,Madrid
+hotel_779,Hostal San Lorenzo,Calle Clavel 8  Madrid  Madrid  28004,Madrid
+hotel_780,Hostal Palacios Fuencarral,Fuencarral  25   1 Derecha  Madrid  28004,Madrid
+hotel_781,Relais & Châteaux Heritage Madrid,Calle Diego de León  43  Madrid  28006,Madrid
+hotel_782,Pestana Plaza Mayor Madrid,Calle Imperial  8  Madrid  28012,Madrid
+hotel_783,Hotel Eurostars Central,Calle Mejía Lequerica  10  Madrid  Madrid  28004,Madrid
+hotel_785,Suites Viena Plaza de España,Juan Alvarez Mendizabal 17  Madrid  Madrid  28008,Madrid
+hotel_786,Hotel Los Condes,Calle Libreros 7  Madrid  Community of Madrid  28004,Madrid
+hotel_787,Barceló Torre de Madrid,Plaza de España  18  Madrid  28008,Madrid
+hotel_788,Hostal Zamora,Plaza Pedro Zerolo 1  4º izquierda  Madrid  Madrid  28004,Madrid
+hotel_789,Smartr Madrid Chueca,Calle Perez Galdos 7  Madrid  España  28004,Madrid
+hotel_790,Melia Madrid Princesa,Princesa 27  Madrid  Madrid  28008,Madrid
+hotel_791,B&B HOTEL Madrid Centro F46 Apartamentos,C/ Fuencarral 46  Madrid  28004,Madrid
+hotel_792,Petit Palace Chueca,Calle de Hortaleza 3  Madrid  Madrid  28004,Madrid
+hotel_793,Aparthoteltribunal,Calle de San Vicente Ferrer 1  Madrid  28004,Madrid
+hotel_794,Bob W Chueca,Calle Fuencarral 45  Madrid  Madrid  28004,Madrid
+hotel_795,CH Velarde,C. de Velarde  Madrid  Madrid  28004,Madrid
+hotel_796,Woohoo Rooms Chueca,Barbieri 3  1 IZQ  Madrid  Madrid  28004,Madrid
+hotel_797,Leonardo Hotel Madrid City Center,Calle de Alberto Aguilera 18  Madrid  Madrid  28015,Madrid
+hotel_798,The First One Madrid Preciados,Calle Preciados  44  Madrid  Madrid  28013,Madrid
+hotel_799,Hostal Dolcevita,Calle San Bartolome 4  Madrid  Madrid  28004,Madrid
+hotel_800,The Principal Madrid Small Luxury Hotels,Marqués de Valdeiglesias  1  (Esq. Gran Via  2)   Madrid  Madrid  28004,Madrid
+hotel_801,PACOROOMS,Barco  12  Madrid  madrid  28004,Madrid
+hotel_802,Hotel Santo Domingo,San Bernardo 1  Madrid  Madrid  28013,Madrid
+hotel_803,NH Madrid Ribera del Manzanares,Paseo de la Virgen del Puerto  57  Madrid  Madrid  28005,Madrid
+hotel_804,NH Madrid Zurbano,Calle de Zurbano  79-81  Madrid  Madrid  28003,Madrid
+hotel_805,Only YOU Boutique Hotel,Calle Barquillo  21  Madrid  Madrid  28004,Madrid
+hotel_806,New Dream Madrid,Calle de San Bernardo 55  Madrid  28015,Madrid
+hotel_807,Brach Madrid - Evok Collection,Calle Gran Vía 20  Madrid  28013,Madrid
+hotel_808,Chic & Basic dot,Calle del Maestro Victoria 5  Madrid  28013,Madrid
+hotel_809,Sonder Malasaña,9 Calle del Divino Pastor  Madrid  Community of Madrid  28004,Madrid
+hotel_810,Limehome Madrid Calle de la Madera,Calle de la Madera 25  Madrid  Madrid  28004,Madrid
+hotel_811,Plaza de España Skyline,Calle Cadarso  18  Madrid  Madrid  28008,Madrid
+hotel_812,Sonder Santa Ana,Calle del Principe 11  Madrid  28012,Madrid
+hotel_813,Sonder Sofia,1 Ronda de Valencia  Madrid  MD  28012,Madrid
+hotel_814,H10 Villa de la Reina Boutique Hotel,Gran Via 22  Madrid  Madrid  28013,Madrid
+hotel_815,Petit Palace Santa Bárbara,Plaza de Santa Barbara  10  Madrid  Madrid  28004,Madrid
+hotel_816,Slow Suites Luchana,Calle Luchana 13  Madrid  Spain  28010,Madrid
+hotel_817,AYZ Princesa - Auto check-in property,Calle de la Princesa 25  Madrid  28008,Madrid
+hotel_818,Numa | Luna Apartments,Calle de la Palma 11  Madrid  28004,Madrid
+hotel_819,Hostal CC Malasaña,Calle Espiritu Santo  18  1st floor  Madrid  Madrid  28004,Madrid
+hotel_820,One Shot Luchana,Luchana 22  Madrid  Madrid  28010,Madrid
+hotel_821,LaNave,Cadarso 19  Madrid  28008,Madrid
+hotel_822,Sonder Malasaña,9 Calle del Divino Pastor  Madrid  Community of Madrid  28004,Madrid
+hotel_823,"Círculo Gran Vía, Autograph Collection - Adults Only",Gran Via 24  Madrid  28013,Madrid
+hotel_824,Room Mate Macarena - Gran Vía,Gran Vía 43  Madrid  28013,Madrid
+hotel_825,Vincci Vía 66,Gran Via 66  Madrid  Madrid  28013,Madrid
+hotel_826,Abalu Boutique & Design Hotel,Calle Pez  19  Madrid  Madrid  28004,Madrid
+hotel_827,URSO Hotel & Spa,Mejía Lequerica 8  Madrid  Madrid  28004,Madrid
+hotel_828,Hostal Boutique Palace - Adults Only,Calle Gravina 25  1 izquierda  Madrid  Madrid  28004,Madrid
+hotel_829,Hotel Madrid Centro Affiliated by Meliá,Gran Via 72  Madrid  Madrid  28013,Madrid
+hotel_830,AB Design Suites,Calle del Pez  32  Madrid  Madrid  28004,Madrid
+hotel_831,B&B Madrid Centro Puerta del Sol,C/ Montera 10-12  Madrid  Madrid  28013,Madrid
+hotel_832,Hostal Juliette & Coworking,Calle Gran Via No. 44 Planta 2Derecha  Madrid  Madrid  28013,Madrid
+hotel_833,Pestana CR7 Gran Vía Madrid,Gran Vía 29  Madrid  28013,Madrid
+hotel_834,Petit Palace Triball,C/ Gonzalo Jimenez de Quesada  2  Madrid  Madrid  28004,Madrid
+hotel_835,ICON Embassy,Calle de Serrano  46  Madrid  Madrid  28001,Madrid
+hotel_836,Roisa Centro,Calle San Bernardo 87  Madrid  Madrid  28015,Madrid
+hotel_837,Hostal Casa Chueca,San Bartolome N4  2 Izquierda  Madrid  28004,Madrid
+hotel_838,Hostal Condestable,Calle de la Puebla  15  2nd floor left  Madrid  Madrid  28004,Madrid
+hotel_839,Ikonik Gran Via,Calle Gran Via 56  Madrid  Madrid  28013,Madrid
+hotel_840,Petit Palace President Castellana,Calle del Marques de Villamagna  4  Madrid  Madrid  28001,Madrid
+hotel_841,7 Islas Hotel,Calle Valverde 14-16  Madrid  Madrid  28004,Madrid
+hotel_842,Hostal Palacio Luna,Calle de la Luna 6  Madrid  Madrid  28004,Madrid
+hotel_843,AC Hotel Los Vascos by Marriott,Los Vascos  27  Madrid  Madrid  28040,Madrid
+hotel_844,"Hotel Palacio Del Retiro, Autograph Collection",Calle de Alfonso XII  14  Madrid  Madrid  28014,Madrid
+hotel_845,Be Mate Trafalgar,C. de Trafalgar 35  Madrid  Madrid  28010,Madrid
+hotel_846,Vincci Capitol,Gran Via 41  Madrid  Madrid  28013,Madrid
+hotel_847,Hostal Jemasaca - Palma61,Calle Palma  61  Madrid  Madrid  28015,Madrid
+hotel_848,Hostal Sil & Serranos,Fuencarral 95  2º derecha  Madrid  Madrid  28004,Madrid
+hotel_849,Hotel Preciados,Preciados Street  37  corner with Santo Domingo plaza  Madrid  Madrid  28013,Madrid
+hotel_850,SmartRental Collection Gran Via Centric,Gran vía 42  Madrid  28013,Madrid
+hotel_851,Dear Hotel Madrid,Gran Via 80  Madrid  28013,Madrid
+hotel_852,Avani Alonso Martinez Martinez (previously NH Alonso Martinez),Calle de Santa Engracia  5  Madrid  Madrid  28010,Madrid
+hotel_853,Hotel Atlantico Madrid,Gran Via 38  Madrid  Madrid  28013,Madrid
+hotel_854,LETOH LETOH Gran Vía,Calle de Leganitos 39  Madrid  28013,Madrid
+hotel_855,"Hotel Gamla Stan, BW Signature Collection",Skeppsbron 22a  Stockholm  11130,Stockholm
+hotel_856,Best Western Hotel Bentleys,Drottninggatan 77  Stockholm  111 60,Stockholm
+hotel_857,Hotel Birger Jarl,Tulegatan 8  Stockholm  113 53,Stockholm
+hotel_858,"Scandic GO, Sankt Eriksgatan 20",St Eriksgatan 20  Stockholm  Stockholm  112 39,Stockholm
+hotel_859,Långholmen Hotell,Långholmsmuren 20  Stockholm  10272,Stockholm
+hotel_860,Best Western Hotel Karlaplan,Skeppargatan 82  Stockholm  11459,Stockholm
+hotel_861,Motel L Hammarby Sjöstad,Hammarby Alle 41  Stockholm  12030,Stockholm
+hotel_862,Castle House Inn,Brunnsgränd 4  Stockholm  11130,Stockholm
+hotel_863,Nomad City Hostel,13a Kungsholmsgatan  Stockholm  Stockholms län  112 27,Stockholm
+hotel_864,Scandic Sodra Kajen,Södra Kajen 37  Stockholm  115 74,Stockholm
+hotel_865,Mornington Hotel Stockholm City,Nybrogatan 53  Stockholm  114 40,Stockholm
+hotel_867,Generator Stockholm,Torsgatan 10  Stockholm  111 23,Stockholm
+hotel_868,Hotel Hornsgatan,Hornsgatan 66B  Stockholm  118 21,Stockholm
+hotel_869,Stockholm Inn Hotel,Drottninggatan 67  Stockholm  11136,Stockholm
+hotel_871,Elite Palace Hotel & Spa,St Eriksgatan 115  Stockholm  100 31,Stockholm
+hotel_872,Thon Partner Hotel Kungsbron,Västra Järnvägsgatan 17  Stockholm  111 64,Stockholm
+hotel_873,Haymarket by Scandic,Hötorget 13-15  Stockholm  111 57,Stockholm
+hotel_874,Crystal Plaza Hotel,Birger Jarlsgatan 35  Stockholm  111 45,Stockholm
+hotel_875,Hotell Skeppsbron,Skeppsbron 26  Stockholm  111 30,Stockholm
+hotel_876,Aiden by Best Western Stockholm City,Alstromergatan 39  Stockholm  112 47,Stockholm
+hotel_877,Grand Hôtel Stockholm,Södra Blasieholmshamnen 8  Stockholm  103 27,Stockholm
+hotel_878,Citybox Stockholm,Stadsgården 10  Stockholm  Stockholms län  116 45,Stockholm
+hotel_879,Clarion Hotel Stockholm,Ringvaegen 98  Stockholm  104 60,Stockholm
+hotel_880,Biz Apartment Hammarby Sjostad,Heliosgången 20  Stockholm  12030,Stockholm
+hotel_881,"Hotel Gamla Stan, BW Signature Collection",Skeppsbron 22a  Stockholm  11130,Stockholm
+hotel_882,Hôtel Reisen in The Unbound Collection by Hyatt,Skeppsbron 12  Stockholm  111 30,Stockholm
+hotel_883,Comfort Hotel Xpress Stockholm Central,Kungsbron 1  Stockholm  111 22,Stockholm
+hotel_884,Downtown Camper by Scandic,Brunkebergstorg 9  Stockholm  111 51,Stockholm
+hotel_885,Clarion Hotel Sign,Östra Järnvägsgatan 35  Stockholm  101 26,Stockholm
+hotel_886,Hobo Hotel Stockholm,Brunkebergstorg 4  Stockholm  Stockholms Laen  111 51,Stockholm
+hotel_888,Scandic Anglais,Humlegårdsgatan 23  Stockholm  102 44,Stockholm
+hotel_889,Elite Hotel Stockholm Plaza,Birger Jarlsgatan 29  Stockholm  10395,Stockholm
+hotel_890,Hotel Diplomat,Strandvagen 7c  Stockholm  114 56,Stockholm
+hotel_891,At Six,Brunkebergstorg 6  Stockholm  Stockholms Laen  111 51,Stockholm
+hotel_892,"Bank Hotel, a member of Small Luxury Hotels of The World",Arsenalsgatan 6  Stockholm  11147,Stockholm
+hotel_893,Hotel Hasselbacken,Hazeliusbacken 20  Stockholm  Stockholm  100 55,Stockholm
+hotel_894,UNITY Hammarby Sjöstad Stockholm,13 Heliosgatan  Stockholm  Stockholms län  120 30,Stockholm
+hotel_895,Scandic Klara,Slöjdgatan 7  Stockholm  111 57,Stockholm
+hotel_896,Hotel Zinkensdamm,Zinkens väg 20  Stockholm  117 41,Stockholm
+hotel_897,The Sparrow Hotel,Birger Jarlsgatan 24  Stockholm  Östermalm  11434,Stockholm
+hotel_898,Victory Hotel,Lilla Nygatan 5  Stockholm  111 28,Stockholm
+hotel_899,"Scandic Go, Upplandsgatan 4",Upplandsgatan 4  Stockholm  11123,Stockholm
+hotel_900,Hotel C Stockholm,Vasaplan 4  Stockholm  111 20,Stockholm
+hotel_901,Stockholm Classic Hotell,Lundagatan 31  Södermalm  Stockholm  11727,Stockholm
+hotel_902,Elite Hotel Adlon,Vasagatan 42  Stockholm  111 20,Stockholm
+hotel_903,Hotel Fridhem,Sankt Eriksgatan 38  Stockholm  11234,Stockholm
+hotel_904,Clas på Hörnet,Surbrunnsgatan 20  Stockholm  Stockholms län  11348,Stockholm
+hotel_905,Scandic Continental,Vasagatan 22  Stockholm  111 21,Stockholm
+hotel_906,Hotel Hellsten,Luntmakargatan 68  Stockholm  113 51,Stockholm
+hotel_907,Hellstens Malmgård,Brannkyrkagatan 110  Stockholm  11727,Stockholm
+hotel_908,ProfilHotels Central,Vasagatan  38  Stockholm  Stockholm County  11120,Stockholm
+hotel_909,Scandic Grand Central,Kungsgatan 70  Stockholm  111 20,Stockholm
+hotel_910,Hotel With Urban Deli,Sveavägen 44  Stockholm  111 34,Stockholm
+hotel_911,Stockholm Stadshotell,23 Björngårdsgatan  Stockholm  Stockholms län  118 52,Stockholm
+hotel_912,Scandic Malmen,Götgatan 49-51  Stockholm  102 66,Stockholm
+hotel_913,Hotel Point,Östgötagatan 65  Stockholm  Stockholm  11664,Stockholm
+hotel_914,Clarion Hotel Amaranten,Kungsholmsgatan 31  Stockholm  11227,Stockholm
+hotel_915,Hellstens Glashus,Wollmar Yxkullsgatan 13  Stockholm  11850,Stockholm
+hotel_916,Ersta Konferens & Hotell,Erstagatan 1K  Stockholm  11691,Stockholm
+hotel_917,Backstage Hotel Stockholm,Djurgardsvagen 68  Stockholm  115 21,Stockholm
+hotel_918,Rex Hotel,Luntmakargatan 73  Stockholm  113 51,Stockholm
+hotel_919,Scandic No 53,Kungsgatan 53  Stockholm  11122,Stockholm
+hotel_920,Best Western Hotel Bentleys,Drottninggatan 77  Stockholm  111 60,Stockholm
+hotel_921,Lydmar Hotel,SÖDRA BLASIEHOLMSHAMNEN 2  Stockholm  11148,Stockholm
+hotel_922,Elite Hotel Arcadia,Koersbaersvaegen 1  Stockholm  114 23,Stockholm
+hotel_923,Best Western Plus Time Hotel,Vanadisvägen 12  Stockholm  113 46,Stockholm
+hotel_924,Hotel Hötorget,Holländargatan  8B  Stockholm  11136,Stockholm
+hotel_925,Best Western Hotel Karlaplan,Skeppargatan 82  Stockholm  11459,Stockholm
+hotel_926,"Story Hotel Riddargatan, part of JDV by Hyatt",Riddargatan 6  Stockholm  114 35,Stockholm
+hotel_927,"Hotel Ruth, WorldHotels Crafted ",Dobelnsgatan 81  Stockholm  113 52,Stockholm
+hotel_928,ProfilHotels Riddargatan,Riddargatan 14  Stockholm  114 35,Stockholm
+hotel_929,Best Western Plus Park City Hammarby Sjostad,Midskeppsgatan 6  Stockholm  12066,Stockholm
+hotel_930,"Radisson Collection, Strand Hotel, Stockholm",9 Nybrokajen  Stockholm  103 27,Stockholm
+hotel_931,Scandic Sjöfartshotellet,Katarinavägen 26  Stockholm  104 65,Stockholm
+hotel_932,Hotel Tre Små Rum,Högbergsgatan 81  Stockholm  11854,Stockholm
+hotel_933,"Hotel Frantz, WorldHotels Crafted ",Peter Myndes Backe 5  Stockholm  11646,Stockholm
+hotel_934,Sheraton Stockholm Hotel,Tegelbacken 6  BOX 195  Stockholm  10123,Stockholm
+hotel_935,Home Hotel Tapto,Jungfrugatan 57  Stockholm  115 31,Stockholm
+hotel_936,Lord Nelson Hotel,Vasterlanggatan 22  Stockholm  111 29,Stockholm
+hotel_937,"Hotel Kung Carl, WorldHotels Crafted",Birger Jarlsgatan 21  Stockholm  111 87,Stockholm
+hotel_938,Hilton Stockholm Slussen,Guldgränd 8  Stockholm  104 65,Stockholm
+hotel_939,"Hotel Skeppsholmen, Stockholm, a Member of Design Hotels",Gröna gången 1  Stockholm  111 86,Stockholm
+hotel_940,Ett Hem,2 Sköldungagatan  Stockholm  Stockholms län  114 27,Stockholm
+hotel_941,ApartDirect Hammarby Sjöstad,Hammarby Fabriksväg 93  Stockholm  120 33,Stockholm
+hotel_942,Hotel Kungsträdgården,Västra Trädgårdsgatan 11B  Stockholm  111 53,Stockholm
+hotel_943,Scandic Gamla Stan,Lilla Nygatan 25  Stockholm  111 28,Stockholm
+hotel_944,Eight Rooms,Renstiernas gata 15  Stockholm  11628,Stockholm
+hotel_945,Sky Hotel Apartments Stockholm,Lindhagensgatan 90  Stockholm  11218,Stockholm
+hotel_946,Villa Dahlia,8 Tegnérlunden  Stockholm  Stockholms län  113 59,Stockholm
+hotel_947,Best Western Kom Hotel Stockholm,Doebelnsgatan 17  Stockholm  11140,Stockholm
+hotel_948,At Old Town Aparthotel,Skomakargatan  26  Stockholm  Stockholms län  111 29,Stockholm
+hotel_949,"Hotel Esplanade, BW Signature Collection",Strandvagen 7A  Stockholm  11456,Stockholm
+hotel_950,ApartDirect Gamla Stan II,Stora Nygatan 13  Stockholm  11127,Stockholm
+hotel_951,Best Western Hotel at 108,Sveavagen 108  Stockholm  113 50,Stockholm
+hotel_952,Reimersholme Hotel,Reimersholmsgatan 5  Stockholm  117 40,Stockholm
+hotel_953,Courtyard by Marriott Stockholm Kungsholmen,Rålambshovsleden 50  Stockholm  112 19,Stockholm
+hotel_954,ibis Styles Stockholm Odenplan,Vastmannagatan 61  Stockholm  11356,Stockholm
+hotel_955,Liljeholmens Stadshotell,Nybohovsbacken 50  Stockholm  117 64,Stockholm
+hotel_956,Rygerfjord Hotel & Hostel,Soder Malarstrand  Kajplats 13  Stockholm  Stockholm  118 25,Stockholm
+hotel_957,STF af Chapman & Skeppsholmen - Hostel,Flaggmansvägen 8  Stockholm  11149,Stockholm
