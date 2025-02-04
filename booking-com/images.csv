@@ -1,3 +1,4 @@
+image_id,hotel_id,image_path
 hotel_1,hotel_1,hotel_images/hotel_1.jpg
 hotel_2,hotel_2,hotel_images/hotel_2.jpg
 hotel_3,hotel_3,hotel_images/hotel_3.jpg

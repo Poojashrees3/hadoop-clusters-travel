@@ -1,3 +1,4 @@
+price_id,hotel_id,room_type,price_per_night,total_price
 hotel_1,hotel_1,Superior Double Room,156.68,2977
 hotel_4,hotel_2,Melia Double Room,362.89,6895
 hotel_7,hotel_3,Classic Double Room,311.05,5910
@@ -93,7 +94,7 @@ hotel_226,hotel_142,Classic Double Room,442.95,8416
 hotel_229,hotel_143,Standard Double Room - Annex,265.58,5046
 hotel_232,hotel_144,Deluxe Quadruple Room with Private Bathroom,215.84,4101
 hotel_235,hotel_145,Deluxe Double Room,265.42,5043
-hotel_238,hotel_146,Deluxe Double or Twin Room,200.47,3809hotel_200,hotel_200,Double Room,192.42,3656
+hotel_238,hotel_146,Deluxe Double or Twin Room,200.47,3809
 hotel_200,hotel_200,Small Double Room with Kitchenette,88.37,1679
 hotel_203,hotel_201,Standard Twin Room,189.21,3595
 hotel_206,hotel_202,Large Standard Guest Room with Twin Beds,151.0,2869

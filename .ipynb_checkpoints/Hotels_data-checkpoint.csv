@@ -1,0 +1,1021 @@
+hotel_id,hotel_name,hotel_address,hotel_city,hotel_UUID
+hotel_1,La Belle Ville,"349 Rue de Belleville, 19th arr., 75019 Paris, France",Paris,57bb73a2-7161-4c8d-9fe9-3a122e2ca6d2
+hotel_2,Meliá Paris Vendôme,"8 Rue Cambon, 1st arr., 75001 Paris, France",Paris,ec14315e-79df-4893-a6fc-2e8454e37a2c
+hotel_3,Hôtel Saint-Pétersbourg Opéra & Spa,"35, Rue Caumartin, 9th arr., 75009 Paris, France",Paris,650d8aca-54c0-49af-aa17-fa678b43611d
+hotel_5,Welcome Hotel,"66 Rue de Seine, 6th arr., 75006 Paris, France",Paris,a3d1995c-40c1-48f3-948e-b46a9f5da4ee
+hotel_6,Hotel De Seine,"52 Rue De Seine, 6th arr., 75006 Paris, France",Paris,80f0e5d3-9766-4e93-a66f-767d3f7679d7
+hotel_7,123paris city,"11 Rue Portefoin, 3rd arr., 75003 Paris, France",Paris,c9b98d40-e7ce-41d7-a012-0c5ee1c013af
+hotel_8,Solly Hôtel Paris,"4 rue Salomon de Caus, 3rd arr., 75003 Paris, France",Paris,0a963226-0df9-4c7a-9cd0-0a43e45d3f54
+hotel_9,Le Grey Hotel,"12 rue de Parme, 9th arr., 75009 Paris, France",Paris,e1da09eb-7b44-408d-b250-f32da551dbf9
+hotel_10,Le Petit Beaumarchais Hotel & Spa,"8, Boulevard Beaumarchais, 11th arr., 75011 Paris, France",Paris,71ee0934-1d6c-44c3-a2e9-4acab0008c64
+hotel_11,Hotel L’Antoine,"10 - 12 rue de Charonne, 11th arr., 75011 Paris, France",Paris,24f0821f-1737-4644-989a-582f30a14f61
+hotel_12,Hôtel Parisianer,"5 rue hector malot, 12th arr., 75012 Paris, France",Paris,ed3cdfa4-d257-499a-9410-d90571159b8a
+hotel_13,Yuna Montmartre - ApartHotel,"5 Rue du Baigneur, 18th arr., 75018 Paris, France",Paris,bc7b2385-e7fc-47d6-9976-69e8ae4bce70
+hotel_14,Hôtel La Conversation,"61 rue Brancion, 15th arr., 75015 Paris, France",Paris,2b301109-084f-411f-80f1-98f50948b41c
+hotel_15,Hôtel Des Marronniers,"21 Rue Jacob, 6th arr., 75006 Paris, France",Paris,6eb45111-a49d-4661-ab92-7478235ed670
+hotel_16,Villa Marquis Member of Meliá Collection,"35 Rue Jean Goujon, 8th arr., 75008 Paris, France",Paris,346ea3b4-c419-43c9-aaab-30d934e1df9a
+hotel_17,Plaza Tour Eiffel,"32 Rue Greuze, 16th arr., 75016 Paris, France",Paris,48c73e40-38a6-427f-b99d-55451f876fd4
+hotel_18,Apart hotel Centre de Paris by Studio prestige,"47 Rue Albert Thomas, 10th arr., 75010 Paris, France",Paris,3c595962-d03b-42f3-8f96-a89691b1b045
+hotel_19,Austin's Arts Et Metiers Hotel,"6 Rue Montgolfier, 3rd arr., 75003 Paris, France",Paris,b24e97ae-38dd-411c-8a22-9ca472177dbf
+hotel_20,Hôtel Artemisia Montmartre,"11, rue Fromentin, 9th arr., 75009 Paris, France",Paris,532e4af4-fad7-496a-8bff-cb541109a727
+hotel_21,Normandy Le Chantier,"7, Rue de l'Echelle, 1st arr., 75001 Paris, France",Paris,f51299c6-0e02-4965-96c5-bf6ad20bc639
+hotel_22,Hôtel Monte Cristo,"20 Rue Pascal, 5th arr., 75005 Paris, France",Paris,6d199fe4-7482-4f5d-8df0-fdeecde1accf
+hotel_23,Novotel Paris Centre Tour Eiffel,"61 Quai De Grenelle, 15th arr., 75015 Paris, France",Paris,c07cb693-3fdb-4882-b5fb-bfed3f141d28
+hotel_24,Hôtel National Des Arts et Métiers,"243 rue saint Martin, 3rd arr., 75003 Paris, France",Paris,8f203952-86cc-4f18-ac30-e8f8d019ba92
+hotel_25,Yuna Porte-Maillot - ApartHotel,"48 Rue Jacques Ibert, 75017 Paris, France",Paris,e9d7fe65-6ff2-419d-93f3-342be61e04e8
+hotel_26,Le Robinet d'Or Paris Canal Saint Martin,"17 Rue Robert Blache, 10th arr., 75010 Paris, France",Paris,ba33152e-ff4d-4edb-95ff-c1c0e6852e3b
+hotel_27,Hôtel Alexandrine Opera,"10 Rue De Moscou, 8th arr., 75008 Paris, France",Paris,251a853b-2eed-40b5-b5ec-190f256ca237
+hotel_28,La Dépendance,"20 Rue Molière, 1st arr., 75001 Paris, France",Paris,eb7cc6d4-d934-4b53-ad68-b8d55a9d6475
+hotel_29,Maison Eugenie,"167, rue de Rome, 17th arr., 75017 Paris, France",Paris,c30bc93e-235d-4f2b-86fe-c7e0bd6aac5d
+hotel_30,Résidence Nell Paris,"60 rue Richer, 9th arr., 75009 Paris, France",Paris,19a89ad7-bb04-4b9d-bea9-fc353baf36ad
+hotel_31,Maison Colbert Member of Meliá Collection Notre-Dame,"7 Rue De L'hôtel Colbert, 5th arr., 75005 Paris, France",Paris,e1dc1d51-76e2-4904-bde9-75c653c8cc33
+hotel_32,Elysées Union,"44, Rue de l'Amiral Hamelin, 16th arr., 75016 Paris, France",Paris,c4679613-3ff7-4cf4-a6e7-a2e620cf1911
+hotel_33,Angleterre Hotel,"6 rue Bervic, 18th arr., 75018 Paris, France",Paris,5e0664ea-a0d6-4ded-819f-ce18e29b0467
+hotel_34,Les Rebelles,"65 Boulevard de Belleville, 11th arr., 75011 Paris, France",Paris,9fecbbe1-d705-4489-84ff-a3b3d1451de5
+hotel_35,Le Relais du Marais,"76, rue de Turbigo, 3rd arr., 75003 Paris, France",Paris,5fc3cfc8-a79b-45b0-aed6-c8c35d2a4df1
+hotel_36,Hotel Royal Phare,"40, Avenue De La Motte-Picquet, 7th arr., 75007 Paris, France",Paris,9e7a6d30-1d6a-4518-90dc-cf120ae2b2d0
+hotel_37,Hôtel du Mont Blanc,"28 Rue de la Huchette , 5th arr., 75005 Paris, France",Paris,af30ef92-e83b-42c5-847f-212bfb40bf7d
+hotel_38,Aparthotel Adagio Porte de Versailles,"16, rue Eliane Jeannin Garreau, 92130 Paris, France",Paris,04c1170b-801d-45cd-97eb-c83736b5920c
+hotel_39,Pavillon Nation,"13 Boulevard De Charonne, 11th arr., 75011 Paris, France",Paris,2e9f7bde-a06e-471d-b9f6-953d261f73f3
+hotel_40,B&B HOTEL Paris 17 Batignolles,"4 Boulevard Berthier, 17th arr., 75017 Paris, France",Paris,8e8d5fd8-6e54-451f-8fb1-9123b23aaf29
+hotel_41,Kraft Hotel,"37, rue du Hameau, 15th arr., 75015 Paris, France",Paris,ea095931-d972-460d-8889-d8fa70954fff
+hotel_42,Hôtel des Batignolles,"26-28 Rue Des Batignolles, 17th arr., 75017 Paris, France",Paris,383b120d-5588-441c-a721-f80a6278e9b2
+hotel_43,MAISON LA BOHEME Montmartre Luxury Apart'Hotel,"1 Rue Saint-Rustique, 18th arr., 75018 Paris, France",Paris,200da86b-56f4-4984-be6c-3f79fb57a250
+hotel_44,Novotel Paris Vaugirard Montparnasse,"257, Rue De Vaugirard, 15th arr., 75015 Paris, France",Paris,5defd5e4-6e52-4075-9dca-23103c0838ed
+hotel_45,La Perle Saint Germain des Prés,"14 rue des Canettes, 6th arr., 75006 Paris, France",Paris,a800653f-8e4f-402d-8c09-f659a6c4d1be
+hotel_46,Résidence du Pré,"Rue Pierre Semard 15, 9th arr., 75009 Paris, France",Paris,9969435e-e9c3-421e-aad8-f9adbce0883c
+hotel_47,Austin's Saint Lazare Hotel,"26 Rue d'Amsterdam, 9th arr., 75009 Paris, France",Paris,abbd3398-63c5-466e-8503-ca62d25ff849
+hotel_48,B&B HOTEL Paris Porte des Lilas,"23 Avenue René Fonck, 19th arr., 75019 Paris, France",Paris,cc736349-cee3-40b4-aa67-1ededf473d75
+hotel_49,CARD Hôtel,"104 Rue Cardinet, 17th arr., 75017 Paris, France",Paris,331653d3-37a7-4ba1-9d1e-2a1e2c8025c4
+hotel_50,Hôtel Le Walt by Inwood Hotels,"37 Avenue De La Motte Picquet, 7th arr., 75007 Paris, France",Paris,c08d04e0-ef8d-4e3f-ba88-f73e0ae66b70
+hotel_100,Giubileo Roma,"Via Carlo Alberto, 15, Central Station, 00185 Rome, Italy",Rome,e5e353b9-3375-468e-9769-6c3bbffc3b2a
+hotel_101,Sonder Piazza San Pietro,"Via delle Fornaci 38, Aurelio, 00165 Rome, Italy",Rome,1d677706-e560-4f53-a58b-858136d8c06c
+hotel_102,Hotel Le Petit,"Via Torino 122, Central Station, 00184 Rome, Italy",Rome,b069f189-b086-46f1-9285-03f3db8be291
+hotel_103,Casa San Giuseppe,"Via Iberia 27, San Giovanni, 00183 Rome, Italy",Rome,cf8cc99d-7ac7-43aa-9eb4-de0c95159026
+hotel_104,Elegantia Luxury Rooms,"21 Via Pietro Cavallini piano 3°, Vaticano Prati, 00193 Rome, Italy",Rome,d70fc9f1-1c30-4a3c-8373-75e3ca223d01
+hotel_105,Hotel Residenza In Farnese,"Via Del Mascherone 59, Navona, 00186 Rome, Italy",Rome,af5578e7-f7fb-4c78-9c13-3c09cb306c40
+hotel_106,Alloggi Costantini - Ospedale Gemelli - Metro Battistini,"Via Cardinale Garampi, 207, 00167 Rome, Italy",Rome,ffe2d66b-1d71-495a-ac50-a8a98b1632e2
+hotel_107,Le Stanze Di Orazio,"Via Orazio,3 - First Floor - Step B, Vaticano Prati, 00193 Rome, Italy",Rome,f71b7db4-07f4-4791-ab80-0a08e80f7010
+hotel_108,Navona Central Suites,"Via Della Scrofa 22, Spagna, 00186 Rome, Italy",Rome,e6b04729-0164-4cbd-91f4-9b0fc9c4a8a4
+hotel_109,hu Roma Camping In Town,"Via Aurelia 831, 00165 Rome, Italy",Rome,2dfab201-e2e9-44dc-918b-ff09389ba153
+hotel_110,DolceVeneto,"14 Via Lazio, Via Veneto, 00187 Rome, Italy",Rome,51c6fdb5-14c4-4342-91a3-3606813241b4
+hotel_111,Passepartout,"118 Via del Governo Vecchio, Navona, 00186 Rome, Italy",Rome,61330542-7d73-4d1f-a370-33b0f7300afd
+hotel_112,HT Residence Maximus,"Via Capo D'Africa 20-30 (Check-in at Piazza del Colosseo, 9), 00184 Rome, Italy",Rome,ce6e32af-eaa2-45d1-853e-221fa45180d2
+hotel_113,Affreschi Su Roma Luxury B&B,"Via Giuseppe Zanardelli 7, Navona, 00186 Rome, Italy",Rome,b6fbdbf8-5971-4817-9d3b-1915f2b9bc3a
+hotel_114,Trevi Private Suites by Premium Suites Collection,"Via Zucchelli n. 32, Trevi, 00187 Rome, Italy",Rome,af790d99-2bc8-4780-9c89-3543d72c0843
+hotel_115,Borgo Pio 91,"Borgo Pio 91, Vaticano Prati, 00100 Rome, Italy",Rome,1fa6e1e6-0020-448c-a976-ae883373ad7d
+hotel_116,LE RÊVE DE NAIM Roma,"Via Mario De' Fiori 3, Spagna, 00187 Rome, Italy",Rome,dba266ea-90a4-4ee2-835e-8f425c39e89c
+hotel_117,Morin 10 Rome Exclusive Suites,"Via Costantino Morin 10, Vaticano Prati, 00195 Rome, Italy",Rome,effe4798-998d-4f87-9409-f3a58185c5dc
+hotel_118,San Pietro Grand Suite,"6 Via Ottaviano, Vaticano Prati, 00192 Rome, Italy",Rome,e970e248-5208-4f93-b1c6-8cd0899f4a27
+hotel_119,Roman Holidays Boutique Hotel,"Via Cavour 47, Central Station, 00184 Rome, Italy",Rome,b026350a-9bb6-41ae-a853-92d4beb657f7
+hotel_120,Home at Rome Vatican Apartment&Rooms,"13 Piazza Stazione di San Pietro, Aurelio, 00165 Rome, Italy",Rome,f48445cb-4c4a-44f2-9b79-167415592e56
+hotel_121,Il Corso Comfort Rooms,"Via Della Fontanella 4, Spagna, 00187 Rome, Italy",Rome,d84f1083-1821-4e2c-98ad-87c81ef3823f
+hotel_122,PAX hotel,"Via di Campo Marzio 12, Spagna, 00186 Rome, Italy",Rome,cb1f50a2-19c2-4eb1-9f53-6831015b73d4
+hotel_123,Hotel Cortina,"Via Nazionale 18, Central Station, 00184 Rome, Italy",Rome,2b813dd7-37b7-4e9b-9281-36945c667ee8
+hotel_124,Hotel dei Barbieri,"Via Dei Barbieri 3A, Pantheon, 00186 Rome, Italy",Rome,d6911690-688b-4f5d-9a6e-49f751975896
+hotel_125,Rome Frattina27,"Via Frattina 27, Spagna, 00187 Rome, Italy",Rome,4026c716-b9e1-4e07-913d-3a793fca366e
+hotel_126,Archi di Roma Guest House,"13 Via Enrico Cialdini A building, 5th floor, Central Station, 00185 Rome, Italy",Rome,9e325a45-067a-4929-9094-44d94d69e67c
+hotel_127,Fellini Design Suites,"Piazza di Spagna 32 - terzo piano interno 3, Spagna, 00187 Rome, Italy",Rome,b793abb9-3c9c-404d-90fa-2b51455fb392
+hotel_128,JC Hotel,"Via Del Fosso Di Acqua Acetosa Ostiense 43 45, Fonte Ostiense, 00143 Rome, Italy",Rome,d2476a2d-e1e8-4941-a829-ae53253e1bca
+hotel_129,DEZA cozy place Nazionale,"5 Via Nazionale, Central Station, 00184 Rome, Italy",Rome,fcf0200b-3cbc-4510-a1a9-346f310aa7ee
+hotel_130,Hotel Maximus,"Via Firenze 12, Central Station, 00184 Rome, Italy",Rome,6495cfbd-945b-44f4-8aba-f1108fa21d15
+hotel_131,Residenza a San Pietro,"Via di Santa Maria alle Fornaci 18, Aurelio, 00165 Rome, Italy",Rome,124ddb62-f77a-4685-838b-a0e2a61f48ef
+hotel_132,The Steps at Eitch Belsiana,"VIA BELSIANA 27, Spagna, 00187 Rome, Italy",Rome,e34517da-0d90-4954-a070-2da632499d1d
+hotel_133,Mellini Palace Suites by Premium Suites Collection,"Lungotevere dei Mellini 44 Piano 5, Vaticano Prati, 00193 Rome, Italy",Rome,4dba44a2-fcde-4fcd-9733-fb81b5e6a2c0
+hotel_134,Home at Rome Vatican Suites,"13 Piazza Stazione di San Pietro, Aurelio, 00165 Rome, Italy",Rome,602faaf3-a830-4dbb-bc93-c5181221cfae
+hotel_135,247 Luxury Rooms Trastevere,"Viale Di Trastevere 247, Gianicolense, 00153 Rome, Italy",Rome,f2cf4ccc-7391-4bd1-8cf3-7ffc02900dd2
+hotel_136,Domus Domas - Golden Keys Collection,"Via Carlo Alberto 53, Central Station, 00185 Rome, Italy",Rome,c14c3b4a-72e6-4bc2-8e69-8239357029a1
+hotel_137,Moderno Hotel Roma,"Via Magenta 2, Central Station, 00185 Rome, Italy",Rome,a585ca98-1f30-4681-aacb-1eaa31c5c371
+hotel_138,48 Fourty Eight Luxury Suites,"48 Via Angelo Brunetti Interno 11;12;13 Piano 4, Spagna, 00186 Rome, Italy",Rome,5a9b3f4c-fe6a-4d9d-912f-f3de513eaab8
+hotel_139,Hotel Millerose,"Via Daniele Manin 58, Central Station, 00185 Rome, Italy",Rome,6e3c3b95-2572-4d8b-94de-737b1467b926
+hotel_140,Stefano House Roma,"Piazza del Risorgimento 14, Vaticano Prati, 00192 Rome, Italy",Rome,15acc824-2c21-4691-9a14-828f967fa882
+hotel_141,Villa Pirandello,"Via Antonio Bosio 15B, Nomentano, 00161 Rome, Italy",Rome,9b381c70-0ed7-4df3-85e7-0c649ae0cce5
+hotel_142,Hotel Lunetta,"Piazza Del Paradiso 68, Navona, 00186 Rome, Italy",Rome,1930786f-9ae4-4865-bdf1-a705f2c493d4
+hotel_143,Charme Spagna Boutique Hotel,"37 Via della Mercede, Spagna, 00187 Rome, Italy",Rome,94eb1074-9637-4a57-81f4-b41cc0919c82
+hotel_144,St. Peter Vatican Rooms,"Via Otranto 18 piano 3,scala A,interno 5, Vaticano Prati, 00192 Rome, Italy",Rome,2b2fdb08-8c74-4dc8-82c2-bf87e64b780a
+hotel_145,The Couper Colonna,"35 Via della Colonna Antonina, Pantheon, 00186 Rome, Italy",Rome,afa6c331-f254-4a12-831d-9bf08a8b85ba
+hotel_146,Esposizione Palace Hotel,"Via Nazionale 66, Rione Monti, 00184 Rome, Italy",Rome,06e3db16-add2-4c67-8e53-145950877871
+hotel_200,CPH Studio Hotel,"Krimsvej 29, Amager Øst, 2300 Copenhagen, Denmark",Copenhagen,92fd6d5c-3eaf-4f26-a1ff-4683d219bbd5
+hotel_201,Best Western Hotel Hebron,"Helgolandsgade 4, Vesterbro, 1653 Copenhagen, Denmark",Copenhagen,b45b5250-d9fe-4b39-b17c-61e7cab93d04
+hotel_202,AC Hotel by Marriott Bella Sky Copenhagen,"Center Boulevard 5, Amager Vest, 2300 Copenhagen, Denmark",Copenhagen,9620b1b1-beab-4378-a198-6a8184a35828
+hotel_203,Motel One Copenhagen,"Løngangstræde 27, 1468 Copenhagen, Denmark",Copenhagen,895de938-ea1b-42f0-8688-4a5a3bec3d7b
+hotel_204,City Hotel Nebo,"Istedgade 6, Vesterbro, 1650 Copenhagen, Denmark",Copenhagen,504b9a8f-4a7c-4706-a4d2-9f77be598984
+hotel_205,WIDE Hotel,"61 Studiestræde, 1554 Copenhagen, Denmark",Copenhagen,c94d230a-04c6-4ef0-8c6d-5e772a2bf785
+hotel_206,Cabinn City,"Mitchellsgade 14, 1568 Copenhagen, Denmark",Copenhagen,0f3a59b0-de6a-4e06-942d-8dff34111949
+hotel_207,Hotel Kong Arthur,"Nørre Søgade 11, 1370 Copenhagen, Denmark",Copenhagen,630ea127-8733-46e8-a9a0-c6de751e4ff1
+hotel_208,Best Western Plus Airport Hotel,"Kastruplundgade 15, DK-2770 Copenhagen, Denmark",Copenhagen,178db732-e8bf-4898-8893-f948e7668c7a
+hotel_209,Comfort Hotel Copenhagen Airport,"Ellehammersvej Kastrup, 2770 Copenhagen, Denmark",Copenhagen,a1fb8ea2-9af4-4dc0-8923-af702ca3f73d
+hotel_210,Zoku Copenhagen,"Amagerfælledvej 108, Amager Vest, 2300 Copenhagen, Denmark",Copenhagen,18b8439c-88db-4376-92aa-e2ba6779fc2e
+hotel_211,Ibsens Hotel,"Vendersgade 23, 1363 Copenhagen, Denmark",Copenhagen,306be9bf-6c0c-413c-b724-f0da08b39b7e
+hotel_212,Hotel Maritime,"19 Peder Skrams Gade, 1054 Copenhagen, Denmark",Copenhagen,c4e1c79a-42c3-4927-b1c4-f11e7a29e56b
+hotel_213,Scandic Kødbyen,"3 Skelbækgade, Vesterbro, 1717 Copenhagen, Denmark",Copenhagen,6b004c07-4d91-4d2a-8dbb-dc751f076874
+hotel_214,citizenM Copenhagen Radhuspladsen,"H.C. Andersens Boulevard 12, 1553 Copenhagen, Denmark",Copenhagen,0ca7d3f4-a3d8-4779-974a-71fbc49ad3e9
+hotel_215,Copenhagen Go Hotel,"Gemmas Alle 203, 2770 Copenhagen, Denmark",Copenhagen,a41e8104-320b-4105-baaf-e16f94dac4cd
+hotel_216,Generator Copenhagen,"Adelgade 5 -7, 1304 Copenhagen, Denmark",Copenhagen,451fe376-f97c-49f0-b733-a2cb821c7150
+hotel_217,STAY Bryggen,"Knud Kristensens Gade 6, Amager Vest, 2300 Copenhagen, Denmark",Copenhagen,76e2c975-e0cb-454c-bc9e-12b097b0e814
+hotel_218,STAY Nordhavn,"5 Fortkaj, Østerbro, 2150 Copenhagen, Denmark",Copenhagen,0a832f9f-fbdc-4db4-a572-b6cfbf8dcbe2
+hotel_219,"Crowne Plaza Copenhagen Towers, an IHG Hotel","Ørestads Boulevard 114-118, Amager Vest, 2300 Copenhagen, Denmark",Copenhagen,67702387-2709-4d3a-9fd8-660ed7544b75
+hotel_220,Clarion Hotel Copenhagen Airport,"Ellehammersvej 20, 2770 Copenhagen, Denmark",Copenhagen,32d32277-3eff-40f2-852e-9d1e796d6c44
+hotel_221,Zleep Hotel Copenhagen Airport,"Løjtegaardsvej 97A, 2770 Copenhagen, Denmark",Copenhagen,b68ec4b9-6df1-4ece-913e-b7bbf6a5bfca
+hotel_222,Scandic Falkoner,"Falkoner Alle 9, Frederiksberg, 2000 Copenhagen, Denmark",Copenhagen,681c3243-6450-40f2-a0ae-f8e851d22893
+hotel_223,Ascot Hotel,"Studiestræde 61, 1554 Copenhagen, Denmark",Copenhagen,e98cb268-48d1-4c3e-8f3b-46a05ea6f1a6
+hotel_224,Scandic Copenhagen,"Vester Søgade 6, 1601 Copenhagen, Denmark",Copenhagen,89ae7c8e-8222-472f-955c-f579c3fc1a51
+hotel_225,Moxy Copenhagen Sydhavnen,"Sydhavns Plads 2, Sydhavnen, 2450 Copenhagen, Denmark",Copenhagen,9d1ac3d3-f820-4355-8c6a-9bb58e7ab188
+hotel_226,Cabinn Apartments,"Arne Jacobsens Allé 4, Amager Vest, 2300 Copenhagen, Denmark",Copenhagen,9a35c707-b28d-4fc1-b765-d1baa03fbf8b
+hotel_227,Hotel Skt. Annæ,"Sankt Annae Plads 14-20, 1250 Copenhagen, Denmark",Copenhagen,52b9f69a-b54b-4c93-8297-8ae2cc739cd6
+hotel_228,Scandic Palace Hotel,"Rådhuspladsen 57, 1550 Copenhagen, Denmark",Copenhagen,2828d31d-bf27-4813-8540-559b09d8fbaf
+hotel_229,Charlottehaven,"12C Hjørringgade, Østerbro, 2100 Copenhagen, Denmark",Copenhagen,9b7e23d4-487f-4f45-86ca-9f3b31203792
+hotel_230,Comfort Hotel Vesterbro,"Vesterbrogade 23-29, Vesterbro, 1620 Copenhagen, Denmark",Copenhagen,ddf4af4e-7d1d-4c01-b40a-27cede5ce45d
+hotel_231,STAY Seaport,"Murmanskgade 15, Østerbro, 2150 Copenhagen, Denmark",Copenhagen,bbf7b11b-07bb-4f6d-b980-b812032b9ffc
+hotel_232,CPH Hotel,"Tietgensgade 65, Vesterbro, 1704 Copenhagen, Denmark",Copenhagen,bbc4db2d-ad7d-4859-b07c-1bc706e24397
+hotel_233,Scandic Spectrum,"10 Kalvebod Brygge, 1560 Copenhagen, Denmark",Copenhagen,1fe68f6c-ee3d-4105-984c-e075a56a7b0c
+hotel_234,Scandic CPH Strandpark,"401 Amager Strandvej, 2770 Copenhagen, Denmark",Copenhagen,74da1da1-e17e-417d-8150-2dd13d795813
+hotel_235,NH Collection Copenhagen,"Strandgade 7, Christianshavn, 1401 Copenhagen, Denmark",Copenhagen,2c749f6e-e39a-4106-938b-ea53c31fa7fc
+hotel_236,Hotel Mayfair,"Helgolandsgade 3, Vesterbro, 1653 Copenhagen, Denmark",Copenhagen,9c2a4bc1-3bbe-4498-a274-56cfe9973f4d
+hotel_237,Scandic Norreport,"18 Frederiksborggade, 1360 Copenhagen, Denmark",Copenhagen,02b0723c-a43b-4176-8c90-bdc992ae4514
+hotel_238,Grand Joanne,"Vesterbrogade 9, Vesterbro, DK-1620 Copenhagen, Denmark",Copenhagen,d43b51d1-960d-4a82-b412-ae0f65c02414
+hotel_239,Hotel Tiffany,"Colbjørnsensgade 28, Vesterbro, 1652 Copenhagen, Denmark",Copenhagen,6b0e9bba-3fef-4cda-9433-a0adced9ef47
+hotel_300,SmartStay at Grande Signature - Downtown Dubai City Views - Brand New Luxury Apartments,"Grande Signature Residences, Opera District, Downtown Dubai, Dubai, United Arab Emirates",Dubai,66f94259-5f6b-407a-8ae4-1c450206a5ad
+hotel_301,ibis Styles Dubai Airport Hotel,"Casablanca St Off Airport Road Al Garhoud Next to Ggico Metro Station, Garhoud, 13868 Dubai, United Arab Emirates",Dubai,a3f03ece-151e-48ee-beee-336351ef71c9
+hotel_302,Resivation Hotel,"Resivation Al Furjan Dubai, Dubai, United Arab Emirates",Dubai,967533d6-139f-484a-9adb-06afc5dd26d5
+hotel_303,"Lemon Tree Hotel, Jumeirah Dubai","Al Wasl Road, Umm Al Sheif, Jumeirah Dubai 122487, United Arab Emirates, Dubai, United Arab Emirates",Dubai,e301e757-340f-4ac5-ba47-bb038bc28569
+hotel_304,Centara Mirage Beach Resort Dubai,"Dubai Islands, Dubai, United Arab Emirates",Dubai,4d86bc08-f011-4acf-9101-030cd589a99f
+hotel_305,First Central Hotel Suites,"Al Barsha, Tecom, Barsha Heights (Tecom) , Dubai, United Arab Emirates",Dubai,60091e58-8891-4cac-b3ea-51a52a9db4bd
+hotel_306,Golden Sands Suites,"15 B St, Al Mankhool Road, Bur Dubai, Bur Dubai, Dubai, United Arab Emirates",Dubai,90c125c5-f596-40c9-97ea-1fdda1090443
+hotel_307,Luxury JBR Shams - Marina View - Free 5 star Beach Resorts Access!,"Al Mamsha Street Shams, Jumeirah Beach Residence, Jumeirah Beach Residence, Dubai, United Arab Emirates",Dubai,a30b2975-f63e-481f-8467-590393cf3b73
+hotel_308,Dunya Tower · Downtown Luxury · 5 Min Walk To Dubai Mall!,"Dunya Tower, Downtown Dubai, Dubai, United Arab Emirates",Dubai,2672ff39-4895-47d9-b831-5cbb598999cf
+hotel_309,Citymax Hotel Al Barsha at the Mall,"Al Barsha, Al Barsha, Dubai, United Arab Emirates",Dubai,ecdcf683-dcd7-4f6e-87dd-7751cfb83fa3
+hotel_310,Golden Sands Boutique Hotel-Dubai Creek,"Banyas Street, Dubai, United Arab Emirates",Dubai,b6f52831-5ac2-4f9a-acb9-6892c95870ec
+hotel_311,Ultra Luxury Palm Tower with Shared Hotel Facilities,"Palm Tower, Palm Jumeirah, Dubai, United Arab Emirates",Dubai,b82df412-6941-475a-8c0f-550222388dfb
+hotel_312,"Th8 Palm Dubai Beach Resort, Vignette Collection, an IHG hotel","West Crescent, Palm Jumeirah, null Dubai, United Arab Emirates",Dubai,b832af44-8c89-4433-aa4c-9c7692bad24d
+hotel_313,Millennium Place Barsha Heights Hotel Apartments,"First Al Khail Street Tecom, Barsha Heights, Barsha Heights (Tecom) , Dubai, United Arab Emirates",Dubai,e0c8b8c6-d7a3-4423-b58e-d2b591357921
+hotel_314,Kasco Homes Waves Tower Business Bay,"Marasi Drive, Dubai, United Arab Emirates",Dubai,5a866468-1489-40c6-acbc-8770882220d7
+hotel_315,Luxury JBR · Marina View · 5* Beach Resorts Access,"Al Mamsha Street Jumeirah Beach Residence, Dubai, Jumeirah Beach Residence, Dubai, United Arab Emirates",Dubai,a2d85eb8-476d-46d6-9ed8-76000be7783b
+hotel_316,Emaar Residences Dubai Marina by Qstay - formerly Address Dubai Marina,"Address Dubai Marina, Dubai Marina, Dubai, United Arab Emirates",Dubai,a0db4557-ccb5-4225-9524-a895bb3de85e
+hotel_317,"FORM Hotel Al Jaddaf, Dubai, a Member of Design Hotels","Al Jadaf, Bur Dubai, Dubai, United Arab Emirates",Dubai,c0ef0393-0b98-4092-b362-43b4fd2b4b71
+hotel_318,Studio M Al Barsha Hotel by Millennium,"Street 5 Al Barsha, Al Barsha, Dubai, United Arab Emirates",Dubai,4d123aee-ff8f-4791-857f-e0738d068c72
+hotel_319,"JA The Resort - JA Palm Tree Court, Dubai","Exit 13, Sheikh Zayed Road, Jebel Ali, Dubai, United Arab Emirates",Dubai,2ec89e33-68a9-4ca1-bb63-ed29d4e1ad8f
+hotel_320,The Lana - Dorchester Collection,"Marasi Drive Burj Khalifa District, Dubai, United Arab Emirates",Dubai,2efac130-a370-47a1-96c5-c5abd42c25c4
+hotel_321,Maison Privee - Fabulous Studio with Direct Burj Khalifa Views,"Financial Center Rd, Downtown Dubai, Dubai, United Arab Emirates",Dubai,05793d02-1283-41f1-9c31-846f6bb362fd
+hotel_322,Swissôtel Al Murooj Dubai,"Al Mustaqbal Street, Opposite The Dubai Mall, Downtown Dubai, Trade Center Area, 117546 Dubai, United Arab Emirates",Dubai,3a42de79-5310-45e4-9a63-a32cc1daaff6
+hotel_323,Gateway Hotel,"Khaleed Bin Waleed Street, Bur Dubai, Dubai, United Arab Emirates",Dubai,63b52244-bf7e-4ee7-9c8f-edfa1076d167
+hotel_324,SIMPLY COMFORT in J ONE Tower,"12 Marasi Drive, Dubai, United Arab Emirates",Dubai,4330bda4-cca9-44c4-be6e-bbfb3ea92694
+hotel_325,"Holiday Inn & Suites - Dubai Festival City Mall, an IHG Hotel","Gateway Avenue, Dubai Festival City, 000 Dubai, United Arab Emirates",Dubai,16ddaf5c-12a1-4a9d-800e-5e63b316102f
+hotel_326,VOGO Grand Hotel Formerly Best Western Plus Hotel Dubai Academic City,"Al Ruwayyah First, 111658 Dubai, United Arab Emirates",Dubai,25a8b8fd-9507-475e-9362-0608aae07cf6
+hotel_327,SO/ Uptown Dubai,"Uptown Tower Uptown, Jumeirah Lake Towers, 337777 Dubai, United Arab Emirates",Dubai,788c83f0-165f-428e-9440-9a7a8f8c400f
+hotel_328,Paramount Hotel Midtown,"Al Mustaqbal Street, Dubai, United Arab Emirates",Dubai,a2b965e2-9bbc-4ba4-9b27-085e80e4d1db
+hotel_329,"Staybridge Suites Dubai Al-Maktoum Airport, an IHG Hotel","Aviation City A, Dubai World Central, null Dubai, United Arab Emirates",Dubai,80ee4fba-2690-4520-8adc-a5d1dc09c47b
+hotel_330,Ibis Al Rigga,"Al Rigga Road, Dubai, United Arab Emirates",Dubai,8b771ec6-ef26-410c-a62b-def36269eff1
+hotel_331,"Barcelo Al Jaddaf, Dubai","326 Al Khail Road, Al Jaddaf Area, United Arab Emirates, Bur Dubai, Dubai, United Arab Emirates",Dubai,eb38090a-0881-4fa3-9b36-6ba4aa1f3dd5
+hotel_332,Paramount Hotel Dubai,"Marasi Drive, Dubai, United Arab Emirates",Dubai,b292232f-7c0f-4245-9246-11c12c96b4fa
+hotel_333,GLOBALSTAY at Palm Jumeirah Beachfront Paradise with Pool and Gym,"Sarai Apartments, Palm Jumeirah East Crescent Rd, Palm Jumeirah, Dubai, United Arab Emirates",Dubai,20686693-47f6-461b-ad27-67b9dcd9005d
+hotel_334,SIMPLY COMFORT in Sarai Palm Jumeirah,"Crescent Road, Palm Jumeirah, Dubai, United Arab Emirates",Dubai,a7402ef9-f6f2-4811-9bd5-eeef3fdfaa8f
+hotel_335,Hampton By Hilton Dubai Airport,"Damascus Street, Al Qusais, Al Qusais, Dubai, United Arab Emirates",Dubai,1eed41aa-b58d-48c6-a973-e4877762d0c5
+hotel_336,Al Fattan I Sea View I Luxury JBR I Free 5 Star Beach Resorts Access!,"Al Fattan Marine Tower, Jumeirah Beach Residence, Dubai, United Arab Emirates",Dubai,9f9480f0-e4af-4d21-9348-8e85fa338e90
+hotel_337,Millennium Executive Apartments Mont Rose,"Dubai Science Park, Al Barsha South Dubai, Al Barsha, Dubai, United Arab Emirates",Dubai,643f53d2-d9ff-408d-bc89-636cf5ff82a5
+hotel_338,Anantara The Palm Dubai Resort,"The Palm Jumeirah, Crescent Road (East), Palm Jumeirah, 71607 Dubai, United Arab Emirates",Dubai,4650e4d7-50b8-4c6a-8319-d2c578e899ac
+hotel_339,ibis Styles Dubai Deira,"ibis Styles Dubai Deira Maitha Plaza Al Khaleej Road 110 Deira, 15472 Dubai, United Arab Emirates",Dubai,59d8a9e9-581e-4d51-b28a-b5178a028932
+hotel_340,DoubleTree by Hilton Dubai - Business Bay,"Bay Square 5, Business Bay , Dubai, United Arab Emirates",Dubai,3a06ad80-40b3-4397-b62c-5b72f0bf7eef
+hotel_341,"Element Al Mina, Dubai Jumeirah","Sheikh Rashid Road & 37th Street, Bur Dubai, Dubai, United Arab Emirates",Dubai,c4e03531-aea7-460b-b564-0337e9ac6f0b
+hotel_342,Pullman Dubai Downtown,"Marasi Drive, Business Bay, Dubai, United Arab Emirates",Dubai,fbb60401-c274-499f-b26d-54d768682926
+hotel_343,Beach Walk Boutique Jumeirah,"Beach Walk Boutique Jumeirah Jumeirah Beach Road Next to Umm Suqeim Umm Suqeim Dubai - United Arab Emirates, Umm Suqeim, Dubai, United Arab Emirates",Dubai,5e532f88-622c-4025-8ab2-770f000b4ba2
+hotel_344,LUX 1BR Burj Khalifa and Fountain Views,"15 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai, Dubai, United Arab Emirates",Dubai,b03611fd-acce-4315-945c-b9a8ea67cccf
+hotel_345,FAM Living - City Walk - Urban Staycations,"City Walk , Building 6A, Al Wasl, Dubai, United Arab Emirates",Dubai,68672da8-db17-40af-a531-49ba08112135
+hotel_346,Jannah Marina Hotel Apartments,"Al Seba Street, Dubai Marina, Dubai, United Arab Emirates",Dubai,86df46e7-f16a-4c04-a187-3bd709ec67c9
+hotel_347,Silvia s holiday homes Marina & JBR Atlantic,"Al Marsa Street, Jumeirah Beach Residence, Dubai, United Arab Emirates",Dubai,f82350b6-6f2c-4ec0-8baf-436364b31316
+hotel_400,Sakura Hotel Nippori,"Tokyo-to, Tokyo, Bunkyo-ku Sendagi 3-43-15, Japan",Tokyo,99eb034e-7ce4-4e2f-beb8-3d72f89328dd
+hotel_401,MONday Apart Premium Asakusa,"Tokyo-to, Tokyo, Taitoku Nishiasakusa 2-16-5, Japan",Tokyo,59243f03-514c-4953-b8df-7fa24483d045
+hotel_402,Henn na Hotel Tokyo Haneda,"Tokyo-to, Tokyo, Higashikojiya 2-11-18, Japan",Tokyo,807d011c-fecf-4482-a534-747a3a882f81
+hotel_403,Henn na Hotel Tokyo Nishikasai,"Tokyo-to, Tokyo, Edogawa-ku Nishikasai 5-4-7, Japan",Tokyo,23424354-0691-4e04-b7ac-5898e74b09e7
+hotel_404,Comfort Hotel Tokyo Higashi Kanda,"Tokyo-to, Tokyo, Chiyoda-ku Higashi-Kanda 1-9-10, Japan",Tokyo,b4f3d943-4548-43af-aabc-879767e254a6
+hotel_405,Hotel GrandBach Tokyo Ginza,"Tokyo-to, Tokyo, Chuo-ku Ginza 5-13-12, Japan",Tokyo,53fc0203-e816-4438-b11e-87b2c2a1c72c
+hotel_406,Hotel Musse Ginza Meitetsu,"Tokyo-to, Tokyo, Chuo-ku Ginza 7-12-9, Japan",Tokyo,7a806167-8fd9-464a-bed6-3bbb4280c1bc
+hotel_407,Henn na Hotel Tokyo Asakusabashi,"Tokyo-to, Tokyo, Taito-ku Asakusabashi 1-10-5, Japan",Tokyo,c90b0bf5-4dc4-4ab9-9c2b-83b3a4b42e37
+hotel_408,Hotel JAL City Tokyo Toyosu,"Tokyo-to, Tokyo, Koto-ku Toyosu 6-4-20, Japan",Tokyo,8e9b6596-ebc4-4a2a-9420-1fb0c0f38a05
+hotel_409,Comfort Hotel Tokyo Higashi Nihombashi,"Tokyo-to, Tokyo, Chuo-ku Nihombashi Bakurocho 1-10-11, Japan",Tokyo,96b503cc-3cf4-4c0e-a4e8-50261ce996fb
+hotel_410,KOKO HOTEL Tsukiji Ginza,"Tokyo-to, Tokyo, 6-8-8 Tsukiji, Chuo-ku, Japan",Tokyo,5283f4fd-dacd-4264-8c95-ef203e7770e7
+hotel_411,"The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection","Tokyo-to, Tokyo, Minato-ku, Shiba Koen 4-8-1 , Japan",Tokyo,df1b01e0-d941-4f75-a8ac-f3a3d97a883f
+hotel_412,hotel MONday Tokyo Nishikasai,"Tokyo-to, Tokyo, Edogawa-ku Nishikasai 6-8-7, Japan",Tokyo,84597220-e127-412c-b0f2-7dcc8efbfa90
+hotel_413,Richmond Hotel Premier Tokyo Schole,"Tokyo-to, Tokyo, Sumida-ku Oshiage 1, Japan",Tokyo,905557fb-5e16-40e0-a206-18b6016d2edd
+hotel_414,Best Western Hotel Fino Tokyo Akasaka,"Tokyo-to, Tokyo, Minato-ku, Akasaka 3-7-12, Japan",Tokyo,5e5b348f-93a6-4f90-93b2-3314419b42be
+hotel_415,Grand Prince Hotel Shin Takanawa,"Tokyo-to, Tokyo, Minato-ku, Takanawa 3-13-1, Japan",Tokyo,9f82f820-b923-41cd-b0bb-9257d7c4ab75
+hotel_416,Hotel Resol Akihabara,"Tokyo-to, Tokyo, Chiyoda-ku Kanda Sudacho 2-25, Japan",Tokyo,dd64b1c8-6343-4a4b-bde7-ca949a7dd409
+hotel_417,Hotel Wing International Premium Tokyo Yotsuya,"Tokyo-to, Tokyo, Shinjuku-ku Yotsuya3-14-1, Japan",Tokyo,0b870e3f-3264-451d-8727-c135fd407605
+hotel_418,ICI HOTEL Asakusabashi,"Tokyo-to, Tokyo, Taito-ku Asakusabashi 1-26-6, Japan",Tokyo,9a70f619-3601-4a26-b4b8-27800eb3b52d
+hotel_419,MIMARU Tokyo Kinshicho,"Tokyo-to, Tokyo, Sumida-ku Kotobashi 4-11-5, Japan",Tokyo,bda2a8b0-3f72-4aa7-ad7d-aca715628cd6
+hotel_420,Hotel Gracery Shinjuku,"Tokyo-to, Tokyo, Shinjuku-ku Kabukicho 1-19-1, Japan",Tokyo,b5f4d676-314b-405e-a9c2-6a9ebf416f2e
+hotel_421,"Mandarin Oriental, Tokyo","Tokyo-to, Tokyo, Chuo-ku Nihonbashi Muromachi 2-1-1, Japan",Tokyo,14ae3383-94e1-4eaf-903d-99d1f89d5feb
+hotel_422,THE KITANO HOTEL TOKYO,"Tokyo-to, Tokyo, Chiyoda-ku Hirakawacho 2-16-15 , Japan",Tokyo,3eb44ee7-7749-4482-a0b7-9d11f2f10a24
+hotel_423,Minn Nishi Kasai,"Tokyo-to, Tokyo, Edogawa-ku Nishikasai 3-13-17, Japan",Tokyo,0d95eab2-d1a2-4341-b520-5e93a2f4836b
+hotel_424,hotel MONday Premium Ueno Okachimachi,"Tokyo-to, Tokyo, Taito-ku, Taito 3-41-7, Japan",Tokyo,d498c670-d25a-4035-a71b-00f5d011e100
+hotel_425,Tokyo Bay Shiomi Prince Hotel,"Tokyo-to, Tokyo, Koto-ku Shiomi 2-8-16, Japan",Tokyo,d28c4ba9-20e0-4073-bae6-80f0e35101da
+hotel_426,Minn Kasai,"Tokyo-to, Tokyo, Edogawa-ku Nakakasai 3-32-13, Japan",Tokyo,2923cbfe-37fc-4efa-bacb-4d54cc45da58
+hotel_427,Hotel BaliAn Resort Shinjuku Glamping,"Tokyo-to, Tokyo, 新宿区歌舞伎町2-29-11, Japan",Tokyo,8ba31b3b-e48b-4683-80e5-ecd00e28e018
+hotel_428,HOTEL PetitBali Higashi-Shinjuku,"Tokyo-to, Tokyo, Shinjuku-ku Kabukicho 2-5-1 , Japan",Tokyo,2ab6ea82-b137-4c0a-8eae-55037cbcb40c
+hotel_429,Candeo Hotels Tokyo Roppongi,"Tokyo-to, Tokyo, Minato-ku Roppongi 6-7-11, Japan",Tokyo,2b15d8db-789b-48ca-8a8d-cf1b271fb705
+hotel_430,Hotel Tokyo Trip Ueno Nishi Nippori,"Tokyo-to, Tokyo, Arakawa-ku, Nishinippori 5-18-14, Japan",Tokyo,d0222172-3ad9-4003-b947-58b0bad71c5f
+hotel_431,Grand Prince Hotel Takanawa,"Tokyo-to, Tokyo, Minato-ku, Takanawa 3-13-1, Japan",Tokyo,f0111197-736c-4193-b50c-b3bb91b44210
+hotel_432,ICI HOTEL Ueno Shin Okachimachi,"Tokyo-to, Tokyo, Taito-ku Taito 4-23-11, Japan",Tokyo,28c5c266-f282-4724-a574-fbddec72b635
+hotel_433,MONday Apart Premium UENO OKACHIMACHI,"Tokyo-to, Tokyo, Taito-ku Ueno 3-8-8, Japan",Tokyo,c09c8142-1ef4-4f5b-a8c1-d23a4fac9837
+hotel_434,KOKO HOTEL Ginza-1chome,"Tokyo-to, Tokyo, Chuo-ku Ginza1-9-5, Japan",Tokyo,1163bd6e-a79a-4fda-9a8c-897774bc4c5a
+hotel_435,KOKO HOTEL Premier Nihonbashi Hamacho,"Tokyo-to, Tokyo, Chuo-ku Nihonbashihamacho 2-30-4, Japan",Tokyo,0c125913-116b-4e40-930c-5ad739721dbe
+hotel_436,Hotel Balian Resort Shinjuku Honten,"Tokyo-to, Tokyo, Shinjuku-ku Kabukicho 2‐1-11, Japan",Tokyo,233eef3f-84a1-4eba-9bff-5a32258b8d40
+hotel_437,Minn Akihabara,"Tokyo-to, Tokyo, Taito-ku Taito 1-22-3, Japan",Tokyo,31ddb22b-6365-4ada-8201-a66f0f1b41f8
+hotel_438,Asakusa View Hotel Annex Rokku,"Tokyo-to, Tokyo, Taito-ku Asakusa 2-9-10, Japan",Tokyo,81c3bfa9-165c-49db-962d-659a8da7de94
+hotel_439,Daiwa Roynet Hotel Tokyo Akabane,"Tokyo-to, Tokyo, Kita-ku, Akabane Minami 1-9-13, Japan",Tokyo,03b141a9-f884-45bb-afe4-c3e2b4d7fc65
+hotel_440,COGO Ryogoku,"Tokyo-to, Tokyo, Ryogoku 4-30-5, Japan",Tokyo,3a16d1d2-78b0-42b1-a9a0-98a4e43edfd6
+hotel_441,MONday Apart Premium UENO,"Tokyo-to, Tokyo, Taito-ku Kita-Ueno 1-7-6, Japan",Tokyo,9764e46c-a967-4e4f-8df9-c492817528a5
+hotel_442,DDD HOTEL,"Tokyo-to, Tokyo, Chuo-ku Nihonbashi Bakuracho 2-2-1, Japan",Tokyo,17916caf-6634-4845-afad-7c0facd43532
+hotel_443,Hotel Indigo Tokyo Shibuya,"Tokyo-to, Tokyo, Shibuya-ku Dogenzaka 2-25-12, Japan",Tokyo,f64eded6-ff3b-4bcf-b10c-77708adfd40c
+hotel_444,Hotel Graphy Nezu,"Tokyo-to, Tokyo, Taito-ku Ikenohata 4-5-10, Japan",Tokyo,7ca07418-683e-437b-ac2c-24c4014d55c1
+hotel_445,home story in Tokyo Ueno 東京屋語 in 小島ビル,"Tokyo-to, Tokyo, 東京都台東区根岸２－１－９小島ビル, Japan",Tokyo,573e83a5-1fce-47dc-a1d3-699f65eb1663
+hotel_446,The Royal Park Hotel Tokyo Haneda Airport Terminal 3,"Tokyo-to, Tokyo, Ota-ku Haneda Airport 2-6-5, Japan",Tokyo,0063cd64-6c17-4af3-bf04-4f2c1cb84bfe
+hotel_447,HOTEL GRAPHY Shibuya,"Tokyo-to, Tokyo, Shibuya-Ku, Higashi 1-29-3, Japan",Tokyo,54946e93-75dc-496b-82fa-3e641e7af2ef
+hotel_448,MONday Apart Premium Nihonbashi,"Tokyo-to, Tokyo, Chuo-ku Nihonbashihoncho 4-1-5 , Japan",Tokyo,d060f7ad-1452-4cb1-9f78-26e902e7dcba
+hotel_449,Hotel Balian Resort Higashi Shinjuku,"Tokyo-to, Tokyo, Shinjuku-ku Kabukicho 2-19-17, Japan",Tokyo,f9dcc14c-5712-4abb-b15b-4a1fc8d84811
+hotel_450,MONday Apart Premium AKIHABARA ASAKUSABASHI Sta.,"Tokyo-to, Tokyo, 1-5-2 Asakusabashi, Taito-ku, Japan",Tokyo,95690f78-b520-492c-be92-689d3a07cd56
+hotel_451,KOKO HOTEL Residence Asakusa Kappabashi,"Tokyo-to, Tokyo, Taito-ku Nishi Asakusa 3-24-2, Japan",Tokyo,5c69b508-79d6-4396-92b9-d7cb2e0bfc69
+hotel_452,hotel MONday Akihabara Asakusabashi,"Tokyo-to, Tokyo, Taito-ku Asakusabashi 2-29-12, Japan",Tokyo,1abe44fc-2c18-4221-8e9d-1f49deb690f0
+hotel_453,hotel MONday Asakusa,"Tokyo-to, Tokyo, Taito-ku Asakusa 2-26-7, Japan",Tokyo,f5e79ccd-f7f7-4ad1-8a02-d39d9b4ebd03
+hotel_454,MONday Apart Ueno Shinokachimachi,"Tokyo-to, Tokyo, Taito-ku Higashiueno 1-27-11, Japan",Tokyo,712b9b54-31fc-423c-894a-f03d54de199c
+hotel_455,KAIKA TOKYO by THE SHARE HOTELS,"Tokyo-to, Tokyo, Sumida-ku Honjo 2-16-5 , Japan",Tokyo,68174192-f84a-458b-b5a3-bd35ee886c59
+hotel_456,MONday Apart Asakusabashi Akihabara,"Tokyo-to, Tokyo, Taito-ku 4-15-5 Asakusabashi, Japan",Tokyo,aad253be-eb66-4fa2-a960-681bd1a36b9d
+hotel_457,Petit Bali Ikebukuro,"Tokyo-to, Tokyo, Ikebukuro2-12-11, Japan",Tokyo,5c7539c5-f843-411c-84e9-9bcf31ba090a
+hotel_458,MONday Apart Premium AKIHABARA,"Tokyo-to, Tokyo, 4-5 Sakuma-cho, Kanda, Chiyoda-ku, Japan",Tokyo,56d6fc63-fa8d-4802-8078-0c91d59d7dde
+hotel_459,HOTEL MYSTAYS PREMIER Omori,"Tokyo-to, Tokyo, Shinagawa-ku Minami-Oi 6-19-3, Japan",Tokyo,f5159889-a991-4769-ab83-a710fa8e37f7
+hotel_500,Cheval Gloucester Park at Kensington,"Ashburn Place, Kensington , London SW7 4LL, Kensington and Chelsea, London, SW7 4LL, United Kingdom",London,afbb86c8-32ea-4500-a7c0-5965d268f9c1
+hotel_501,Millennium Hotel London Knightsbridge,"17-25 Sloane Street, Knightsbridge, Kensington and Chelsea, London, SW1X 9NU, United Kingdom",London,d1cde2cf-e1b3-4da8-aa52-7a77d853d538
+hotel_502,citizenM Tower of London,"40 trinity square, City of London, London, EC3N 4DJ, United Kingdom",London,6b288e17-aea2-4018-b453-56e96505e648
+hotel_503,"The May Fair, A Radisson Collection Hotel, Mayfair London","Stratton Street, Mayfair, Westminster Borough, London, W1J 8LT, United Kingdom",London,c1970022-a5c1-49b6-8591-fa4f88514254
+hotel_504,Rubens At The Palace,"39 Buckingham Palace Road, Westminster Borough, London, SW1W 0PS, United Kingdom",London,6209e9d5-ea39-45ef-a591-20cffc813570
+hotel_505,Locke at Broken Wharf,"2 Broken Wharf Broken Quay House, City of London, London, EC4V 3DT, United Kingdom",London,ce172075-82eb-4b62-9f86-41024dbf51bf
+hotel_506,The Dilly,"21 Piccadilly, Westminster Borough, London, W1J 0BH, United Kingdom",London,f21583c1-d368-437e-ac9e-c88942598712
+hotel_507,Park Plaza London Westminster Bridge,"Westminster Bridge Road, Lambeth, London, SE1 7UT, United Kingdom",London,8e1ffae9-b082-4acb-8dd0-3464fd5cc50e
+hotel_508,The Chesterfield Mayfair,"35 Charles Street, Mayfair, Westminster Borough, London, W1J 5EB, United Kingdom",London,9ae0bbb7-d175-4353-b0fb-6fec23ccdd7d
+hotel_509,Middle Eight - Covent Garden - Preferred Hotels and Resorts,"66-69 Great Queen Street, Covent Garden, Camden, London, WC2B 5BX, United Kingdom",London,1bf7ac35-111c-4e28-84bd-81e99953d2c7
+hotel_510,The Grand at Trafalgar Square,"8 Northumberland Avenue, Westminster Borough, London, WC2N 5BY, United Kingdom",London,d0b531f1-9f68-45ca-8c2d-78c7ff6053a2
+hotel_511,Jubilee Hotel Victoria,"31 Eccleston Square, Victoria, Westminster Borough, London, SW1V 1NZ, United Kingdom",London,2deaf472-3ec1-432d-a839-5e6556862cb1
+hotel_512,Ruby Stella Hotel London,"15-28 Eyre Street Hill, Camden, London, EC1R 5EW, United Kingdom",London,2f002aea-ab10-4d7f-aa2e-b9101e977ee4
+hotel_513,"Montcalm Piccadilly Townhouse, London West End","65-73 Shaftesbury Avenue, Westminster Borough, London, W1D 6EX, United Kingdom",London,770e7760-3cf7-4194-a827-11b793c6aaa7
+hotel_514,Royal Lancaster London,"Lancaster Terrace, Westminster Borough, London, W2 2TY, United Kingdom",London,013b2c3c-1f0a-42a7-b654-c2bbef862067
+hotel_515,The Guardsman - Preferred Hotels and Resorts,"1 Vandon Street Westminster, Westminster Borough, London, SW1H 0AH, United Kingdom",London,3f0d8959-cc84-4ddd-91f1-d5c791f66dfb
+hotel_516,Apex City Of London Hotel,"No 1 Seething Lane, City of London, London, EC3N 4AX, United Kingdom",London,5aab2ec8-5c63-4f00-afb0-b7e19994dee4
+hotel_517,Leonardo Royal London St Paul’s,"10 Godliman Street, City of London, London, EC4V 5AJ, United Kingdom",London,f3fd5cf2-bd2e-4480-8fc1-51e013abb2fb
+hotel_518,ME London by Melia - Covent Garden,"336-337 Strand, London, Westminster Borough, London, WC2R 1HA, United Kingdom",London,90eefdf0-15b2-4a29-96df-3606d98b2c8f
+hotel_519,Modern Kensington Apartments,"10 Nevern Road, Kensington and Chelsea, London, SW5 9PJ, United Kingdom",London,8e5bdb4a-c5fb-446a-9d27-c7bd0a40c0c7
+hotel_520,The Mayfair Townhouse - an Iconic Luxury Hotel,"Half Moon Street, Westminster Borough, London, W1J 7BN, United Kingdom",London,6dc7c3d7-f47d-43a7-a225-a0d928ddc8e2
+hotel_521,Crane Court by City2Stay,"1 Crane Court, City of London, London, EC4A 2EJ, United Kingdom",London,a44d12d0-9bc1-480f-b2c3-7e4f361d98ac
+hotel_522,"Bermonds Locke, Tower Bridge","153 -157 Tower Bridge Road Southwark, Southwark, London, SE1 3LW, United Kingdom",London,0fa06ba7-1566-40e4-95a6-d47615b8ff07
+hotel_523,"Chancery Quarters, Chancery Lane","124 Chancery Lane Chancery Quarters, Westminster Borough, London, WC2A 1PT, United Kingdom",London,36f1a522-f880-4b15-937a-b9debdac0005
+hotel_524,"Club Quarters Hotel Trafalgar Square, London","8 Northumberland Avenue, Westminster Borough, London, WC2N 5BY, United Kingdom",London,7341417c-60df-450d-822d-0b2b109cace5
+hotel_525,"Radisson Blu Hotel, London Bloomsbury","9-13 Bloomsbury Street, Nr Covent Garden, Camden, London, WC1B 3QD, United Kingdom",London,40f7ec2e-53a7-4ef3-9b1c-dc4cad81785f
+hotel_526,The Cleveland,"39-40 Cleveland Square, Westminster Borough, London, W2 6DA, United Kingdom",London,848889ca-cf77-44c6-ba24-4cb05335f66d
+hotel_527,Apex Temple Court Hotel,"1-2 Serjeant's Inn, Fleet Street, City of London, London, EC4Y 1AG, United Kingdom",London,e8eaf2b3-2fb6-4890-be03-e90cf74d0b7a
+hotel_528,NYX Hotel London Holborn by Leonardo Hotels,"Southampton Row,, Camden, London, WC1B 4AR, United Kingdom",London,4afaa51a-1e83-4cfd-9d84-d152514d14b9
+hotel_529,Red Lion Court by City2Stay,"9 Red Lion Court, London, London, City of London, London, EC4A 3EF, United Kingdom",London,9dc2fcbf-adbe-4bd5-9636-9696655fadc2
+hotel_530,"Radisson Blu Hotel, London South Kensington - formerly Vanderbilt","68-86 Cromwell Road, Kensington, Kensington and Chelsea, London, SW7 5BT, United Kingdom",London,c1a22043-5a57-44c7-84f3-6e7b830d7658
+hotel_531,The LaLit London,"181 Tooley Street, Southwark, London, SE1 2JR, United Kingdom",London,27003d7f-9ad1-4ebd-b0d7-56570a06a6b6
+hotel_532,"Club Quarters Hotel St Paul's, London","24 Ludgate Hill, City of London, London, EC4M 7DR, United Kingdom",London,15922f94-acb2-4a88-935d-fa1fa49da9d3
+hotel_533,"Holiday Inn London Kensington High St., an IHG Hotel","Wrights Lane, Kensington and Chelsea, London, W8 5SP, United Kingdom",London,fee8b99e-8a54-481f-9122-9c69b9cf0b36
+hotel_534,41,"41 Buckingham Palace Road, Westminster Borough, London, SW1W 0PS, United Kingdom",London,8ea57708-7587-4494-8e1e-b72200c5737c
+hotel_535,Princes Square,"23-25 Princes Square, Off Ilchester Gardens, Westminster Borough, London, W2 4NJ, United Kingdom",London,891ddb31-2a4b-41ed-83de-8c19361316f5
+hotel_536,"Radisson Blu Hotel, London Leicester Square - formerly Hampshire","31-36 Leicester Square, Westminster Borough, London, WC2H 7LH, United Kingdom",London,edbc9fa5-db5f-44a3-8c4b-5dd07b44c525
+hotel_537,The Beaufort,"33 Beaufort Gardens, Kensington and Chelsea, London, SW3 1PP, United Kingdom",London,81c805d0-b64c-44cd-899a-e5584e992ba5
+hotel_538,Montcalm Brewery Townhouse,"42-46 Chiswell Street, Islington, London, EC1Y 4SB, United Kingdom",London,7421b71f-c3dd-491a-b303-13a93a7e9316
+hotel_539,"Montcalm Chilworth Townhouse, Paddington","55 Westbourne Terrace, Paddington, London, Westminster Borough, London, W2 3UY, United Kingdom",London,a6a48375-20c6-43e5-a80e-410cd8247770
+hotel_540,Chancery Lane by Viridian Apartments,"116-118 Chancery Lane, Westminster Borough, London, WC2A 1PP, United Kingdom",London,73222e57-1af1-4253-876e-3bee57508e5e
+hotel_541,Riu Plaza London Victoria,"1 Neathouse Place, Westminster Borough, London, SW1V 1LH, United Kingdom",London,44e1a9b5-607b-41a7-9258-1d411275c6f9
+hotel_542,Ember Locke Kensington,"202 Cromwell Road, Kensington and Chelsea, London, SW5 0SW, United Kingdom",London,471bdcc6-45db-4a1c-8241-a801eb07e481
+hotel_543,Park Avenue Bayswater Inn Hyde Park,"8-16 Princes Square, Westminster Borough, London, W2 4NT, United Kingdom",London,7848be6f-7cd8-42a7-be2d-6ac688b7d222
+hotel_544,"Montcalm Royal London House, London City","22-25 Finsbury Square, City , Islington, London, EC2A 1DX, United Kingdom",London,a3d340e2-19b4-46ad-81fa-9417849b9717
+hotel_545,Notting Hill House,"24 Pembridge Gardens, Kensington and Chelsea, London, W2 4DX, United Kingdom",London,08b17e5d-53e2-42fe-950a-5ba9127fc3f8
+hotel_546,St Anne's Court by Indigo Flats,"Saint Anne's Court - Suite A, Westminster Borough, London, W1F 0BE, United Kingdom",London,e788d3a9-10de-43e1-bbd7-13153453c11d
+hotel_547,Grand Plaza Serviced Apartments,"42 Princes Square, Westminster Borough, London, W2 4AD, United Kingdom",London,e015d132-645b-4a92-b57c-31f6ae195569
+hotel_548,The Lincoln Suites,"37-39 Kingsway, Westminster Borough, London, WC2B 6TP, United Kingdom",London,04bbd385-02bb-4db8-86ad-732e365f10cc
+hotel_549,Wilde Aparthotels London Covent Garden,"11 ADAM STREET Covent Garden, Westminster Borough, London, WC2R 0DA, United Kingdom",London,81ecc114-e626-4216-8903-a84b7dfae7da
+hotel_550,Bob W Hyde Park,"14 Devonshire Terrace, Westminster Borough, London, W2 3DW, United Kingdom",London,e59bc813-2105-4a3c-a247-778699704ea5
+hotel_600,Ferienwohnungen Maria Ginther,"Oberpinswang 24, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria",11544a0b-9f07-4ff0-bda7-e3770c3f8502
+hotel_601,"Ferienwohnung Lechufer, 80m2 mit 2 Terrassen und Garten","34 Oberpinswang, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria",d0a41009-d175-4920-9230-2f27ce99aea2
+hotel_602,Erholung gesucht - gefunden,"71 Unterpinswang, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria",cb218c36-3000-43bc-8eff-ea68faab2d51
+hotel_603,Alpenchalet Vils Tirol,"Unterwies 1, 6682 Vils, Austria","Pinswang, Tyrol, Austria",670ae62f-89ac-4b46-b6df-5ef4daecebba
+hotel_604,Haus Martinsklause,"59 Platte, 6600 Musau, Austria","Pinswang, Tyrol, Austria",33226a1c-e88a-4d91-af33-480d8934de10
+hotel_605,Ferienwohnung Lechglück,"30 Kappl, 6600 Pflach, Austria","Pinswang, Tyrol, Austria",9003892c-0cc7-477b-84b7-ea06c31a136b
+hotel_606,Bauernlodge-Musauer-Lechauen,"Riedle 14, 6600 Musau, Austria","Pinswang, Tyrol, Austria",42a6efd5-4525-44e1-bab8-727117b51c45
+hotel_607,Lebenskraft-Apartments,"Unterdorf 38, Lechaschau, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",db1fa5a3-7fcc-4e98-92eb-6227b788b5c4
+hotel_608,Appartement Jakalar,"1 Obweg, 6682 Vils, Austria","Pinswang, Tyrol, Austria",b4963a1c-90ea-41f6-8083-63c9f61bab95
+hotel_609,Hotel zum Schwanen - Appartement 1,"Füssener Straße 2, 6600 Pflach, Austria","Pinswang, Tyrol, Austria",3710be8f-69cc-432f-be68-482ab45ed5ac
+hotel_610,Ferienwohnung Angerwies in Vils - Tirol,"12 Angerwies, 6682 Vils, Austria","Pinswang, Tyrol, Austria",3fa03581-5578-4935-8b70-754493f89941
+hotel_611,Ferienappartement Vastu,"Kappl 8, 6600 Pflach, Austria","Pinswang, Tyrol, Austria",5345944a-6ae8-4048-bf78-450372f432a3
+hotel_614,Hotel zum Schwanen - Appartement 3,"Füssener Straße 2, 6600 Pflach, Austria","Pinswang, Tyrol, Austria",126a4039-3520-4bf9-8854-994db942bda8
+hotel_617,Reiterhof Berggut Gaicht,"Berggut Gaicht 17, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",49e29a55-11bc-4b53-9d03-3ea8fb2b91dc
+hotel_618,"SHERPA HAUS Ferienwohnung am Hahnenkamm,Reutte","3 Bergbahnstraße, 6604 Hofen, Austria","Pinswang, Tyrol, Austria",a00be41e-ac76-494a-bca5-461d0a2edc08
+hotel_619,Haus Capella,"Dorfstraße 7, 6673 Grän, Austria","Pinswang, Tyrol, Austria",520ab508-bfc9-4200-9eb1-646afb5f6ac2
+hotel_620,Landhaus Perktold,"Nesselwängle 82, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",b7e07522-81f8-4bae-92cc-7295bb8156bb
+hotel_621,Wei Wei's Hostel,"Schlossbergweg 21, 6600 Ehenbichl, Austria","Pinswang, Tyrol, Austria",04320be1-7cbf-4632-8480-644d246a5dcc
+hotel_622,Apartments Frauensee,"Unterdorf 29/2, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",b58b345c-0350-414a-80e1-0ff82f690a6e
+hotel_623,Pension Hohenrainer,"Schulweg 7, Ehenbichl, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",2a986aa9-d60e-4d32-833f-2d93e04389a4
+hotel_624,Appartement Soyer,"Alte Bundesstraße 41, 6604 Hofen, Austria","Pinswang, Tyrol, Austria",b12a7826-dba6-4725-a309-6ddf00882389
+hotel_625,BauernLodge Alpin Appartements,"Dorfstrasse 22, 6604 Hofen, Austria","Pinswang, Tyrol, Austria",4daf1991-cc8c-4b35-a889-f9e79f3d5056
+hotel_626,Gästehaus Elfriede inklusive Sommerbergbahnticket,"Oberdorf 1, 6673 Haldensee, Austria","Pinswang, Tyrol, Austria",95140d83-a7a3-4b3d-8c1a-8119867f6b22
+hotel_627,Haus Zitt,"8 Angerweg, 6673 Grän, Austria","Pinswang, Tyrol, Austria",b533943b-c279-4ca6-90f5-c888033cf946
+hotel_628,Haus Sonnblick,"Dorfstrasse 12, 6610 Wangle, Austria","Pinswang, Tyrol, Austria",8e588288-2524-42dc-a456-2a9b0c88c9fa
+hotel_629,Haus Moosbrugger,"Reuttener Straße 22, Ehenbichl, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",a2368fd7-41b1-4d47-a0fc-47a043135f64
+hotel_630,Naturparkferienwohnungen Wolf,"Untere Platte 13, 6604 Hofen, Austria","Pinswang, Tyrol, Austria",ef1a00f9-7195-4ef0-a39a-7da6f07e524c
+hotel_631,Via Salina - Hotel am See - Adults Only,"Haller 11, 6672 Haldensee, Austria","Pinswang, Tyrol, Austria",d0e0b227-be94-4127-8456-a1b69ff2630a
+hotel_632,Hotel Moserhof,"Planseestrasse 44, Breitenwang, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",2e6fbf3c-1960-451c-95c4-494b7ebcd935
+hotel_633,Gästehaus Hosp,"Alte Bundesstraße 65, Höfen, 6604 Reutte, Austria","Pinswang, Tyrol, Austria",603caa3c-c243-4bf3-a8cc-c89925ad6fcd
+hotel_634,Alpenapart Singer - contactless check-in,"Oberried 1, Ehenbichl, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",9e2324e5-fd9e-450a-a10d-0d0ac6fba17e
+hotel_635,Hotel Goldene Rose,"Dorfstraße 2, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",fc9265b3-d190-4e91-b62c-0ba1bf3aaeaa
+hotel_636,Landhaus Krinnenspitze,"113 Nesselwängle, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",617cc0f0-c4d5-4e50-980d-cc0fe71a2091
+hotel_637,Apartements Breitenwang,"Muhl-Oberried, 3, Breitenwang, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",09cfae03-7ac4-409d-bb04-d5f7c2b35a02
+hotel_638,Burgchalet,"Schulweg 5, Ehenbichl, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",4939ed6d-772d-4b54-8af9-19e76c983d62
+hotel_639,Ferienwohnung Gasser,"Dorfstraße 5, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",309280fb-afec-444e-aa87-c74364742a6f
+hotel_640,Haus Glätzle,"Kindergartenstrasse 12, 6600 Breitenwang, Austria","Pinswang, Tyrol, Austria",7f17ac21-3ffd-42d2-9a0a-60f3548e28ff
+hotel_641,Mühler Hof,"Mühler Straße 77, 6600 Doktor Schwarzkopf-Siedlung, Austria","Pinswang, Tyrol, Austria",13be0c46-8e1b-490a-bca0-fdb4038dd9a1
+hotel_642,Ferienwohnungen LODGE-B,"22 Sommer, 6671 Weissenbach am Lech, Austria","Pinswang, Tyrol, Austria",930e026f-339f-4170-b0ef-fd974f5cbff7
+hotel_643,Wellnesshotel ...liebes Rot-Flüh,"Seestraße 26, 6673 Haldensee, Austria","Pinswang, Tyrol, Austria",46dafc84-d7ed-4491-89b7-1532f7c7a2e2
+hotel_644,Alpenhof Wängle,"Dorfstraße 11, Wängle, 6610 Reutte, Austria","Pinswang, Tyrol, Austria",11d3dce0-3050-4511-939f-d54b30a1c0b0
+hotel_645,Haus Hermi,"Oberland 17, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",8e049802-ae55-46af-b4b4-3ff091fc585d
+hotel_646,Haus Müller,"Unterdorf 32, Wängle, 6610 Reutte, Austria","Pinswang, Tyrol, Austria",0f8c8f0d-4040-40c6-8f15-121cbb74677d
+hotel_647,Ferienwohnungen Kathrein,"Unterried 12, Ehenbichl, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",2947bd3e-303f-4a61-b5bc-7b716d046317
+hotel_648,Das Edelweiss,"Dorfstrasse 14, 6673 Grän, Austria","Pinswang, Tyrol, Austria",6d88875c-24a2-4ef2-9933-44fd856da34d
+hotel_649,Landhaus Panorama,"St. Mang-Straße 42, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",b1014de5-e335-4862-9c41-6e56b9a2219c
+hotel_650,Haus-Anita,"St. Wendelin-Weg 6a, 6673 Grän, Austria","Pinswang, Tyrol, Austria",3a5d8831-a4f9-4fb7-a057-f89c8b84eca3
+hotel_651,Hotel Tyrol am Haldensee,"Seestrasse 24, 6673 Haldensee, Austria","Pinswang, Tyrol, Austria",1fe95afd-0031-4deb-830a-4e1c216ec7e0
+hotel_652,Ferienwohnung Lechleitner,"Holz 13a, Wängle, 6610 Reutte, Austria","Pinswang, Tyrol, Austria",aa45f77a-53be-4857-9a3e-27b434ef6c8c
+hotel_653,Haus Mariandl,"HNR 101, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",cf4f6232-a411-444a-9687-bb0661f1f314
+hotel_655,Apartmenthaus Ehrenberg,"Oberried 28, 6600 Ehenbichl, Austria","Pinswang, Tyrol, Austria",4d4b8c19-644f-4cc9-a894-498782816cac
+hotel_656,BEIM MOSER Apartments,"Dorfstraße 25, 6673 Grän, Austria","Pinswang, Tyrol, Austria",8f63cb41-9305-47d1-a17f-f17eca1bdc55
+hotel_657,Apartments Gaichtspitze,"Gaicht 19, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",226f247d-0d02-461f-a4fe-7f9d90420b73
+hotel_658,Ferienwohnung Scharf,"6 Andreas Hofer-Straße, Reutte, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",73a329bb-13be-4f38-af60-d4fe2a0447d7
+hotel_659,Rosa's Ferienhaus Ferienwohnung Rote Flueh,"St. Wendelin-Weg 6, 6673 Grän, Austria","Pinswang, Tyrol, Austria",8595c3ca-dfa3-4504-93db-c6d817b0f3e2
+hotel_660,Irmis Garden,"12 Schulweg, 6600 Ehenbichl, Austria","Pinswang, Tyrol, Austria",833e7b81-d942-4bd7-b4b4-9723e055d9de
+hotel_661,Fischerstraum am See Suite,"20 Haller, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",496ad794-acaf-4945-acfb-a89f6dd44589
+hotel_662,Rosa's Ferienhaus Ferienwohnung Aggenstein,"St. Wendelin-Weg 6, 6673 Grän, Austria","Pinswang, Tyrol, Austria",2e6b9de9-6d4c-4838-9162-a6ebafcbfeee
+hotel_663,Haus Antlinger,"Unterdorf 11a, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",c427c7cd-e42a-47da-b7be-597af3d7aba6
+hotel_664,Suite Sinfonie Bergstille,"5 Obweg a, 6673 Grän, Austria","Pinswang, Tyrol, Austria",164e03dc-4b68-4c51-ad5f-eeaed5f2684c
+hotel_665,haldensee - Naturerlebnis und Wellnesshotel,"Haller 27, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",8e3b4d17-29ef-48a8-9001-1069bb6331b7
+hotel_666,Haus Hubertus,"Oberwies 11, 6672 Nesselwängle, Austria","Pinswang, Tyrol, Austria",0cb20e92-63c5-4bca-9a33-64e393bb6023
+hotel_667,Ferienwohnung Hoppert,"24 Unterdorf, 6610 Wangle, Austria","Pinswang, Tyrol, Austria",1c1daa47-c65b-4481-b025-4f10bf32d2a9
+hotel_668,Apartment Gehrenspitze,"Oberdorf 1, Wängle, 6610 Reutte, Austria","Pinswang, Tyrol, Austria",1892345a-38e0-4653-86b6-1c509364dce2
+hotel_669,Das Bäckergut am Haldensee,"6 Bäckergasse, 6673 Haldensee, Austria","Pinswang, Tyrol, Austria",91dd54d7-3cb2-4205-b46b-b9656d1de69d
+hotel_670,Pension beim Krümmling,"Rosenau 10, Lechaschau, 6600 Reutte, Austria","Pinswang, Tyrol, Austria",89ea532f-b614-4210-adbf-e1c9c4d6d32c
+hotel_700,GO INN Hua Lamphong MRT เยาวราช X,"Soi Sukon 1, Samphanthawong, 10100 Bangkok, Thailand",Bangkok,20de48b4-bbc9-4626-87d1-33a14303502a
+hotel_701,Le Meridien Bangkok,"40/5 Surawong Road, Silom, Bang Rak, 10500 Bangkok, Thailand",Bangkok,abace0a1-8b2c-4cae-b03a-24557ceae9f2
+hotel_702,Oakwood Hotel & Residence Bangkok SHA Plus Certified,"143 South Sathorn Rd, Yannawa, Sathorn, 10120 Bangkok, Thailand",Bangkok,0f058b2a-aed8-4cb5-9a2b-ad73fef1232a
+hotel_703,SKYVIEW Hotel Bangkok - Sukhumvit,"12 Sukhumvit Soi 24 Klongton , Khlong Toei, 10110 Bangkok, Thailand",Bangkok,6116890a-adb3-4aa2-a9b8-08639a18da65
+hotel_704,Citadines Sukhumvit 16 Bangkok,"38 Sukhumvit Soi 16, Sukhumvit Road, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,a11677e9-8c78-4409-a8c6-4c6d84a186a2
+hotel_705,"SILQ Hotel & Residence, Managed by The Ascott Limited","41 Soi Sukhumvit 24 Khwaeng Khlong Tan, Khet Khlong Toei, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,71266ca3-2af6-4ddd-937e-85218b10bbc9
+hotel_706,Shama Lakeview Asoke Bangkok,"41 Sukhumvit Soi 16, Sukhumvit Road, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,aa79ea8b-4e7a-4272-8f9e-846633b361be
+hotel_707,Shama Yen-Akat Bangkok,"69 Yen-Akat Road, Chong Nonsi, Yannawa, Yan Nawa, 10140 Bangkok, Thailand",Bangkok,b4771620-d827-4b9b-b87e-6acbb1dd93f1
+hotel_708,Citadines Sukhumvit 11 Bangkok,"22/22 Soi Sukhumvit 11, Sukhumvit Road, Klongtoey-Nua, Wattana, 10110 Bangkok, Thailand",Bangkok,fb2297a0-94af-4b15-b7d4-64241c9c0b27
+hotel_709,Chatrium Grand Bangkok,"728 Petchaburi Road Ratchathewi, Ratchathewi, 10400 Bangkok, Thailand",Bangkok,566315b4-4cb5-4d8f-b5a4-b74e4bf38b97
+hotel_710,Aira Hotel Bangkok Sukhumvit 11,"14 Sukhumvit 11, Wattana, 10110 Bangkok, Thailand",Bangkok,b13e9a7b-b716-42c8-8344-32d8f59e19e1
+hotel_711,Solitaire Bangkok Sukhumvit 11,"75/23 Sukhumvit Soi 13, Wattana, 10110 Bangkok, Thailand",Bangkok,d14ac620-59cd-4158-b12a-255ed343ceec
+hotel_712,Amari Bangkok,"847 Petchburi Road, Rajthevi, Pratunam, Phayathai, Ratchathewi, 10400 Bangkok, Thailand",Bangkok,e7a20370-b95d-40bd-9fe7-c633a94d56d2
+hotel_713,Shama Sukhumvit Bangkok,"39/1 Soi Sukhumvit 2, Khongtoey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,f01aa3ba-c74e-4d68-8730-c8b8081cfd81
+hotel_714,Oriental Residence Bangkok,"110 Wireless Road, Lumpini Patumwan , Pathumwan, 10330 Bangkok, Thailand",Bangkok,493031ed-f8a4-421f-9ac5-2fde3dd9fd3b
+hotel_715,SAMALA Hotel Bangkok,"43 Soi Sukhumvit 15, Sukhumvit Road, Khwaeng Klongtoey-Nua, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,c687a206-2101-4e16-9485-5bab453605e4
+hotel_716,Citadines Sukhumvit 8 Bangkok,"77/7 Soi Sukhumvit 8, Sukhumvit Road, Klongton, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,d32401ae-5ac1-4c64-93f4-a376b0eb351e
+hotel_717,Banyan Tree Bangkok,"21/100 South Sathon Road, Sathorn, 10120 Bangkok, Thailand",Bangkok,9ea03c52-66d1-4f9a-8978-2c472296a0a4
+hotel_718,The Quartier Hotel Phromphong - Thonglor,"413 Soi Sukhumvit 49 Khlong Tan Nuea, Watthana, Wattana, 10110 Bangkok, Thailand",Bangkok,0e65b226-7676-4067-9eb8-724f518e124e
+hotel_719,Emporium Suites by Chatrium,"622 Sukhumvit Soi 24, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,a85a6a59-2912-463c-a1a0-e7a70bdf272c
+hotel_720,Chatrium Hotel Riverside Bangkok,"28 Chareonkrung Soi 70, Bangkholame, Bang Kho Laem, 10120 Bangkok, Thailand",Bangkok,aa83c6fa-1c17-4531-921e-ba18ee19daac
+hotel_721,Shama Petchburi 47 Bangkok,"36 Soi Soonvijai, New Petchburi Road Bangkapi, Huay Kwang Bangkok, Huai Khwang, 10310 Bangkok, Thailand",Bangkok,031094e8-bf63-4bc3-a455-6a9b807f9a7c
+hotel_722,"Holiday Inn Express Bangkok Soi Soonvijai, an IHG Hotel","19 Soi Soonvijai, New Petchburi Road, Huai Khwang, 10310 Bangkok, Thailand",Bangkok,e9da9671-9ce3-4ddd-a8fc-65f96c9af7cf
+hotel_723,Hua Chang Heritage Hotel,"400 Phayathai Road, Pathumwan, Pathumwan, 10330 Bangkok, Thailand",Bangkok,c8f0c509-e45a-40dc-8988-47496c85ea30
+hotel_724,PASSA Hotel Bangkok,"63 Soi Saladaeng 2, Saladaeng Road, Bang Rak, 10500 Bangkok, Thailand",Bangkok,64345b43-12f1-4362-90d6-3085b970f097
+hotel_725,Sivatel Bangkok Hotel,"53 Wittayu Road, Lumpini, Patumwan, Pathumwan, 10330 Bangkok, Thailand",Bangkok,e890418e-4be1-421a-baa9-b16a68e708be
+hotel_726,"Holiday Inn Bangkok Silom, an IHG Hotel","981 Silom Road, Bang Rak, 10500 Bangkok, Thailand",Bangkok,d41dff8d-bb95-46ea-a4ea-2077c8bf62fb
+hotel_727,Maitria Hotel Rama 9 Bangkok - A Chatrium Collection,"908 Rim Klong Samsen Road, Bangkapi, Huay Kwang, Huai Khwang, 10310 Bangkok, Thailand",Bangkok,966f4dc9-5a21-4ce7-893b-89208a5a918a
+hotel_728,"MUU Bangkok, Small Luxury Hotels of the World","88/333 Sukhumvit 55, Klongton Nua, Wattana, Sukhumvit, Wattana, 10110 Bangkok, Thailand",Bangkok,8cd48297-d0eb-4876-a68e-4b87481c9551
+hotel_729,Park Plaza Bangkok Soi 18,"Sukhumvit Road Soi 18, (BTS Asoke / MRT Sukhumvit), Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,e2fbd868-aa71-4a05-9f35-ea15e25b6696
+hotel_730,Maitria Mode Sukhumvit 15 Bangkok - A Chatrium Collection,"81 Sukhumvit Soi 15, Sukhumvit Road, Klongtoey- Nua, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,33ee18f3-a2f7-41aa-9d17-7dd36988bd1b
+hotel_731,VOQUE Hotel & Serviced Residence Sukhumvit 51,"Soi Sukhumvit 51 99, Wattana, 10110 Bangkok, Thailand",Bangkok,4f6342b9-675c-43bb-a205-f27a60466207
+hotel_732,Admiral Premier Bangkok,"138 Soi 23 Sukhumvit Road, Wattana, 10110 Bangkok, Thailand",Bangkok,4551ad67-8d49-40ee-9527-b2fd3fadfa8f
+hotel_733,Nysa Hotel Bangkok Sukhumvit 11,"73/7-8 Sukhumvit 13, Klongtoey-Nua, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,9f7979e3-0446-40a4-8123-adb70f5efcd2
+hotel_734,GLOW Sukhumvit 5,"24 Sukhumvit, Khlong Toei Nuea, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,c5ba9139-5e44-4778-a2f3-e27ae7a6c5ae
+hotel_735,Tastoria Collection Sukhumvit - SHA Extra Plus,"7 Sukhumvit 20, Sukhumvit Road, KlongTeoy,, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,a524f316-230f-4b86-9936-35fe7dae46a5
+hotel_736,Walton Suites Sukhumvit,"199 Sukhumvit 49/11 (Klang), Road Klongton Nua, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,cd61cc08-8b40-42b7-9bca-437055099f3d
+hotel_737,Night Hotel Bangkok - Sukhumvit 15,"10 Sukhumvit 15, Kloengtoey Nua, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,54cbfa82-b9b3-46b4-bf2a-27f661f81e77
+hotel_738,Maitria Hotel Sukhumvit 18 Bangkok – A Chatrium Collection,"26 Sukhumvit Soi 18, Sukhumvit Road, Klongtoey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,71ff92fb-ee73-4610-b151-a531568834a2
+hotel_739,The Fig Lobby,"55 Rimthangrotfaisaipaknam Road, Klong Toey, Klong Toey, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,dff640a1-6795-49d5-a3f9-b950d4678f6b
+hotel_740,THA City Loft by TH District,"Eakkamai soi 6, Prakanong, Wattana, Wattana, 10110 Bangkok, Thailand",Bangkok,5d31c23b-ca7e-42a7-b75f-4350b753a29e
+hotel_741,Adelphi Grande Sukhumvit,"16 Sukhumvit Soi 41, Wattana, 10110 Bangkok, Thailand",Bangkok,50d3a0b8-4e1c-4242-9b45-3db5de9f748e
+hotel_742,Shanghai Mansion Bangkok,"479 - 481 Yaowaraj Rd., Samphanthawong, Samphanthawong, 10100 Bangkok, Thailand",Bangkok,cc37d252-73da-494e-a13b-b62e83ec1257
+hotel_743,VIC 3 Bangkok Hotel,"89 Phahon Yothin Soi 3, Phaya Thai, , Phaya Thai, 10400 Bangkok, Thailand",Bangkok,c73f228e-33b5-4cae-911f-78baf633c750
+hotel_744,The Sukosol Hotel,"477 Si Ayuthaya Road, Phayathai, Ratchathewi, 10400 Bangkok, Thailand",Bangkok,8c0fd85f-57c0-468a-aa70-b61b7e3f6ae0
+hotel_745,Public House Hotel - Sukhumvit 31,"249 Soi Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangkok 10110, Wattana, 10110 Bangkok, Thailand",Bangkok,305a2e26-ef02-49f3-ac78-b69fa5c0c359
+hotel_746,Emiri Hotel - Nana Bangkok,"99 Sukhumvit 5, Wattana, 10110 Bangkok, Thailand",Bangkok,8a18d0e4-22da-4096-abc5-152abac04ab1
+hotel_747,Adelphi Suites Bangkok,"6 Sukhumvit Soi 8, Khlong Toei, 10110 Bangkok, Thailand",Bangkok,27aa6176-7685-4098-88e6-9ab5f39d7613
+hotel_748,AETAS lumpini,"1030/4 Rama 4 Road, Thungmahamek, Sathorn, 10120 Bangkok, Thailand",Bangkok,89820026-d4a4-47d8-ab0f-5d0ea19584e3
+hotel_749,Sotetsu Grand Fresa Bangkok,"7 Soi Sukhumvit 25, Wattana, 10110 Bangkok, Thailand",Bangkok,ff4e76ee-beb2-4ced-8bcb-c9af41c57f41
+hotel_750,"Kimpton Maa-Lai Bangkok, an IHG Hotel","78 Soi Tonson, Lumpini, Pathumwan,, Pathumwan, 10330 Bangkok, Thailand",Bangkok,2a1c30ec-c20d-491e-aa1e-45dc6bb24e8d
+hotel_800,Hotel Marta,"Zähringerstrasse 36, 8001 Zurich, Switzerland",Zürich,123cf521-151b-43ec-8d9e-168a0e5f3e15
+hotel_801,Motel One Zürich,"Stockerstrasse 61, Enge, 8002 Zurich, Switzerland",Zürich,b8ae5eb4-3d2e-46c7-8a71-da7a639eca46
+hotel_802,Ruby Mimi Hotel Zurich,"Beatenplatz 4, 8001 Zurich, Switzerland",Zürich,bec06cc5-78fd-4657-9b6d-77fafcc205c1
+hotel_803,citizenM Zürich,"Talacker 42, Zurich Old Town - City Center, 8001 Zurich, Switzerland",Zürich,aa372946-c543-420d-8c1a-24d43847f608
+hotel_804,VISIONAPARTMENTS Cramerstrasse 8-12 - contactless check-in,"8 Cramerstrasse, Aussersihl, 8004 Zurich, Switzerland",Zürich,4ca37885-cdbe-40e8-90ee-53a4f1b35703
+hotel_805,Hotel Bristol Zurich,"Stampfenbachstrasse 34, Unterstrass, 8035 Zurich, Switzerland",Zürich,6ca2f879-d133-4dc1-88e0-64bffacd80c0
+hotel_806,ibis Zürich Messe Airport,"Heidi Abel-Weg 5, Seebach, 8050 Zurich, Switzerland",Zürich,bef1aba0-a426-4c31-8962-efacda1bd837
+hotel_807,Hotel Adler Zürich,"Rosengasse 10, Am Hirschenplatz, 8001 Zurich, Switzerland",Zürich,881c8069-dfeb-4cff-a178-a81360b49f88
+hotel_808,Lamira - Serviced Apartments,"Soodstrasse 22, Leimbach, 8041 Zurich, Switzerland",Zürich,e1bb30c3-d854-486d-a658-359c77ab60e9
+hotel_809,Hotel Felix,"Zähringerstrasse 25, 8001 Zurich, Switzerland",Zürich,e9c90b65-aa47-4686-ba2c-b5018b851305
+hotel_810,VISIONAPARTMENTS Freyastrasse - contactless check-in,"Freyastrasse 8, Aussersihl, 8004 Zurich, Switzerland",Zürich,d1e6d3b5-ca4b-4277-a318-68e19a788c37
+hotel_811,Pop Up Hotel Krone Zürich,"Limmatquai 88, 8001 Zurich, Switzerland",Zürich,61b0d245-076d-4f3c-9beb-c5487facf2dc
+hotel_812,"Holiday Inn Zürich Messe, an IHG Hotel","Wallisellenstrasse 48, Oerlikon, 8050 Zurich, Switzerland",Zürich,b6a5460b-9b19-43cc-89d5-e46351817ad3
+hotel_813,Aparthotel Adagio Zurich City Center,"Stampfenbachstrasse 60, Unterstrass, 8006 Zurich, Switzerland",Zürich,280ea8ce-4cfb-4664-a87b-e6f0e029fca4
+hotel_814,Zurich Furnished Homes,"Schimmelstrasse 6, Aussersihl, 8003 Zurich, Switzerland",Zürich,8d9595ca-4efc-413a-8e2f-c1c758c912ae
+hotel_815,Placid Hotel Design & Lifestyle Zurich,"Buckhauserstrasse 34-36, Altstetten, 8048 Zurich, Switzerland",Zürich,4a7cf4a5-a159-46e0-a2e5-b7be1ecfd52a
+hotel_816,Hotel Neufeld,"Friesenbergstrasse 15, Wiedikon, 8055 Zurich, Switzerland",Zürich,749c3f3e-09db-42a9-a2b2-8655d96f7f9a
+hotel_817,Mercure Zürich City,"Vulkanstraße 108b, Altstetten, 8048 Zurich, Switzerland",Zürich,7a47aabc-3ad9-4000-b904-e5380960dd6f
+hotel_818,VISIONAPARTMENTS Waffenplatzstrasse - contactless check-in,"Waffenplatzstrasse 72, Enge, 8002 Zurich, Switzerland",Zürich,3d033168-244c-4fa1-abc9-e9449504d471
+hotel_819,Leonardo Boutique Hotel Rigihof Zurich,"Universitätsstrasse 101, Oberstrass, 8033 Zurich, Switzerland",Zürich,ebeba7f3-7378-4bc1-b09f-1178ea0caece
+hotel_820,VISIONAPARTMENTS Militärstrasse - contactless check-in,"Militärstrasse 24, Aussersihl, 8004 Zurich, Switzerland",Zürich,0f1c3efa-a159-4177-8acc-f76377015cd4
+hotel_821,Sorell Hotel Rex,"Weinbergstrasse 92, Unterstrass, 8006 Zurich, Switzerland",Zürich,bf5c5dbb-38f7-40ed-a076-a5b3023ae5f1
+hotel_822,VISIONAPARTMENTS Rotachstrasse - contactless check-in,"Rotachstrasse 33, Wiedikon, 8003 Zurich, Switzerland",Zürich,576ef4e7-6f7a-4a19-b3fc-9b00b9e06915
+hotel_823,Altstadt Hotel,"Kirchgasse 4, 8001 Zurich, Switzerland",Zürich,d01135d9-413a-43f8-8597-1897fb15b816
+hotel_824,VISIONAPARTMENTS Albertstrasse - contactless check-in,"Albertstrasse 7, 8005 Zurich, Switzerland",Zürich,5a8690ab-616c-41f6-8f27-c72632577a8e
+hotel_825,VISIONAPARTMENTS Cramerstrasse 2-6 - contactless check-in,"2-6 Cramerstrasse , Aussersihl, 8004 Zurich, Switzerland",Zürich,db0f855a-2d9d-42b2-9481-dcbbf0ef5697
+hotel_826,Opera Hotel Zürich,"Dufourstrasse 5, Seefeld, 8008 Zurich, Switzerland",Zürich,00cc2e75-a602-4f19-af5e-5209385ad0a0
+hotel_827,Marktgasse Hotel,"Marktgasse 17, 8001 Zurich, Switzerland",Zürich,7ad76bc2-6dee-453a-a016-fabb127931eb
+hotel_828,Zurich Marriott Hotel,"Neumühlequai 42, Unterstrass, 8006 Zurich, Switzerland",Zürich,30247863-9b92-403d-b8f1-73ba6dd9d220
+hotel_829,Hotel Rössli,"Rössligasse 7, 8001 Zurich, Switzerland",Zürich,5f19f8ff-8c64-46f4-8183-d007adbce369
+hotel_830,The Home Hotel Zürich - a member of DESIGN HOTELS,"Kalandergasse 1, Wiedikon, 8045 Zurich, Switzerland",Zürich,7ba99f78-a652-4a31-bb2b-4b601f13b7d8
+hotel_831,THE FLAG Zürich,"Baslerstrasse 100, Altstetten, 8048 Zurich, Switzerland",Zürich,74fd9ada-5560-460f-b6f2-7a8630149a8b
+hotel_832,FIVE Zurich - Luxury City Resort,"Döltschiweg 234, Wiedikon, 8055 Zurich, Switzerland",Zürich,81f9af2c-0061-4766-8b5d-4dafa3226e59
+hotel_833,Boutique & Art Hotel Helvetia,"Stauffacherquai 1, Aussersihl, 8004 Zurich, Switzerland",Zürich,c5f5acb2-44eb-484e-883f-0f294fd385e5
+hotel_834,Trip Inn Zurich Hotel,"Hohlstrasse 18, Aussersihl, 8004 Zurich, Switzerland",Zürich,f13eb04e-fcbb-4c31-9b44-89de0843ce05
+hotel_835,Locke am Platz Zurich,"9 Tessinerplatz, Enge, 8002 Zurich, Switzerland",Zürich,3efb79cb-fdf3-4d33-91f5-65473a93dcba
+hotel_836,Hotel Sternen Oerlikon,"Schaffhauserstrasse 335, Oerlikon, 8050 Zurich, Switzerland",Zürich,ae0387fa-852c-4a25-ae0f-714e9cc7fc0b
+hotel_837,Sorell Hotel Rütli,"Zähringerstrasse 43, 8001 Zurich, Switzerland",Zürich,6957e865-3013-4a2c-b320-fc7edd0c496c
+hotel_838,Nani City Hotel,"Langstrasse 120, Aussersihl, 8004 Zurich, Switzerland",Zürich,45a53e5e-5a04-4e4d-b0a6-4bcb8b7880a9
+hotel_839,Boutique Hotel Josef,"13 Josefstrasse, 8005 Zurich, Switzerland",Zürich,70ba6b86-c6c9-4620-a8c4-40b97e21108b
+hotel_840,CITY STAY - Kieselgasse,"Kieselgasse 2, 8008 Zurich, Switzerland",Zürich,5c921c87-b893-4001-b4ad-fdc9e7e3e8d5
+hotel_841,Glärnischhof by TRINITY,"Claridenstrasse 30, Enge, 8022 Zurich, Switzerland",Zürich,27c4d330-e3ca-4541-b229-4a882d87f602
+hotel_842,Fred Hotel Leonhardstrasse - Self Check-in,"Leonhardstrasse 1, Oberstrass, 8001 Zurich, Switzerland",Zürich,e2aa1c2f-a2ba-4a88-953a-e0f5292956e8
+hotel_843,Gasthaus 210,"Langstrasse 210, 8005 Zurich, Switzerland",Zürich,079ddf5c-b9b5-4de3-8347-fc0fc2972556
+hotel_844,Townhouse Boutique Hotel,"Schützengasse 7, 8001 Zurich, Switzerland",Zürich,6ae1dfd5-7b75-4df3-af4b-1fb81429c090
+hotel_845,Hotel Scheuble,"Mühlegasse 17, 8001 Zurich, Switzerland",Zürich,2227ae4d-f796-487d-a544-eeccb63fee6e
+hotel_846,VISIONAPARTMENTS Wolframplatz - contactless check-in,"Wolframplatz 1, Wiedikon, 8045 Zurich, Switzerland",Zürich,2b6be396-36e1-4375-92f0-3351dd3aedbd
+hotel_847,SWAS by Livingdowntown,"415 Hohlstrasse, Altstetten, 8048 Zurich, Switzerland",Zürich,831c9c73-1a0f-47e7-bd8f-783127e9b4e6
+hotel_848,VISIONAPARTMENTS Zweierstrasse - contactless check-in,"Zweierstrasse 24, Aussersihl, 8004 Zurich, Switzerland",Zürich,28d5b2f9-6842-4159-a85e-1a2d4a78c28a
+hotel_849,Fred Guest House Zürich Hauptbahnhof,"Konradstrasse 11, 8005 Zurich, Switzerland",Zürich,d10e180a-dacd-4c99-acd4-cb101e910621
+hotel_850,Renaissance Zurich Tower Hotel,"Turbinenstrasse 20, Escher Wyss, 8005 Zurich, Switzerland",Zürich,f9479201-eff4-44b3-bfdc-551371706903
+hotel_851,VISIONAPARTMENTS Brandschenkestrasse,"10 Brandschenkestrasse, Zurich Old Town - City Center, 8001 Zurich, Switzerland",Zürich,aa3c18ea-e408-4cfe-839a-89480b6d1df3
+hotel_852,CITY STAY - Franklinstrasse,"Franklinstrasse 12 City Stay, Oerlikon, 8050 Zurich, Switzerland",Zürich,a7e6021b-ccb0-4226-9752-9fde73a9f3f0
+hotel_853,Boutique Hotel Seidenhof,"Sihlstrasse 9, Zurich Old Town - City Center, 8001 Zurich, Switzerland",Zürich,bd7f078a-19ad-4688-9188-aa6f9eb8977b
+hotel_854,Sheraton Zürich Hotel,"Pfingstweidstrasse 100, Escher Wyss, 8005 Zurich, Switzerland",Zürich,fbe69d05-f461-4d14-96d5-f3ed60458bd4
+hotel_855,CITY STAY - Forchstrasse,"Forchstrasse 163, Zürichberg, 8032 Zurich, Switzerland",Zürich,17ccd36c-ee08-4fda-972c-f507b5d14798
+hotel_856,Hotel Glockenhof Zürich,"Sihlstrasse 31, Zurich Old Town - City Center, 8001 Zurich, Switzerland",Zürich,4db49320-878f-45ea-97b9-3ce25f77c5bd
+hotel_857,La Réserve Eden au Lac Zurich,"Utoquai 45, Seefeld, 8008 Zurich, Switzerland",Zürich,8d86ad71-fc7d-4cd7-8913-63434c7d85d8
+hotel_858,Hotel St.Gotthard,"Bahnhofstrasse 87, Zurich Old Town - City Center, 8021 Zurich, Switzerland",Zürich,6e75c49f-cc3c-4b32-9041-8cfb5285fa99
+hotel_859,EMA House Serviced Apartments Aussersihl,"Sihlfeldstrasse 127, Aussersihl, 8004 Zurich, Switzerland",Zürich,62257112-a8c1-4d83-8af7-3cd255583524
+hotel_860,Premium Apartments by Livingdowntown,"Weststrasse 155, Wiedikon, 8003 Zurich, Switzerland",Zürich,77a07cb3-c522-4647-af25-e5471436dc77
+hotel_861,The Dolder Grand - City and Spa Resort Zurich,"Kurhausstrasse 65, Zürichberg, 8032 Zurich, Switzerland",Zürich,b2a057df-2891-4745-adbb-d2295f352ec1
+hotel_862,Comfort Apartments by Livingdowntown,"Weststrasse 146, Wiedikon, 8003 Zurich, Switzerland",Zürich,316e5b6c-d1ef-4fb2-9372-05f29ee25b9a
+hotel_863,Hotel Spirgarten,"Lindenplatz 5, Altstetten, 8048 Zurich, Switzerland",Zürich,09e10e40-7e51-43d6-ba42-27031239124b
+hotel_864,Design Hotel Plattenhof,"Plattenstrasse 26, Zürichberg, 8032 Zurich, Switzerland",Zürich,1815b1ee-a308-4201-b6ae-fd5fcdf2ff45
+hotel_865,Fred Hotel Zürich Hauptbahnhof,"Limmatstrasse 5, 8005 Zurich, Switzerland",Zürich,50a50517-0141-43e5-8e00-96f6e62a187f
+hotel_866,Sorell Hotel St. Peter,"In Gassen 10, 8001 Zurich, Switzerland",Zürich,2169f22d-6e04-4997-95e5-a102ac8a4264
+hotel_867,MEININGER Hotel Zürich Greencity,"41 Maneggstrasse, Wollishofen, 8041 Zurich, Switzerland",Zürich,454064ea-7b8e-4bf4-8e17-8ad92d27d8ac
+hotel_868,Small Luxury Hotel Ambassador Zurich,"Falkenstrasse 6, Seefeld, 8008 Zurich, Switzerland",Zürich,adb00ecd-2e1a-44d9-843a-9e595573b0cb
+hotel_869,"Neues Schloss Privat Hotel Zurich, Autograph Collection","Stockerstrasse 17, Enge, 8002 Zurich, Switzerland",Zürich,b4d07adf-f669-4f70-ba69-e0e8bbd4245b
+hotel_400,Hotel du Jeu de Paume,54  rue Saint Louis en l'île  Ile Saint Louis  Paris  75004,Paris,ddc76294-f314-45ca-93e9-ee5585c58c80
+hotel_401,Hôtel Belloy Saint-Germain,2 Rue Racine/bd St Michel  Paris  Paris  75006,Paris,7ec682a4-ed5e-4056-88b1-9f44db846e33
+hotel_402,Villa Beaumarchais,5 Rue Des Arquebusiers  Paris  Paris  75003,Paris,b7845b70-7ed5-464e-881d-6c7575ee163c
+hotel_403,1K Paris,13 Boulevard Du Temple  Paris  75003,Paris,ec762892-afc6-4061-8294-eb52bfbb252f
+hotel_404,Hotel Antin Saint-Georges,21 rue Notre Dame de Lorette  Paris  Paris  75009,Paris,fd33d11a-7882-4986-881d-b2fd396ebd53
+hotel_405,Maxim Quartier Latin,28 Rue Censier  Paris  Paris  75005,Paris,aba49381-af32-4d10-a283-48f31acb1cf2
+hotel_406,OKKO Hotels Paris Gare de l'Est,30 A rue d'Alsace  Paris  75010,Paris,90ec6d3b-2822-43c8-ae93-0eba50735ad0
+hotel_407,D'win Hotel,20 Rue Du Temple  Paris  Paris  75004,Paris,c464d7b4-e1ab-49a9-ad6d-90e0d48843f9
+hotel_408,Hôtel Castex,5 Rue Castex  Paris  Paris  75004,Paris,97f44d86-d4c8-4ec2-bd65-ef3a57c475b5
+hotel_409,citizenM Paris Opera,18 Rue du Croissant  Paris  75002,Paris,c0fd7abf-5349-43bb-8456-94ff5f2205de
+hotel_410,Hotel du Vieux Marais,8 rue du Plâtre  Paris  75004,Paris,2f0ebc63-a6e9-42fc-8132-ea85ae595797
+hotel_412,Hotel Regyn's Montmartre,18 Place Des Abbesses  Paris  Paris  75018,Paris,86cd7dde-d049-4f66-b603-c54c509acf6b
+hotel_413,Hôtel Le Chat Noir,68 Boulevard De Clichy  Paris  Paris  75018,Paris,5629490a-d9b2-44a6-bf53-d05c0486a444
+hotel_414,La Dépendance,20 Rue Moliere  Paris  Paris  75001,Paris,656c008c-629b-4d3c-9cf1-f0fd0b452a69
+hotel_416,Hôtel Basss,57 Rue Des Abbesses  Paris  Paris  75018,Paris,a12846c1-989c-489d-bc83-7de7ca5664f3
+hotel_417,Timhotel Montmartre,11 Rue Ravignan  Paris  Paris  75018,Paris,d3ad411c-05e8-4738-93bc-2ede233f5534
+hotel_418,Hôtel Rochechouart - Orso Hotels,55 Boulevard de Rochechouart  Paris  Paris  75009,Paris,5616d2ef-b745-499e-a6df-1d6e25571208
+hotel_419,Hotel Louvre Piemont,22 Rue De Richelieu  Paris  Paris  75001,Paris,71c2a0c7-0129-48a1-ba33-87169cd38c79
+hotel_420,Hôtel Pont Royal,7 Rue Montalembert  Paris  Paris  75007,Paris,ea0c4b5b-e3a1-4886-a9cc-1107484266e7
+hotel_421,Londres Saint-Honoré Hotel,13 Rue Saint-roch  Paris  Paris  75001,Paris,86d5c30e-6774-4e43-a023-f810eda43107
+hotel_422,Beaugency Hotel,21 Rue Duvivier  Paris  Paris  75007,Paris,8f12f23f-c2ee-4c9f-b0f7-84c82a48924b
+hotel_423,Libertel Montmartre Opéra,32 Rue Duperré  Paris  Paris  75009,Paris,714dbf9a-8d13-47ff-95e0-687728a5a7e5
+hotel_424,Casa Ô,108 rue Réaumur  Paris  75002,Paris,676a82e2-18a0-467f-a26f-7008c3ea89f9
+hotel_425,Villa Royale,2 Rue Duperré  Paris  Paris  75009,Paris,2b34465f-a8de-497c-ac1a-25dca59c63c9
+hotel_426,"Hôtel Littéraire Marcel Aymé, BW Premier Collection",16 Rue Tholoze  Paris  Paris  75018,Paris,f99e313f-7bf7-4411-b506-b03ed02dae7e
+hotel_427,Hotel Louvre Piemont,22 Rue De Richelieu  Paris  Paris  75001,Paris,01e131ea-e3cc-4ba4-af83-f600f03e3994
+hotel_428,Citadines Montmartre Paris,16 Avenue Rachel  Paris  Paris  75018,Paris,b14e4f6f-2de5-4a49-9ffa-cca1b16a6c20
+hotel_429,citizenM Paris Champs-Élysées,128 Rue la Boétie  Paris  75008,Paris,13351e23-6866-4745-9bfd-8e40fddcc543
+hotel_430,Hôtel Le Saint-Grégoire,43  rue de l'Abbé Grégoire  Paris  Paris  75006,Paris,a96f2a5d-2d4f-42a7-a538-217aac5f3476
+hotel_431,Hôtel Du Beaumont,3 Rue Lepic  Paris  Paris  75018,Paris,c4826a81-7352-41c8-84b1-16e6371b76c0
+hotel_433,Hotel De Nice,42 Bis Rue De Rivoli  Paris  Paris  75004,Paris,22c5054b-2b3c-4388-9523-cae273be13bb
+hotel_434,Hôtel Lorette - Astotel,36 Rue Notre Dame De Lorette  Paris  Paris  75009,Paris,d16073b8-c722-430e-bf1d-135a92212ecc
+hotel_435,Hotel Turenne Le Marais,6 Rue De Turenne  Paris  Paris  75004,Paris,e8ce8b25-513a-43ef-b646-b0c6772c7ccf
+hotel_436,Hôtel de La Herse d'Or,20 Rue Saint Antoine  Paris  Paris  75004,Paris,5498bba2-60e1-401a-b17c-aef5699466ff
+hotel_437,Hotel Bonsejour Montmartre,11 Rue Burq  Paris  Paris  75018,Paris,51751aec-4be1-4889-9965-0944acc5e4c9
+hotel_438,WS Louvre - Casanova,24 Rue Danielle Casanova  Paris  75002,Paris,529f27a3-1ec6-43d8-9646-c1c32559e317
+hotel_439,Hôtel Phénix,5  rue du général Lanrezac  Paris  75017,Paris,2fa589cf-7c8b-4327-8b07-9a80c4e0a3f4
+hotel_440,Hotel au coeur des Arts et Metiers,19 Rue du Vertbois  Paris  Département de Paris  75003,Paris,4dc5272f-1189-4770-832c-7e56ae35cb05
+hotel_441,Rayz Eiffel,77 avenue bosquet  Paris  75007,Paris,792b4f11-f4e7-40e9-a15c-63ca9fa097c5
+hotel_442,Villa Alessandra,9 Place Boulnois  Paris  Paris  75017,Paris,c228e697-dd77-4e24-9dd7-a2216b0590f0
+hotel_443,Grand Pigalle Experimental,29 Rue Victor Massé  Paris  Paris  75009,Paris,839e7394-69f5-4d39-a29f-752febb052e1
+hotel_444,Boudoir des Muses,6 rue de Saintonge  Paris  75006,Paris,35c3db0d-cb87-42b0-b206-a57bc46a23f9
+hotel_445,Hôtel L de Lutèce - Notre-Dame,65 Rue Saint-Louis-en-l'Ile  Paris  Paris  75004,Paris,9b2b693f-5cde-4d12-9ed4-bd1811702f3b
+hotel_446,Hôtel Saint-Roch,25 Rue Saint-Roch  Paris  Paris  75001,Paris,f594c4f5-2263-4d9e-8968-47ca64ada18f
+hotel_447,Hotel Americain,72 Rue Charlot  Paris  Paris  75003,Paris,da76285e-75bd-4999-a4e2-3dfb20d5195c
+hotel_448,Relais Bosquet by Malone,19 Rue Du Champ De Mars  Paris  Paris  75007,Paris,5c61c561-bd94-46d1-845f-8ad71aba81b2
+hotel_449,Hotel Andrea,3 rue Saint-Bon  Paris  75004,Paris,d6b086d2-7076-442b-974f-440bf0f2947d
+hotel_450,Hôtel Les 3 Poussins,15 Rue Clauzel  Paris  Paris  75009,Paris,3a64960d-bbb2-4044-82cd-478adfb6912e
+hotel_451,Hôtel Da Vinci & Spa,25 Rue des Saint Pères  Paris  Paris  75006,Paris,42c3cf3d-7eca-4e42-96de-c989ebed2424
+hotel_452,L'Empire Paris,48 Rue De L Arbre Sec  Paris  Paris  75001,Paris,a2467d13-954f-447b-b5e6-6e460931d9b5
+hotel_453,Hôtel Caron le Marais,3 Rue Caron  Paris  Paris  75004,Paris,4a1e4627-71d5-41ff-899e-0450dfc71140
+hotel_454,Le Relais Montmartre,6  rue Constance  Paris  Paris  75018,Paris,c9b10166-cd90-4bc9-b85c-75a279dcc638
+hotel_455,Pratic Hotel,9 rue d'Ormesson  Paris  Paris  75004,Paris,197a15e7-71c8-4778-8df7-461d9dbbb7d0
+hotel_456,Hôtel Emile Le Marais,2 rue Malher  Paris  75004,Paris,1918dde9-0116-4664-a65c-49ceca620ecf
+hotel_457,Hôtel Arvor Saint Georges,8 Rue Laferriere  Paris  Paris  75009,Paris,8fd4649e-ba29-4ca5-9141-eb54e65dcc1c
+hotel_458,Hôtel Filigrane & Spa,40 Rue Vivienne  Paris  Département de Paris  75002,Paris,a47e77be-48be-4bcd-a172-0e38ea69edef
+hotel_459,Artemisia Montmartre,11 Rue Fromentin  Paris  Paris  75009,Paris,67554425-2cb7-4a26-b8d4-d5f4bc158378
+hotel_460,citizenM Paris Gare de Lyon,8 Rue van Gogh  Paris  Ile-de-France  75012,Paris,01202113-38fd-4f05-8d24-b6ccd275e08f
+hotel_461,Hotel Bachaumont,18 rue Bachaumont  Paris  Paris  75002,Paris,dc9ce6ff-baff-43c6-9eb4-47173ad85ccf
+hotel_462,Padam Hôtel,9 Rue Jean Giraudoux  Paris  Département de Paris  75116,Paris,6b733097-9f85-4914-82c3-f942b2694cc8
+hotel_463,Hotel Elysees Regencia,41  Avenue Marceau  Paris  Paris  75116,Paris,275c892b-0517-4054-9571-c6a2fd1b6580
+hotel_464,Hotel Ile de France Opéra,26 Rue Saint Augustin  Paris  Paris  75002,Paris,17ca5d54-84c1-453b-9119-af2921d478c9
+hotel_465,Le Tsuba Hotel,45 rue des Acacias  Paris  75017,Paris,ab6f3915-82b6-477f-a5ca-b38d2b05ff21
+hotel_466,Hôtel Baudelaire Opéra,61 rue Sainte-Anne  Paris  Paris  75002,Paris,856684ef-6bbb-4120-9869-94ef5756db4e
+hotel_467,Hotel Duminy Vendome,3 Rue du Mont Thabor  Paris  Paris  75001,Paris,b58402a0-3c3f-4d42-9520-fd0ec85d6d29
+hotel_468,Hotel Regina Montmartre,94 boulevard de Rochechouart  Montmartre-Pigalle (18e)  Paris  Paris  75018,Paris,56e97850-a462-4af2-8d35-2ebd347a8f59
+hotel_469,L'Empire Paris,48 Rue De L Arbre Sec  Paris  Paris  75001,Paris,2c9bfbde-1142-47f4-a4ab-8b961090441b
+hotel_470,Ibis Paris Montmartre Sacré-Coeur,5 Rue Caulaincourt  Paris  Paris  75018,Paris,d256dfb6-c989-42d4-922d-12d2aac674c5
+hotel_471,Ginette à la Folie,49 Rue de Malte  Paris  Département de Paris  75011,Paris,53d316af-5ba6-45df-ae56-1612f8cf56c6
+hotel_472,My Maison In Paris - Invalides,149 Rue de Grenelle  Paris  Département de Paris  75007,Paris,6d995ee1-4ae3-4e67-bca0-7c6355da366a
+hotel_473,La Villa des Ternes Hotel,97 Avenue Des Ternes  Paris  Paris  75017,Paris,04ce0d3f-41f6-4a69-964c-2c4ef4a0894c
+hotel_474,Hotel Saint Dominique,62 Rue Saint Dominique  Paris  Paris  75007,Paris,b592f1a1-9ea1-49ca-9475-30629b0a40b0
+hotel_475,Terrass'' Hotel,12-14 Rue Joseph de Maistre  Paris  Paris  75018,Paris,4ca2dd3a-d0cd-4dcd-a7da-f1dcf62a1d97
+hotel_476,Normandy Le Chantier,7 Rue De L Echelle  Paris  Paris  75001,Paris,2a0c2466-b846-47a9-acb3-2b319cf6151f
+hotel_477,Hotel Riviera Elysées,55  rue des Acacias  Paris  75017,Paris,2c8efbd4-9507-4b1e-801d-e5c108e9b8e9
+hotel_478,Stella,Avenue Carnot 20  Paris  Ile-de-France  75017,Paris,15354284-703e-40e2-bce2-80c73f58dd29
+hotel_479,Le Belmont Paris,30 Rue De Bassano  Paris  Paris  75116,Paris,8b7b425c-ead8-49f8-94f0-258a077d7927
+hotel_480,Hotel du Cadran,10 Rue Du Champ De Mars  Paris  Paris  75007,Paris,a11de790-5814-4b06-9c80-fee700b1aa8c
+hotel_481,Mercure Paris Butte Montmartre Basilique,100  Boulevard Rochechouart  Paris  75018,Paris,615f26d4-30df-4246-a198-2454b8efa283
+hotel_482,Les Patios du Marais,26 Rue des Gravilliers  Paris  75003,Paris,d4592da7-50f0-4da1-93e1-199020df31d4
+hotel_483,Tonic Hotel Du Louvre,12-14 Rue Du Roule  Paris  Paris  75001,Paris,ee468bcc-5acf-4eee-bcfc-a23a334c2dd4
+hotel_484,Hotel Le Cercle Tour Eiffel,117 Avenue De La Bourdonnais  Paris  Paris  75007,Paris,372b1e48-5b82-4abf-9f82-374aba4a0e61
+hotel_485,Hotel Britannique,20 Avenue Victoria  Paris  Paris  75001,Paris,aa44b778-7165-481a-b20c-e2d0dd7414dc
+hotel_486,Hôtel Helzear Champs Elysées,49 avenue Marceau  Paris  Paris  75116,Paris,5e95e0ab-6b99-4225-906c-77f9799ab8a2
+hotel_487,Timhotel Opera Blanche Fontaine,34 Rue Pierre Fontaine  Paris  Paris  75009,Paris,e474e611-b032-4884-8fe2-06f4ea46fe98
+hotel_488,Hôtel Monsieur Aristide,3 Rue Aristide Bruant  Paris  Département de Paris  75018,Paris,3f570f19-2bdb-4905-ac95-0dc89c07fbd7
+hotel_489,Hôtel Hiro,7 Rue Brey  Paris  Paris  75017,Paris,75055c1a-1c88-4b52-b585-01392e4640b1
+hotel_490,Aparthotel Quartier Libre Marais,82 Boulevard de Sébastopol  Paris  75003,Paris,4f15201c-83d1-4cd9-8448-74fccc9fa275
+hotel_491,Hotel Albert 1er Paris Lafayette,162 Rue La Fayette  Paris  Paris  75010,Paris,b4b563aa-3dd8-4a4f-9289-29579427ec66
+hotel_492,Hôtel Les Matins de Paris & Spa,3 rue Clauzel  Paris  75009,Paris,e64db74b-1cbe-4b34-bd50-f79d87663e88
+hotel_493,1er Etage SoPi,34 rue Jean Baptiste Pigalle  Paris  75009,Paris,9b7db612-9005-4b3f-9c17-0c4270a00354
+hotel_494,Hôtel Les Matins de Paris & Spa,3 rue Clauzel  Paris  75009,Paris,88ff86f0-34c7-40c9-9e95-22c55d176b28
+hotel_495,Maison Pigalle,41 Rue Jean-baptiste Pigalle  Paris  Paris  75009,Paris,c376dfd9-81cb-497d-b704-b70ce05ee2b4
+hotel_496,Timhotel Le Louvre,4 rue Croix des Petits Champs  Paris  75001,Paris,c236a877-236a-4e02-b150-b79398d2bba3
+hotel_497,Hotel Saint Honore 85,85 Rue Saint Honore  Paris  Paris  75001,Paris,4e2cbac3-b0ba-4aaf-87e6-f8183562d07b
+hotel_498,Timhotel Invalides Eiffel,Boulevard De La Tour Maubourg  35  Paris  Paris  75007,Paris,1b750844-1600-4c58-b873-b7819bc645e4
+hotel_499,Hôtel Le 123 Sébastopol - Astotel,123 boulevard de Sébastopol  Paris  Paris  75002,Paris,40632299-decf-403d-bb56-be2abc3d4dcc
+hotel_500,"ELSA, Hôtel Paris",27 Avenue Carnot  Paris  Paris  75017,Paris,b1659ed3-5351-4e8f-9ea7-fac983174559
+hotel_501,Hôtel Lion d'Or Louvre,5 Rue de la Sourdière  Paris  Paris  75001,Paris,b02cce9b-cb34-4688-839f-345049b9c97d
+hotel_502,Hôtel Châteaudun Opéra,30 Rue de Chateaudun  Paris  Paris  75009,Paris,676ac1db-7d34-480f-b617-1f12e779903b
+hotel_503,citizenM Rome Isola Tiberina,LUNGOTEVERE DE CENCI 5-8  Rome  RM  00186,Rome,44083545-681b-48db-9a7a-2080d794fa84
+hotel_504,47 Boutique Hotel,Via Luigi Petroselli 47  Rome  RM  186,Rome,692354b7-2249-4619-ad34-9ab4b70aa2ff
+hotel_505,Fauno Urban Resort,Via della Fonte di Fauno 31  Rome  RM  153,Rome,d6b439c7-5b69-41a2-96b8-7bc53d492ec4
+hotel_506,citizenM Rome Isola Tiberina,LUNGOTEVERE DE CENCI 5-8  Rome  RM  00186,Rome,d0c2c7e8-f667-41c1-938b-2ddefeb87353
+hotel_507,47 Boutique Hotel,Via Luigi Petroselli 47  Rome  RM  186,Rome,29274b1d-d585-439d-a405-e41c833b2821
+hotel_508,Golden Tulip Rome Piram,Via Giovanni Amendola 7  Rome  RM  185,Rome,904d5fe6-cedd-49d8-b317-45639520f0fe
+hotel_509,The Independent Hotel,Via Volturno 48  Rome  RM  185,Rome,089118ea-f159-406a-b118-51ae2bcfe76a
+hotel_510,Window on Rome,Piazza Sidney Sonnino 25  Rome  RM  00153,Rome,c2d184a3-b810-463e-994c-1b57226085f4
+hotel_511,Kolbe Hotel Rome,Via di San Teodoro 48  Rome  RM  186,Rome,3a1a6c0f-2419-45a8-a8a2-388857ddffcd
+hotel_512,Little Queen Suite,Via Florida 20  Rome  RM  186,Rome,aa81967f-b7c1-4610-8fbd-56930e55dca2
+hotel_513,Nicolas Inn,Via Cavour 295  Rome  RM  184,Rome,320cf491-524a-4ba4-a888-3824c8ec4351
+hotel_515,Dimora ai Fori - Guesthouse,Via Cavour 325  Rome  RM  00184,Rome,80589597-cfd9-4421-8fc3-a5a833f66c1c
+hotel_516,Hotel Chapter Roma,Via S. Maria de' Calderari 47  Rome  RM  00186,Rome,ef0e1eac-e262-4d50-95de-718b8e6066e6
+hotel_517,"Palazzo Velabro, a Member of Design Hotels",Via del Velabro 16  Rome  RM  00186,Rome,0a867129-8e24-4bbb-99ab-c522a9bd4838
+hotel_519,Town House Campo de' Fiori,Via dei Giubbonari 43  Rome  RM  186,Rome,2ecf3088-5cf7-4fe2-afb1-edab8ea8cbdc
+hotel_520,Jb Relais Luxury,Via di San Bartolomeo de Vaccinari 19  Rome  RM  186,Rome,d1be3fc9-f10b-47a1-af05-f850f16dc75d
+hotel_521,Flatinrome Trastevere Deluxe Rooms,Via della Luce 41  Rome  RM  00153,Rome,e3852d19-9aca-42a5-8906-d71409c28d89
+hotel_522,Hotel Tito,Via Marghera 29  Rome  RM  185,Rome,e9a22de7-f68a-4211-b3ac-fe2dd2c4f496
+hotel_523,"Radisson Collection Hotel, Roma Antica",VIA DELLE BOTTEGHE OSCURE 46  Rome  RM  00186,Rome,f65e3331-464d-48f5-b9da-1703d04bc3f4
+hotel_524,B&B Circus Maximus,Viale Aventino 61  Rome  RM  153,Rome,0b72b6b3-6c92-4b66-b164-56b40c553245
+hotel_525,The Spanish Suite Campo de Fiori,Piazza Cairoli 9 A  Rome  RM  186,Rome,64211242-1e69-4f6a-a2b6-7aef2b6d5b54
+hotel_526,Hotel San Francesco,Via Jacopa de' Settesoli 7  Rome  RM  153,Rome,437a95b8-d153-4ab1-8e24-227a6d29ea8a
+hotel_527,Casa de' Fiori Biscione,Piazza Del Biscione 83  Rome  RM  186,Rome,c285172a-163b-4643-81d1-745d9c269d04
+hotel_528,Magenta Collection Sant'Anna,Via di Sant'Anna 11  Rome  RM  00186,Rome,a6fcf38a-3afa-4945-8c94-f3898fd1dc32
+hotel_529,Royal Rooms Colosseo,Via di S. Giovanni in Laterano 10  Rome  RM  184,Rome,bb6caec7-38a5-4435-ad18-04eba0763e4e
+hotel_530,Giuditta in Trastevere,Piazza Giuditta Tavani Arquati 113  Rome  RM  00153,Rome,1af11835-45aa-4cd7-9228-04f3f22fda1e
+hotel_531,UNAHOTELS Trastevere Roma,Via Emilio Morosini 27  Rome  RM  00153,Rome,7762d6c0-f9d0-44b2-878b-59cf1418f5ad
+hotel_532,Hotel Quirinale,Via Nazionale 7  Rome  RM  184,Rome,14c206d9-9998-4f2e-bd7e-83adcbd871a8
+hotel_533,Splendor Suite Rome - Suites and Apartments,Piazza San Lorenzo in Lucina  35  Rome  RM  186,Rome,929b70e7-94c9-4e79-bf83-d81b5ad86cac
+hotel_534,MZ Hotel Rome,Via Della Trinita Dei Pellegrini 12  Rome  RM  00186,Rome,fb6a19d6-c80e-4031-b2c7-ce93952516a7
+hotel_536,The Sanctuary Urban Retreat,Via di Santa Prisca 11/B  Rome  RM  00153,Rome,9b7ecc93-6814-4570-8cab-6a69ed3ba765
+hotel_537,Hanky Suite,16 Via Roma Libera  Rome  RM  00153,Rome,a63dc806-97c3-479c-b47e-48028da56cdc
+hotel_538,Hotel Le Clarisse al Pantheon,Via Arco Della Ciambella 19  Rome  RM  186,Rome,1e17f9dc-189b-4eee-b325-0db4886d64d5
+hotel_539,Hotel Artorius,via del Boschetto  13  Rome  RM  184,Rome,9786378c-1c1b-4218-ae93-23661b49a317
+hotel_540,Relais Badoer,Largo Arenula 11  Rome  RM  186,Rome,00934171-3c4b-496b-9caa-d2da82fe01cd
+hotel_541,Argentina Residenza Style Hotel,Via di Torre Argentina 47  Rome  RM  186,Rome,c6280a1a-5d7c-4f1b-8687-0a0a0e61c707
+hotel_542,Hotel Paba,Via Cavour 266  Rome  RM  00184,Rome,0dc249c8-a9a6-4705-b39b-49894ca57c75
+hotel_543,Sourire Hotel,Via delle Terme Deciane 3  Rome  RM  153,Rome,3616d971-1cde-423a-bf6f-689985e3583a
+hotel_544,Guesthouse o Affitta Camere iRooms Campo Dei Fiori,Piazza del Gesù  47  Rome  RM  186,Rome,88c4d31b-0fbc-4f71-8647-7a10d1f6ae8b
+hotel_545,Hotel Fiori,Via Nazionale 163  Rome  RM  00184,Rome,6a3744c1-128e-4ca6-95be-477d7cca5bb4
+hotel_546,Hotel Trastevere,Via Luciano Manara 24A/25  Rome  RM  153,Rome,f28b8089-af46-49fe-b33b-946b6aad4b98
+hotel_547,Borgo Ripa Urban Travel,Lungotevere Ripa 3  Rome  RM  00153,Rome,f6a3df89-5bd9-4c99-b006-66a58c7a76c3
+hotel_548,Torre Argentina Relais,Via Di Torre Argentina 44  Rome  RM  186,Rome,e9f1c612-51f0-4daa-9022-0e4702e44a34
+hotel_549,Via Del Corso Home,Via del Corso  277  Rome  RM  186,Rome,fdffa7e3-49b1-4f63-94c0-f4d83c4d88d8
+hotel_550,Hotel Romano,Largo Corrado Ricci  32  Rome  RM  184,Rome,e0da7212-f1d5-4627-a472-d586c2127918
+hotel_551,Giubbonari Suites,Via dei Giubbonari 23  Rome  RM  00186,Rome,702c4fcc-198c-45a1-b034-7b91d5e6e352
+hotel_552,Domus Vitra,Via Cavour 275  6  Rome  RM  00184,Rome,4d203d01-d130-414e-96c8-3e1954a9252e
+hotel_553,Naman Hotellerie Monti,261 Via Panisperna  Rome  RM  00184,Rome,614d4f3d-6eb1-4616-950b-d14083904a50
+hotel_554,Antica Residenza del Corso,Via delle Convertite 5  Rome  RM  00187,Rome,5176e422-6a23-4e80-8206-7ec91348604d
+hotel_555,Hotel Splendide Royal - The Leading Hotels of the World,Via Di Porta Pinciana 14  Rome  RM  187,Rome,1e78697f-30e0-4d59-88f9-3f3f4bc995e4
+hotel_556,Campo de' Fiori 34,Piazza Pollarola 34  Rome  RM  00186,Rome,892392d0-0120-46eb-8090-bf57bc1bc596
+hotel_557,Albergo Santa Chiara Hotel Rome,Via Santa Chiara 21  Rome  RM  186,Rome,6fc6a075-a1a8-4378-9355-349256eecee0
+hotel_558,Piccola Navona Roof Garden,4 Via de' Baullari  Rome  RM  00186,Rome,3b9258f3-6e62-42e0-8d42-b4999b2e292b
+hotel_559,Duca di Cavour,Via Cavour 221  Rome  RM  00184,Rome,b9d79f41-b913-408c-a493-4790fbad8510
+hotel_560,Guesthouse o Affitta Camere IRooms Pantheon,Piazza del Gesù 47  third floor (with lift)  Rome  RM  186,Rome,2f8ca7ea-f5e1-4cd6-85aa-99ca86bef81e
+hotel_561,Colonna Suite del Corso,Via della Colonna Antonina 41  Rome  RM  00186,Rome,7b58edcc-0772-4fe3-9c50-366882e4cd26
+hotel_562,Hotel della Torre Argentina,Corso Vittorio Emanuele II  102  Rome  RM  00186,Rome,ee964320-1b24-4523-adfe-81dd2753c15d
+hotel_563,Hotel Locarno,Via Della Penna 22  Rome  RM  186,Rome,25e258ca-378e-4eb3-aace-2502075d2c39
+hotel_564,Aleph Rome Hotel Curio Collection by Hilton,Via di San Basilio 15  Rome  RM  00187,Rome,fd6475f3-1403-4364-97f9-992b2562fb39
+hotel_565,iRooms Forum and Colosseum,Via Baccina 45  Rome  RM  184,Rome,c2f8ecd5-9dcb-4bf3-8d02-328755eb29bf
+hotel_566,Colosseo Rooms Imperial Rome,Via di S. Giovanni in Laterano 10  Rome  RM  00184,Rome,2a2c9eb2-8d13-42e8-bf58-2b2e53e750b4
+hotel_567,Lunetta Hotel & SPA,Piazza del Paradiso  68  Rome  RM  186,Rome,bdac5673-dd43-4c78-ab97-a3605e714074
+hotel_568,Luxury Trastevere,Via Paglia 7  Rome  RM  158,Rome,8af1ee08-6d69-4b3b-b838-8ef14042da10
+hotel_569,Tullia e Prisca Relais,Via Tommaso Grossi 6  Rome  RM  184,Rome,a7af80b8-f58c-4a5e-88c9-b2d686575f0f
+hotel_570,BDB Rooms Trastevere,Via Benedetta 16  Rome  RM  00153,Rome,88237398-21b9-4d16-b51d-7ce36c9347ee
+hotel_571,Hotel Forum,Via Tor de' Conti  25  Rome  RM  184,Rome,ae5d5a41-c3be-4cf4-917b-7898394f1583
+hotel_572,TrastevereInn,Vicolo de' Cinque 16  Rome  RM  00153,Rome,56ef4d1e-b30a-4f28-b14e-2e813e026128
+hotel_573,Hotel San Valentino,Via Ezio 55  Rome  RM  00192,Rome,b1fd02b3-1347-4b09-9a84-ec5d10898701
+hotel_574,Corso 281 Luxury Suites Roma,Via del Corso  281  Rome  RM  186,Rome,639a2472-1906-4b29-b033-9ec004f4e2c2
+hotel_575,Maison Giulia,Via Giulia 189/a  Rome  RM  186,Rome,1d96e7d4-cb88-4b7a-89f1-15977efb72af
+hotel_576,magenta collection navona,184 Corso Vittorio Emanuele II  Rome  RM  00186,Rome,5e8213d7-2785-40fe-bf4e-0eebcca15dfc
+hotel_577,Hotel Smeraldo,Via dei Chiavari 20  Rome  RM  186,Rome,363aad65-fbaa-476a-8da7-e1ac72d97f68
+hotel_578,Little Queen Pantheon Residence,Via del Collegio Capranica 4  Rome  RM  186,Rome,67e3d383-1733-4135-897b-39ef56305672
+hotel_579,Hotel Navona,Via dei Sediari 8  Rome  RM  186,Rome,b375b1d5-a57e-40f4-912c-42c2db887293
+hotel_580,Trastevere Rooms,Viale Trastevere  108  Rome  RM  153,Rome,ad2a5816-da76-48f9-9946-db63dd518ae9
+hotel_581,163 Boutique Hotel,Via Nazionale 163  Rome  RM  00184,Rome,4ff925bd-073a-43b7-ab37-cb363dc7a7a2
+hotel_582,Rhea Silvia Luxury Navona,Corsia Agonale  10  Rome  RM  00187,Rome,177ee180-1aae-4828-a29f-638c4d770a06
+hotel_583,Hotel Monte Cenci,Via Beatrice Cenci  10  Rome  RM  00186,Rome,5cfa4235-e616-4bae-887f-ff87611382aa
+hotel_584,Hotel Centro Cavour,Via Cavour 237  Rome  RM  184,Rome,7b9cd15c-6df5-400f-bf8a-e10054664682
+hotel_585,Salotto Monti,Via della Consulta 1b  Rome  RM  184,Rome,bb5fab05-2e33-48e7-aef0-e459632cece7
+hotel_586,Daplace - Arena House,Via Marco Aurelio 37  Rome  RM  00184,Rome,2dd6874d-cfea-4397-907e-2a053c85d025
+hotel_587,La Farfalla,Via Giovanni Lanza 99  Rome  RM  00184,Rome,5322432d-5d8c-4d4d-b2f3-fc663d196a68
+hotel_588,Residenza Belli,Via Goffredo Mameli  47  Rome  RM  153,Rome,4d55552f-949e-4438-9987-e99b63ee0ab4
+hotel_589,Sweet Dreams Roma,Via Nazionale 163  Rome  RM  184,Rome,d14cd73f-5360-4301-bcce-71355b5098de
+hotel_590,Hotel Hiberia,Via XXIV Maggio  8  Rome  RM  187,Rome,0bb155c5-a3bd-453b-adfa-b8f777e41383
+hotel_591,BePlace Aventino,Via di S. Saba  Rome  RM  00153,Rome,bb3a1c87-b79d-4041-9063-c578650757f7
+hotel_592,Relais Servio Tullio,Via Nazionale 243  Rome  RM  184,Rome,c27096f6-eda1-4c7d-89c2-0086e72a4368
+hotel_593,Seven Suites,Via Nicola Zabaglia  11  Rome  RM  153,Rome,a3c20172-c152-4f78-b20a-25a8cff59fca
+hotel_594,Domus Mea,Via Calatafimi 31  Rome  RM  00185,Rome,ee5a12ed-4f5f-408e-a884-5171c4041d01
+hotel_595,Sonder at Prati Lungotevere,17 Lungotevere Prati  Rome  RM  00193,Rome,ed01ad64-edfc-4801-ba66-2bf43f07f8c9
+hotel_596,Vittoriano Suite,Via d'Aracoeli  3  Rome  RM  00186,Rome,2c6c48e6-104f-4b6a-a26d-ab0bf3306b3f
+hotel_597,Excellence Suite,Via della Purificazione 38  Rome  RM  186,Rome,8f220470-220e-430c-a6ca-29f1469d97bb
+hotel_598,Nerva Accomodation Cavour,150 Via Cavour  Rome  RM  00184,Rome,6ab4e4a9-c1fc-4284-99d7-3a0cb87b5249
+hotel_599,H10 Palazzo Galla,Via IV Novembre  102  Rome  RM  00187,Rome,b5f640e9-fd8e-4437-b574-8d73563edc88
+hotel_600,Hotel Ripa Roma,Via Degli Orti Di Trastevere 3  Rome  RM  153,Rome,e2cd9f06-39a5-431c-894c-ec235e627342
+hotel_601,"Radisson Collection Hotel, Roma Antica",VIA DELLE BOTTEGHE OSCURE 46  Rome  RM  00186,Rome,a3963c40-7c26-4b68-bb74-edb40efb6334
+hotel_602,Sonder Testaccio,Via Beniamino Franklin 4  Rome  RM  153,Rome,c05eeda9-345b-4a32-bad3-45b07a9b92f8
+hotel_603,Nerva Boutique Hotel,Via Tor de' Conti 3/4  Rome  RM  184,Rome,24c2d50c-7a49-487d-8398-b7227b7767af
+hotel_604,Trastevere Royal Suite Trilussa,Lungotevere Raffaello Sanzio 1  Rome  RM  153,Rome,26dca04e-746b-4650-b3bd-af0af90104e7
+hotel_605,Relais La Maison De Luxe,Via Agostino Depretis 70  Rome  RM  184,Rome,044acd71-f2fe-4259-ad46-244e9e3992fe
+hotel_606,DoubleTree by Hilton Dubai M Square Hotel & Residences,M Square Building  Al Mankhool  Dubai,Dubai,9629f6a9-28ea-4278-a3e1-a91d35b7e32f
+hotel_607,Rove Trade Centre,2nd December Road  Jafiliya  Trade Centre  Dubai  119444,Dubai,8ee18ab1-c1a2-4f41-88e5-8cfc64362c6c
+hotel_608,Wyndham Dubai Deira,Sherina Plaza 4 Al Corniche Rd 111  Dubai  Dubai,Dubai,2f260195-ddac-4cf4-a052-eb4c88fd5afe
+hotel_609,Days Hotel By Wyndham Dubai Deira,One Deira Plaza Gold Souk Metro Station  Al Corniche - 111  Dubai  119303,Dubai,19c349a6-cc57-43bf-9413-d945c8752dbc
+hotel_610,SKY VIEW HOTEL,Al Khor St  Dubai  Dubai,Dubai,86df7907-83ff-4eec-b9e4-efc044852b44
+hotel_611,Rove La Mer Beach,La Mer South  Jumeirah 1  Dubai  ARE  119444,Dubai,1e318caa-2286-4db1-8487-78776cc8a32e
+hotel_612,Grand Mercure Dubai City,61B Street  Garhoud  Next to GGICO Metro  Dubai  13868,Dubai,5645326e-821a-40d0-bd78-133e309525b6
+hotel_613,XVA Art Hotel,Al Fahidi Neighborhood  Bur Dubai  Dubai,Dubai,13845ebe-1323-402b-bc26-bc5eab803348
+hotel_614,Private UNISEX Loft rooms Near Bur Dubai,7 14 St  Dubai  Dubai,Dubai,0a47e4b6-3b04-4620-b487-9649758840d6
+hotel_615,Sonder Business Bay,6B Marasi Drive  Dubai  DU  00000,Dubai,2c6f8fa9-2445-4230-b9d4-50a035084d93
+hotel_616,CAPE TOWN HOTEL,Sabka Bus Station  Deira  Dubai  Dubai,Dubai,0b616240-f5ee-4c98-a61d-4013b582e0a1
+hotel_618,Arabian Boutique Hotel,Al Fahidi St  Dubai  Dubai,Dubai,38272008-05a4-434c-bfb7-213c9e6dae94
+hotel_619,"Al Seef Heritage Hotel Dubai, Curio Collection by Hilton",Al Seef Street  Dubai Creek  Dubai  35449,Dubai,b593cd11-613d-4c98-8aa6-19d04c2319ea
+hotel_620,City Relax Hotel,Al Sabkha Rd  Dubai  Dubai  971,Dubai,36425487-59b7-4958-a650-51aa222f7e99
+hotel_622,London Hotel,Al Sabkha Road   Dubai  Deira  0000,Dubai,7456dbe1-3bbd-4110-be3f-2b3d03dd31eb
+hotel_623,Three 888 Hotel,Al Burj St  Dubai  Dubai,Dubai,b3b758e5-6800-4b2d-ba68-5ca7074faca6
+hotel_624,Wescott Hotel,No. 32795 Al Souq Al Kabeer  Dubai  Dubai  32795,Dubai,c57ee1b1-f3e4-4a2a-994b-7477906f8d4a
+hotel_625,Collection O Phoenix Hotel,28  St.28 C  Community 118  Nakheel Area  Dubai  Dubai  39674,Dubai,06e3f558-c077-46d7-986e-d8e380520ab3
+hotel_626,Pullman Dubai Creek City Centre,Port Saeed Road Baniyas Street  Dubai  61871,Dubai,a00e9f6b-aaf9-4598-b9bc-f7e05500c2be
+hotel_627,Riviera Hotel Dubai,Baniyas Road 5  Deira  Dubai,Dubai,41959310-74b0-450a-b0a6-1dc03736f383
+hotel_628,Arabian Courtyard Hotel & Spa,Al Fahidi Street  Bur Dubai  Dubai  46500,Dubai,db28ed16-7c3f-4541-ad70-595f7688b5ac
+hotel_629,"Radisson Blu Hotel, Dubai Deira Creek",Bani Yas Road  Deira  Dubai  476,Dubai,bb2b5c88-a728-48e2-909f-435ad0e66542
+hotel_630,Queen Elizabeth 2 Hotel,Mina Rashid Marina  Bur Dubai District  Dubai  6769,Dubai,b4e170d8-516e-42a4-a00c-d424f069ce2d
+hotel_631,Family Double Partition Room in Bur Dubai,Al Rolla Rd  Dubai  Dubai,Dubai,0ae014dc-c5d3-4847-95ed-09bd7465ec80
+hotel_632,Florida City Hotel Apartments,Baniyas Square  Deira  P.O. Box 49530  Dubai  Dubai,Dubai,e648a037-e85e-41ab-845c-b7bea6135443
+hotel_633,Hyatt Regency Dubai,Deira Corniche Alkhaleej Road  Dubai,Dubai,4999f3c7-db75-4940-9074-89b71bbe0e4d
+hotel_634,Maaeen Hotel,10th Street  Al butteen Rd  Deria  Dubai  Dubai  78273,Dubai,44498cb8-54ad-4d9a-976a-cc221459fdc7
+hotel_635,Millennium Plaza Downtown Suites,Sheikh Zayed Al Nahyan Road  Dubai,Dubai,5a665827-c39a-4f42-a86b-30631fe946a7
+hotel_636,Taj Dubai,Burj Khalifa Street  Dubai  8489,Dubai,54fa2d93-64ce-40b8-923e-ed83c2e53676
+hotel_637,White Fort Hotel,Nasser Square  Near Baniyas  Metro Station  Dubai  83163,Dubai,95e73e29-e411-412d-83bb-16dc8b41d97d
+hotel_639,Ibis Styles Dubai Deira,Maitha Plaza  Al Khaleej Road 110  Deira  Dubai,Dubai,082b2c34-1f28-4ca4-84f5-1ac5e84971a1
+hotel_640,New California Hotel,Al Nakhal Rd  Dubai  Dubai,Dubai,79f5a05b-d402-4bc4-9518-9cc228f7ca9e
+hotel_641,Florida Square Hotel,Sabkha Street  Deira  near Sabkha Bus station  Dubai  Dubai,Dubai,469c4a82-aaa6-43bb-a57c-eea8d53208b7
+hotel_642,MOUNT SINA HOTEL BY AURA,Al Sabkha Rd  Dubai  Dubai,Dubai,35968fcc-7eb4-400d-aea6-18cdfebd4dcb
+hotel_643,Swissotel Al Ghurair,Omar Bin Al Khattab Street  Dubai  185051,Dubai,558124d4-1b5d-4cff-877b-46ba7bb9e6eb
+hotel_644,Super 8 by Wyndham Dubai Deira,Maryam Plaza 1  Al Daghaya Rd- 113  Deira  Dubai  119303,Dubai,3df3d337-8528-4f84-bd51-b7db4e42bb9b
+hotel_645,Majestic Premier Hotel,Khalid Bin Waleed  Dubai,Dubai,cd448d0d-d4b7-4d0a-bd92-952009ac1597
+hotel_646,Collection O Phoenix Hotel,28  St.28 C  Community 118  Nakheel Area  Dubai  Dubai  39674,Dubai,558b2985-0289-4a70-81ec-8a2fa0d74872
+hotel_647,Hyatt Regency Galleria Residence Dubai,Deira Corniche  Po Box 6655  Dubai,Dubai,8e40b545-50fd-42ef-beeb-4c5866d8f5b6
+hotel_648,Gold Sky Avenue Hotel,Al Khor Street  Deira - Al Sabkha  Dubai,Dubai,ff898d6b-bfa5-469d-ad35-3acaf106cf78
+hotel_649,Grayton Hotel Dubai,12A Street  Al Mankhool  Bur Dubai  Dubai,Dubai,86c4a4d6-5674-4d1d-b61d-ca6d1fe4b194
+hotel_650,Mercure Dubai Deira,Al Yazia Plaza Al Khaleej Road 110 Deira  Dubai  15472,Dubai,6b876a16-b551-457b-ae0d-61aa2d81f2f5
+hotel_651,AL KARNAK HOTEL BRANCH,Al Sabkha Rd  Dubai  Dubai,Dubai,f44397c9-dafb-4864-aefa-2274baa5ee04
+hotel_652,Gateway Hotel,Al Nahdha St- Al Fahidi - Khaleed Bin  Waleed Road  Bur Dubai  Dubai,Dubai,cb9fddd4-f8ff-4519-9aa9-4e22d9f0ce55
+hotel_653,Collection O San Marino Hotel,Frij Al Murar  Deira  Dubai,Dubai,fba9f720-64a6-4e38-934b-a1ea759033e2
+hotel_654,Swissotel Living Al Ghurair,Umar Bin Al kattab Rd  Deira  Near Al Ghurair Center  Dubai,Dubai,c769d2a9-5b5f-48bb-aab0-63bde55c2a29
+hotel_655,Oyo 492 Gulf Star,9 12 A St  Dubai  Dubai,Dubai,d7e346d1-3f5d-48ff-bd31-8e5077123d14
+hotel_656,Majestic City Retreat Hotel,Mankhool Road  Bur Dubai  Dubai  122235,Dubai,57880d07-3c61-446f-8fb6-f5bb8d6447f1
+hotel_657,Millennium Plaza Downtown Hotel,Sheikh Zayed Road  Po Box 23215  Dubai,Dubai,76d1041b-8842-4643-b390-92725c744de5
+hotel_658,"Rove City Centre, Deira",24 19b Street  Port Saeed  Dubai,Dubai,567c8606-b181-430d-8ac2-bf9f7e24a009
+hotel_659,Savoy Crest Hotel Apartments,Al Mankhool 10b Street  Bur Dubai  Dubai  29016,Dubai,4f05b3ab-f5e5-4726-acea-f1e49da8ce85
+hotel_660,City Stay Premium Hotel Apartments,Naif St  Dubai  Dubai,Dubai,4fc6dd1c-431b-4f2c-8132-5821637491e3
+hotel_661,Best Western Plus Pearl Creek,90 Baniyas Road  Dubai  83163,Dubai,f07a9c88-2a0b-41f3-b8d1-91273390916b
+hotel_662,The Canvas Dubai - MGallery Hotel Collection,23  Kuwait Street  Port Rashid  Dubai  Dubai  116656,Dubai,e8a7adc3-4984-4caa-83a9-61f2c6e803a9
+hotel_663,Regent Palace Hotel,World Trade Centre Rd  Dubai,Dubai,9515169d-d599-42c3-8037-f658ae63d6de
+hotel_664,Sheraton Dubai Creek Hotel & Towers,Baniyas Street  Po Box 4250  Dubai,Dubai,c6128e98-e4e7-4421-9b78-fbe25c913762
+hotel_665,Nihal Residency Hotel Apartments,Behind ADCB Bank &  Al Fahidi Metro Station  Dubai  25295,Dubai,1bd4e618-4c66-4d67-9310-8da18b54c7b2
+hotel_666,Jumeirah Living - World Trade Centre Residence,2nd Zabeel Road  World Trade Center  Dubai  0000,Dubai,fdd444c6-e145-4193-9def-904b2b7b8995
+hotel_667,Collection O San Marino Hotel,Frij Al Murar  Deira  Dubai,Dubai,e762cee2-ce00-42a3-8005-ae39f631e060
+hotel_668,Aparthotel Adagio Dubai Deira,110 Al Khaleej Road  Deira-Afra Plaza  Dubai,Dubai,18cef1a4-9222-475c-9917-5208f62a0200
+hotel_669,Hyatt Place Wasl District Residences,Wasl District  Dubai  Dubai  128851,Dubai,651d2649-68c4-401b-8f6e-f63d4e9d792d
+hotel_670,Ascot Hotel,Khalid Bin Walid Road  Bur Dubai  Dubai,Dubai,d0e161ea-253d-4e6b-a79c-5be9ccd2def2
+hotel_671,New Royal Mark Hotel Apartments,Dubai  Dubai  Dubai,Dubai,c9689532-48a7-4579-bca3-c17cffbf3d2c
+hotel_672,DoubleTree by Hilton Dubai M Square Hotel & Residences,M Square Building  Al Mankhool  Dubai,Dubai,e3a74b3b-0538-4b72-b5bc-e580c6e66bf2
+hotel_673,Royal Tulip Hotel,Opposite Delhi Resturant  Al Murar area  Deira  Dubai  Dubai,Dubai,0e56f1d4-1caf-4735-be34-34e38121404a
+hotel_674,Al Bandar Rotana – Dubai Creek,Baniyas Road  Deira  Dubai,Dubai,d4a48e67-f326-4913-8f81-01d9b9f9075d
+hotel_675,Royal Ascot Hotel,Khalid Bin Walid Road  Bur Dubai  Dubai,Dubai,f7ed3536-7071-48a1-8748-50ab8dcd0f7a
+hotel_676,Centara Mirage Beach Resort Dubai,Dubai Islands  Dubai  P.O31308,Dubai,05ce00c3-2309-4e91-81a8-1b49bd86b4ad
+hotel_677,Rove Healthcare City - Bur Dubai,19th Street  Oud Metha  Bur Dubai  Dubai,Dubai,23a51611-e7ca-4f12-951d-5af8bde00022
+hotel_678,Canopy by Hilton Dubai Al Seef,Al Seef Street Building A  Dubai  12331,Dubai,f644917b-4a02-44a3-a001-cb124db336b6
+hotel_679,Pearl Swiss Hotel,Behind Commercial Bank Building  Al Rigga Rd  Deira  Dubai,Dubai,996a666d-79fd-4bc0-a1bf-66abbd6ba147
+hotel_680,City Seasons Towers,Khalifa Bin Zayed Road  Mankhool  Next to Burjuman Mall  Dubai  5847,Dubai,9b54141c-b84e-4e13-9960-9b9b026f4459
+hotel_681,Wescott Plaza Hotel Apartment,Kuwait St  Dubai  Dubai,Dubai,eac27081-1509-46b2-a79a-038a96d391d1
+hotel_682,Smana Hotel Al Raffa,37  Al Raffa  Bur Dubai  Dubai  Dubai  Dubai,Dubai,05046901-fdc2-4bb9-ba29-d60ca809a414
+hotel_683,Park Regis Kris Kin Hotel Dubai,Sheikh Khalifah Bin Zayed Street  Opp. Burjuman Centre  Dubai  8264,Dubai,559ae952-a36c-4e8a-a1fa-ca82580c850a
+hotel_684,Gulf Inn Hotel Deira Formerly City Star,139 Salah Al Din St  Dubai  Dubai,Dubai,a38f4445-1d65-450c-a452-7201610c2395
+hotel_685,Hampton by Hilton Dubai Al Seef,Al Seef Street  Dubai Creek  Dubai  12331,Dubai,6a111aea-a9cc-400d-b8bf-ec72a711306c
+hotel_686,Hafez Hotel Apartments,Next to E NBD Bank Bldg  Al Ras  Opp. Metro & Fire Station  Deira  Dubai  83163,Dubai,d13672d9-9799-477b-b31b-37d4107b6216
+hotel_687,Rose Garden Hotel Apartments - Bur Dubai,Behind Burjman Shopping Mall  Near Burjuman metro station  Dubai  Bur Dubai  45113,Dubai,654498b2-c207-4ee1-9fd0-5a3c57c3f7b9
+hotel_688,Azur Regency Hotel Apartment,10 B Street  317 Community  Al Mankhool  Bur Dubai  Dubai,Dubai,0021709c-3d46-42c2-81e1-5c601685d732
+hotel_689,Four Points by Sheraton Bur Dubai,Mankhool Road  4c Street  Bur Dubai  Dubai,Dubai,3c52b4d7-8d25-4e24-b68f-a6487fa930ec
+hotel_690,Manhattan Avenue Hotel,Al Mankhool Road  Near Al Fahidi Metro Station  Dubai  24607,Dubai,32aa2461-a3cb-44a8-89e9-5e6878c36cc0
+hotel_691,Edge Creekside Hotel,Rigga Al Buteen Street  Dubai,Dubai,61edb22e-39df-4f65-97ba-05b9b2e485d2
+hotel_692,Fortune Hotel Deira,Omar Al Khattab Street  opp DEWA office  Deira  Dubai  49185,Dubai,cce5881a-7d84-4a65-bb90-c98531097d38
+hotel_693,Garden City Hotel,35 A  Naif  Dubai,Dubai,79aec89f-c3fb-4272-a275-f8263ee2e544
+hotel_694,Landmark Summit Hotel,34 B Street  Behind Commercial Bank Building  Deira  Dubai  64264,Dubai,3a5e39d6-f3cb-4388-8cd7-f374170d1ada
+hotel_695,Raviz Center Point Hotel,Khalid Bin Al Waleed Street  Bank Street  Dubai  33382,Dubai,250a322f-245b-4af2-814b-b6650c214c1f
+hotel_696,Fortune Atrium Hotel,Khalid Bin Al Waleed Rd  Dubai  Dubai,Dubai,5e36b41e-d2b2-4d81-8b31-0fccdc33b2a9
+hotel_697,Marriott Marquis Dubai,Jewel of the Creek  Port Saeed  Dubai,Dubai,ce27e3f9-3b49-4057-9689-2cabe7b2b699
+hotel_698,Address Dubai Mall,Sheikh Mohammed Bin Rashid Boulevard  Downtown Dubai PO Box 27443  Dubai,Dubai,d5d2501b-4244-4b54-b019-a1e65d853fde
+hotel_699,Sea View Hotel,Al Mina Road  Bur Dubai  Opposite to Dubai Customs Building  Dubai,Dubai,74a4bb41-354b-4bf2-aa6c-86b468858ab8
+hotel_700,Savoy Park Hotel Apartments,10B Community 317Mankhool  Dubai  111204,Dubai,739e5479-9fe7-4d1f-8bdb-f3488398ac06
+hotel_701,ibis Al Rigga,Al Rigga Road  Deira  Po Box 186878  Dubai,Dubai,e2ad257a-8c2b-401a-a4de-0c512315594d
+hotel_702,Suha Mina Rashid Hotel Apartments,Al Mankhool Rd  Bur Dubai  Dubai,Dubai,53f38abc-cb0d-4ccb-bca0-9a54eca683a5
+hotel_703,Deira Suites Hotel Apartment,Al Maktoum Road  Dubai  Dubai  186256,Dubai,49e5f1ce-2fb7-42b7-ba65-861f141e2db4
+hotel_704,Citymax Bur Dubai,Kuwait Street Mankhool Area  Dubai,Dubai,7c9bb201-beb2-4d25-bb3b-4da4adcff5b1
+hotel_705,Khalidia Palace Hotel Dubai,Al Maktoum Rd  Dubai  Dubai,Dubai,be17f446-0146-4caa-ac61-bf40df1e51a1
+hotel_706,Al Bandar Arjaan by Rotana - Dubai Creek,Baniyas Street  Dubai  Dubai  04080,Dubai,28552d77-6dc5-44df-89a7-073ca28c47b0
+hotel_707,Savoy Central Hotel Apartments,Al Rolla Road Bur Dubai  Dubai  49519,Dubai,508bb312-16b5-46d1-8577-55070f18d520
+hotel_708,Knight Castle Hotel,Al Maktoum Road  Dubai,Dubai,8bf2abd9-4ccd-4b91-a251-12a5d3626d2a
+hotel_709,Fairfield Inn & Suites Watertown Thousand Islands,250 Commerce Park Dr  Watertown  NY  13601,Copenhagen,5ffbac98-a25e-4a04-9478-b767c9156c4a
+hotel_710,Pleasant Night Inn,30 N Broad St  Carthage  NY  13619,Copenhagen,8119ec01-f696-4d09-89c9-93bdbdb67d00
+hotel_711,Quality Inn & Suites Watertown Fort Drum,8000 Virginia Smith Drive  Calcium  NY  13616,Copenhagen,29d8cd38-8f72-485a-b576-ec379d047fa2
+hotel_712,Best Western Watertown Fort Drum,300 Washington St  Watertown  NY  13601,Copenhagen,8bb99dbd-5eed-413b-be94-60f6cba1512f
+hotel_713,Days Inn by Wyndham Watertown Fort Drum,25940 US Route 11  Calcium  NY  13637,Copenhagen,1bb43c07-f489-407b-b7e4-32ee7b4de6ea
+hotel_714,Golden Pond Cabins,2617 New York 13  Altmar  NY  13302,Copenhagen,d3337455-6dcc-4575-8942-ea638e4a9615
+hotel_715,"Candlewood Suites Watertown Fort Drum, an IHG Hotel",26513 Herrick Drive  Evans Mills  NY  13637,Copenhagen,658f788d-7076-4daa-b3c0-e7f38d3f2110
+hotel_716,Nest Inn,23442 New York 37  Watertown  NY  13601,Copenhagen,44e3d20b-04ee-4f3d-970a-6beb7e6a710b
+hotel_717,Adirondack Efficiencies Watertown,1030 Arsenal Street  Building A  Watertown  NY  13601,Copenhagen,026c19b0-087b-4b8b-ab03-9693e67abe48
+hotel_718,Comfort Inn & Suites Watertown - 1000 Islands,110 Commerce Park Drive  Watertown  NY  13601,Copenhagen,260a4b90-4977-4a04-8d2e-de420e5262a1
+hotel_719,Hampton Inn Watertown,155 Commerce Park Dr  Watertown  NY  13601,Copenhagen,94430779-20ae-4622-ad2e-ee8534c599dc
+hotel_721,Hilton Garden Inn Watertown/Thousand Islands,1290 Arsenal Street  Watertown  NY  13601,Copenhagen,476e5f67-1f86-4baa-a7b1-7c553e0ee8ab
+hotel_722,"Holiday Inn Express Hotel & Suites Watertown-Thousand Island, an IHG Hotel",1290 Arsenal St  Watertown  NY  13601,Copenhagen,e1365e1f-f8d2-425d-8ef7-3c89ed2a5d4e
+hotel_723,Allen's Budget Motel,24019 NY State Route 342  Watertown  NY  13601-5155,Copenhagen,7e751e4b-efa7-48f8-8a03-4422874ccbc4
+hotel_725,Royal Inn Motel,25791 Route 37  Watertown  NY  13601,Copenhagen,2e0bd118-08b6-400c-b85a-35f8839dd424
+hotel_726,Harbor House Inn,103 General Smith Drive  Sackets Harbor  NY  13685,Copenhagen,fd93145f-435f-4eff-8be0-f942952a797f
+hotel_727,"Tailwater Lodge Altmar, Tapestry Collection by Hilton",52 Pulaski St  Altmar  NY  13302,Copenhagen,895b402f-2986-4006-89f3-9e3132410857
+hotel_728,The School House Inn,29 Pulaski Street  Altmar  NY  13302,Copenhagen,e50f1600-620f-4cfd-a465-c455883a30f5
+hotel_729,Ramada by Wyndham Watertown/Thousand Islands NY,21000 NY State Rt 3  Watertown  NY  13601,Copenhagen,09d04e92-1f0c-4860-94bb-121faf8f4b45
+hotel_732,Travelodge by Wyndham Watertown,1190 Arsenal Street  Watertown  NY  13601,Copenhagen,bae32ba7-4f4e-4206-a19c-90d3f131e07a
+hotel_733,Tug Hill Resort,100 Noble Shores Dr  Redfield  NY  13437,Copenhagen,b93149bf-ce36-4d38-b6c5-508667791f3a
+hotel_734,Brantingham Home: ATV & Snowmobile Trails On-site!,Brantingham  NY,Copenhagen,6f3d513a-2f78-4a0c-b813-152791f2d038
+hotel_735,Dexter Vacation Rental in Walkable Location!,Dexter  NY,Copenhagen,a93a0aa8-adb5-49f1-9a6f-900288f935a9
+hotel_736,Modern Lake Ontario Escape w/ Beach Access!,Henderson  NY,Copenhagen,32fa35c0-6af2-4afe-a685-51cd075f4c6e
+hotel_737,Cozy Beachfront Cottage on Lake Ontario!,Henderson  NY,Copenhagen,52452336-3fd7-4110-aa82-eeec7add93d3
+hotel_738,Spacious Lake Ontario Getaway: Steps to Beach!,Henderson  NY,Copenhagen,81892874-0322-426c-b071-311f10060279
+hotel_739,Pet-friendly Brantingham Cabin by ATV Trails,Brantingham  NY,Copenhagen,2c77755a-56d4-488a-82b5-68cd9385b3f6
+hotel_740,Adirondack Cabin on Private Lake Near Glenfield!,Glenfield  NY,Copenhagen,490ae9eb-9fdc-43f7-a4c6-915a26f43643
+hotel_741,"Adirondacks Cabin: Fish, Hunt & Hike!",Brantingham  NY,Copenhagen,be5aa25f-d16b-4201-9d01-331483895651
+hotel_742,5-acre Brantingham Property w/ Porch & Grill!,Brantingham  NY,Copenhagen,ea2f0535-c04c-44d4-97b7-f9ffecc2e5dd
+hotel_744,Spacious Lowville Retreat on 4 Private Acres!,Lowville  NY,Copenhagen,b777e782-1cde-42ff-9f26-0866e3b76bdd
+hotel_745,Henderson Harbor Cottage w/ Lake Access!,10401 Bayshore Dr  Henderson Harbor  NY  13651,Copenhagen,fe4ef24e-16c4-4a71-ac53-4447b12b9850
+hotel_746,8 Mi to Lake Ontario: Pet-friendly Apt w/ Deck!,Adams  NY,Copenhagen,f2128167-a881-4018-89f5-dd1880c0bfee
+hotel_747,Upstate New York Home Near Snowmobiling & Atving!,Lyons Falls  NY,Copenhagen,fba03f56-bc78-42d3-86d8-0257a9220857
+hotel_748,"Peaceful Home w/ 11 Acres, Creek & Fire Pit!",Glenfield  NY,Copenhagen,83c8fcee-6290-4320-8893-f495def9a1d9
+hotel_749,Altmar Family Home w/ Rivers & Trails Nearby!,Altmar  NY,Copenhagen,45e78842-fb97-4728-a790-81344cf01e13
+hotel_750,Altmar Home w/ Fire Pit < 1 Mi to Salmon River!,Altmar  NY,Copenhagen,80b32b98-6f07-4166-8fbe-91b251545482
+hotel_751,Lake Ontario Cottage BBQ Fire Pit,Sandy Creek  NY,Copenhagen,f33ec950-360f-405e-9e44-9e951ff53994
+hotel_752,Only YOU Hotel Atocha,Paseo Infanta Isabel 13  Atocha  Madrid  28014,Madrid,58f6569b-6b1f-493d-98dc-91b14e2241f4
+hotel_753,Only YOU Boutique Hotel,Calle Barquillo  21  Madrid  Madrid  28004,Madrid,46cd7021-dc26-46ce-b6a7-e749d0dae0c7
+hotel_754,SmartRental Collection Gran Vía Capital,Calle Gran Vía 14  Madrid  28013,Madrid,41574d24-b8f2-4dcc-a774-9435ab47a195
+hotel_755,Akeah Hotel Gran Via,San Bernardo  48  Madrid  Madrid  28015,Madrid,8d6df3ac-bc2b-4a19-833f-9d7711f2be87
+hotel_756,Hotel JC Rooms Chueca,Calle Infantas 5  Madrid  28004,Madrid,d1255a3b-fe39-48e1-b7e1-ceb9352595cc
+hotel_757,Bless Hotel Madrid a member of The Leading Hotels of the World,62 Velazquez St  Madrid  Madrid  28001,Madrid,fda2064e-2710-49af-8103-28d2cc24247b
+hotel_758,Avani Alonso Martinez Martinez (previously NH Alonso Martinez),Calle de Santa Engracia  5  Madrid  Madrid  28010,Madrid,7acfb50f-8596-4ac7-b583-69651ed2ef47
+hotel_759,Room Mate Óscar,Plaza Pedro Zerolo  12  Madrid  Comunidad de Madrid  28004,Madrid,25f91a85-dbf4-49ac-98af-9e93a1b59c49
+hotel_760,Hostal Hispano Gran Vía,C/ Hortaleza  Nº38 - 2º  Madrid  Madrid  28004,Madrid,2ef0ced0-81ee-4b6a-9caf-296fcdb61d7b
+hotel_761,Uma Suites O'Donnell,C. del Dr. Esquerdo 77  Madrid  Madrid  28007,Madrid,8e6747fe-15ea-4c07-aa28-27ee26602124
+hotel_762,Woohoo Rooms Hortaleza,Calle de Hortaleza  21  2  Madrid  Madrid  28004,Madrid,06afc93c-fef4-4ded-89ec-ae581b186713
+hotel_764,Tribu Malasaña,C. de San Vicente Ferrer 1  Madrid  Madrid  28004,Madrid,a65403d0-40e4-4ccd-a378-c4df5b8433fa
+hotel_765,Hostal Sonsoles Madrid Centro,Calle de Fuencarral  18 2º Derecha  Madrid  Madrid  28004,Madrid,27091070-d93f-4397-8423-1d254659a70b
+hotel_766,Feelathome San Marcos Apartments,Calle San Marcos 31  Madrid  Madrid  28004,Madrid,69e430ef-5576-464b-9172-c7112a7d3e51
+hotel_768,ibis Styles Madrid Maravillas,Calle de Manuela Malasana  6  Madrid  Madrid  28004,Madrid,d370900a-2470-4ab2-a46c-e810e1422194
+hotel_769,Motel One Madrid-Plaza de España,Calle De Tutor 1  Esquina Ventura Rodriguez  Madrid  28008,Madrid,1d6e81f7-eda0-4db1-9413-9a3fd6714c36
+hotel_770,Hostal Vázquez de Mella,Plaza Pedro Zerolo 1  3 piso  Madrid  Madrid  28004,Madrid,2fd15b42-ff3a-48b2-bc0a-50d16629e324
+hotel_771,Hotel Principe Pio,Cuesta San Vicente 14  Madrid  Madrid  28008,Madrid,41a2b461-d21a-46dc-ac24-bead3dfe988b
+hotel_772,Pestana CR7 Gran Vía Madrid,Gran Vía 29  Madrid  28013,Madrid,ecbc155e-fb29-46a1-b363-e16793b5a3f8
+hotel_773,Hostal América,C/ Hortaleza 19  Madrid  Madrid  28004,Madrid,a80a5c6b-46e7-48ef-bdd5-328e41607416
+hotel_774,Gran View Apartments,C/ Gran Vía 48  Madrid  Madrid  28013,Madrid,3e29a218-bdf0-48bf-90af-3b3244d7a324
+hotel_775,Hotel Gran Versalles,Covarrubias 4  Madrid  Madrid  28010,Madrid,4f6ccdbf-bd81-479d-b3d9-689043d84d1a
+hotel_776,Fuencarral Rooms,Calle Fuencarral  39-3 Derecha  Madrid  28004,Madrid,63b689e9-ecbf-43e3-9d5f-8202e7684e12
+hotel_777,Hostal Abril,Calle Fuencarral 39 Dcha 4  Madrid  Madrid  28004,Madrid,66d9df98-4199-4fcb-ab41-d6bf254f03d4
+hotel_778,Feelathome Madrid Suites Apartments,Calle Martín de los Heros  6  Madrid  Madrid  28008,Madrid,540cfa69-e831-4918-aff6-ab1d78530014
+hotel_779,Hostal San Lorenzo,Calle Clavel 8  Madrid  Madrid  28004,Madrid,5da971d3-1398-454f-85be-a29d4f3c5754
+hotel_780,Hostal Palacios Fuencarral,Fuencarral  25   1 Derecha  Madrid  28004,Madrid,97e46dc9-0016-4a3f-a4cd-2f1a2dc030ac
+hotel_781,Relais & Châteaux Heritage Madrid,Calle Diego de León  43  Madrid  28006,Madrid,a4498ef5-ea09-4169-95bc-099488b370d7
+hotel_782,Pestana Plaza Mayor Madrid,Calle Imperial  8  Madrid  28012,Madrid,39211536-e0f8-422f-84e6-d50cfe95e0c2
+hotel_783,Hotel Eurostars Central,Calle Mejía Lequerica  10  Madrid  Madrid  28004,Madrid,490852db-dd66-49a5-a5be-ba5f77d0b71e
+hotel_785,Suites Viena Plaza de España,Juan Alvarez Mendizabal 17  Madrid  Madrid  28008,Madrid,cece9ee3-c235-43cb-aecc-7f9be8aded28
+hotel_786,Hotel Los Condes,Calle Libreros 7  Madrid  Community of Madrid  28004,Madrid,607b8e3a-2a8c-48c0-a4fc-d2bc622f1f68
+hotel_787,Barceló Torre de Madrid,Plaza de España  18  Madrid  28008,Madrid,e2ad6f0c-5612-486d-93a0-705ba11572bb
+hotel_788,Hostal Zamora,Plaza Pedro Zerolo 1  4º izquierda  Madrid  Madrid  28004,Madrid,47f8202f-c147-40d0-b2f7-4dfe01b528a0
+hotel_789,Smartr Madrid Chueca,Calle Perez Galdos 7  Madrid  España  28004,Madrid,a42df02a-101f-4776-af07-26a0a679169f
+hotel_790,Melia Madrid Princesa,Princesa 27  Madrid  Madrid  28008,Madrid,51ccc362-ecf7-48e1-8148-b0561fcd90f9
+hotel_791,B&B HOTEL Madrid Centro F46 Apartamentos,C/ Fuencarral 46  Madrid  28004,Madrid,61040ff0-2dac-45b2-a32f-3c239b214f46
+hotel_792,Petit Palace Chueca,Calle de Hortaleza 3  Madrid  Madrid  28004,Madrid,658e1dff-59d6-41ce-b445-53ca6014023b
+hotel_793,Aparthoteltribunal,Calle de San Vicente Ferrer 1  Madrid  28004,Madrid,cf4f0d0c-c123-4319-8de7-4677ee25d974
+hotel_794,Bob W Chueca,Calle Fuencarral 45  Madrid  Madrid  28004,Madrid,2fb501dd-f0de-4647-829b-988fd318d3ad
+hotel_795,CH Velarde,C. de Velarde  Madrid  Madrid  28004,Madrid,22b2b61b-d98e-4f9b-b9c0-af487199688a
+hotel_796,Woohoo Rooms Chueca,Barbieri 3  1 IZQ  Madrid  Madrid  28004,Madrid,6de3a4b3-80d9-4ae9-bf54-f4ff1bc22f34
+hotel_797,Leonardo Hotel Madrid City Center,Calle de Alberto Aguilera 18  Madrid  Madrid  28015,Madrid,578f9961-8b61-4bb9-807f-5c1deef5a11f
+hotel_798,The First One Madrid Preciados,Calle Preciados  44  Madrid  Madrid  28013,Madrid,7bddad98-ae85-4df6-af65-9051a9f316c8
+hotel_799,Hostal Dolcevita,Calle San Bartolome 4  Madrid  Madrid  28004,Madrid,ad3ffe01-5644-47f5-8031-51ced00daa50
+hotel_800,The Principal Madrid Small Luxury Hotels,Marqués de Valdeiglesias  1  (Esq. Gran Via  2)   Madrid  Madrid  28004,Madrid,6e0f4453-9cb8-4629-873e-80834420243b
+hotel_801,PACOROOMS,Barco  12  Madrid  madrid  28004,Madrid,2c458af7-9b71-44f5-a480-ddd21bed8d7b
+hotel_802,Hotel Santo Domingo,San Bernardo 1  Madrid  Madrid  28013,Madrid,f194ea57-223e-4706-921e-3d5a7018b6c8
+hotel_803,NH Madrid Ribera del Manzanares,Paseo de la Virgen del Puerto  57  Madrid  Madrid  28005,Madrid,eb062a2e-fe7f-4bab-aba2-2a9387dddf4c
+hotel_804,NH Madrid Zurbano,Calle de Zurbano  79-81  Madrid  Madrid  28003,Madrid,226c035c-1957-4e27-a53f-7f3e8764e8c3
+hotel_805,Only YOU Boutique Hotel,Calle Barquillo  21  Madrid  Madrid  28004,Madrid,38f86de2-b6db-4a3a-bc6e-ba5a09937b2f
+hotel_806,New Dream Madrid,Calle de San Bernardo 55  Madrid  28015,Madrid,336b1279-b0c8-4eaf-a5e7-518db53e3fb4
+hotel_807,Brach Madrid - Evok Collection,Calle Gran Vía 20  Madrid  28013,Madrid,98cbce89-735d-427b-ac8b-d4fd6a940ed8
+hotel_808,Chic & Basic dot,Calle del Maestro Victoria 5  Madrid  28013,Madrid,da9b1b05-5983-4755-9567-0747e8e03654
+hotel_809,Sonder Malasaña,9 Calle del Divino Pastor  Madrid  Community of Madrid  28004,Madrid,94310aa2-219a-440e-a85c-b3de386a915b
+hotel_810,Limehome Madrid Calle de la Madera,Calle de la Madera 25  Madrid  Madrid  28004,Madrid,5cd72290-6d83-4862-af32-edd6e49471ca
+hotel_811,Plaza de España Skyline,Calle Cadarso  18  Madrid  Madrid  28008,Madrid,f6ecce03-4ed3-4033-be86-8dbb3350e11e
+hotel_812,Sonder Santa Ana,Calle del Principe 11  Madrid  28012,Madrid,7e1f81f9-bb63-4d30-a412-a20495fbf936
+hotel_813,Sonder Sofia,1 Ronda de Valencia  Madrid  MD  28012,Madrid,ec742070-f885-4d95-b9a6-224892a486b0
+hotel_814,H10 Villa de la Reina Boutique Hotel,Gran Via 22  Madrid  Madrid  28013,Madrid,0bdd5831-dc72-4ae1-95d3-784d82bd105b
+hotel_815,Petit Palace Santa Bárbara,Plaza de Santa Barbara  10  Madrid  Madrid  28004,Madrid,2df5e348-fc60-4852-a02d-a63e1e1394ca
+hotel_816,Slow Suites Luchana,Calle Luchana 13  Madrid  Spain  28010,Madrid,67514483-a8d6-4b0b-aba6-d5f5cd1ffa10
+hotel_817,AYZ Princesa - Auto check-in property,Calle de la Princesa 25  Madrid  28008,Madrid,2f40e906-885b-45d3-b0d6-d2a31021b4d1
+hotel_818,Numa | Luna Apartments,Calle de la Palma 11  Madrid  28004,Madrid,44b7cae3-e6b9-42a2-8c0b-82762fcb75c9
+hotel_819,Hostal CC Malasaña,Calle Espiritu Santo  18  1st floor  Madrid  Madrid  28004,Madrid,33d91131-ff52-4cee-ad41-f4b6380adeba
+hotel_820,One Shot Luchana,Luchana 22  Madrid  Madrid  28010,Madrid,4ec4d67d-31e6-4afe-b8d5-de4d51e9d5c9
+hotel_821,LaNave,Cadarso 19  Madrid  28008,Madrid,b0b3d35a-3692-4b03-811d-429e1f8934a2
+hotel_822,Sonder Malasaña,9 Calle del Divino Pastor  Madrid  Community of Madrid  28004,Madrid,98ce88c5-6b10-45aa-81b0-fc637140ded9
+hotel_823,"Círculo Gran Vía, Autograph Collection - Adults Only",Gran Via 24  Madrid  28013,Madrid,fcef2a5b-acf1-47ef-a18c-0f3b65f63aac
+hotel_824,Room Mate Macarena - Gran Vía,Gran Vía 43  Madrid  28013,Madrid,66b5c84a-b0a4-4342-a7cd-450632fdc560
+hotel_825,Vincci Vía 66,Gran Via 66  Madrid  Madrid  28013,Madrid,b1ebcb70-4a0d-4fd3-a34d-1cecc4ca542a
+hotel_826,Abalu Boutique & Design Hotel,Calle Pez  19  Madrid  Madrid  28004,Madrid,4ab846aa-9ab7-44dd-9fa3-da90887e0aa8
+hotel_827,URSO Hotel & Spa,Mejía Lequerica 8  Madrid  Madrid  28004,Madrid,9d10bf67-7b0a-48e0-858e-d864ddcfce67
+hotel_828,Hostal Boutique Palace - Adults Only,Calle Gravina 25  1 izquierda  Madrid  Madrid  28004,Madrid,c3d22d7f-1afc-4388-9abe-562e84cdbd13
+hotel_829,Hotel Madrid Centro Affiliated by Meliá,Gran Via 72  Madrid  Madrid  28013,Madrid,8b95f275-d137-4403-8110-b3a8ee1b09f1
+hotel_830,AB Design Suites,Calle del Pez  32  Madrid  Madrid  28004,Madrid,cc3de42b-6049-4144-a896-b2aa46b24c33
+hotel_831,B&B Madrid Centro Puerta del Sol,C/ Montera 10-12  Madrid  Madrid  28013,Madrid,76bf3f94-3f9a-48b1-9b42-5969de909c13
+hotel_832,Hostal Juliette & Coworking,Calle Gran Via No. 44 Planta 2Derecha  Madrid  Madrid  28013,Madrid,ef18fa75-3974-42f1-9e9e-3132c0cf1b8f
+hotel_833,Pestana CR7 Gran Vía Madrid,Gran Vía 29  Madrid  28013,Madrid,2214efba-bc48-4399-9258-989d85fb708c
+hotel_834,Petit Palace Triball,C/ Gonzalo Jimenez de Quesada  2  Madrid  Madrid  28004,Madrid,51f12bc5-2614-4ed1-b2f9-6c8881176555
+hotel_835,ICON Embassy,Calle de Serrano  46  Madrid  Madrid  28001,Madrid,bd90d5b0-81a0-43ef-96fe-304cff6aeae0
+hotel_836,Roisa Centro,Calle San Bernardo 87  Madrid  Madrid  28015,Madrid,8b450a45-e024-430f-8262-ea663141bf34
+hotel_837,Hostal Casa Chueca,San Bartolome N4  2 Izquierda  Madrid  28004,Madrid,9769766c-01ed-46b4-a1fc-7b2c5076deb8
+hotel_838,Hostal Condestable,Calle de la Puebla  15  2nd floor left  Madrid  Madrid  28004,Madrid,163c4623-4050-429e-91da-3501cd99ef80
+hotel_839,Ikonik Gran Via,Calle Gran Via 56  Madrid  Madrid  28013,Madrid,95491fb5-fd82-4788-981a-7bc76ff5c3bd
+hotel_840,Petit Palace President Castellana,Calle del Marques de Villamagna  4  Madrid  Madrid  28001,Madrid,a98fe56d-c75f-4c80-84a9-13c1f987d4bb
+hotel_841,7 Islas Hotel,Calle Valverde 14-16  Madrid  Madrid  28004,Madrid,2bfc7480-e873-43ba-8f94-948871369b38
+hotel_842,Hostal Palacio Luna,Calle de la Luna 6  Madrid  Madrid  28004,Madrid,c9635dca-57d3-48ba-9691-0407791547e3
+hotel_843,AC Hotel Los Vascos by Marriott,Los Vascos  27  Madrid  Madrid  28040,Madrid,89ea104d-0088-4cc2-be18-c7c191e77131
+hotel_844,"Hotel Palacio Del Retiro, Autograph Collection",Calle de Alfonso XII  14  Madrid  Madrid  28014,Madrid,e7825491-bcb7-4023-8af6-afd2f76f1858
+hotel_845,Be Mate Trafalgar,C. de Trafalgar 35  Madrid  Madrid  28010,Madrid,cf0547e3-b8d5-4050-9c0f-aafff5dea44d
+hotel_846,Vincci Capitol,Gran Via 41  Madrid  Madrid  28013,Madrid,0297b74a-7aba-4eb3-bbce-ea7c5746fdca
+hotel_847,Hostal Jemasaca - Palma61,Calle Palma  61  Madrid  Madrid  28015,Madrid,37e38c7b-bfeb-4e97-9d7f-9b03ab6e22cf
+hotel_848,Hostal Sil & Serranos,Fuencarral 95  2º derecha  Madrid  Madrid  28004,Madrid,4f7d5b5f-5bf7-4e91-8963-81ea00e85d9d
+hotel_849,Hotel Preciados,Preciados Street  37  corner with Santo Domingo plaza  Madrid  Madrid  28013,Madrid,d42db6c3-8319-4a1c-ab20-d90dcf5681cd
+hotel_850,SmartRental Collection Gran Via Centric,Gran vía 42  Madrid  28013,Madrid,01e14f7d-f48f-4764-9673-90863d286cdd
+hotel_851,Dear Hotel Madrid,Gran Via 80  Madrid  28013,Madrid,91eb628f-a211-472a-bdc8-ce6608858016
+hotel_852,Avani Alonso Martinez Martinez (previously NH Alonso Martinez),Calle de Santa Engracia  5  Madrid  Madrid  28010,Madrid,e84ff1f5-0877-406c-a2a7-b1d9103ce5a9
+hotel_853,Hotel Atlantico Madrid,Gran Via 38  Madrid  Madrid  28013,Madrid,9ae9a057-6c23-4aee-90f6-9273980db932
+hotel_854,LETOH LETOH Gran Vía,Calle de Leganitos 39  Madrid  28013,Madrid,d170d1c8-3d46-4f70-8e4b-99563a6df8a8
+hotel_855,"Hotel Gamla Stan, BW Signature Collection",Skeppsbron 22a  Stockholm  11130,Stockholm,96d81598-77a2-47ec-bac1-3eb39e021840
+hotel_856,Best Western Hotel Bentleys,Drottninggatan 77  Stockholm  111 60,Stockholm,333b7b83-a548-4a99-a68c-80afd42c473b
+hotel_857,Hotel Birger Jarl,Tulegatan 8  Stockholm  113 53,Stockholm,d9386151-cced-41be-b964-5133a6910ed4
+hotel_858,"Scandic GO, Sankt Eriksgatan 20",St Eriksgatan 20  Stockholm  Stockholm  112 39,Stockholm,59bda036-094e-444a-9ddb-5965cd3cd9c1
+hotel_859,Långholmen Hotell,Långholmsmuren 20  Stockholm  10272,Stockholm,16298c16-8544-4a5e-a9ca-03dc80ea4266
+hotel_860,Best Western Hotel Karlaplan,Skeppargatan 82  Stockholm  11459,Stockholm,ed5a76aa-cc52-46f9-9d15-fcf8f7fc2c05
+hotel_861,Motel L Hammarby Sjöstad,Hammarby Alle 41  Stockholm  12030,Stockholm,cee7b438-5c54-4cf5-aa31-87883bd6cc7b
+hotel_862,Castle House Inn,Brunnsgränd 4  Stockholm  11130,Stockholm,bd9e3b3c-5b2f-4bcb-820c-9fe701ef6d7d
+hotel_863,Nomad City Hostel,13a Kungsholmsgatan  Stockholm  Stockholms län  112 27,Stockholm,493f47d9-70d9-4fb9-9d2b-140e013107a6
+hotel_864,Scandic Sodra Kajen,Södra Kajen 37  Stockholm  115 74,Stockholm,b8ec1248-a230-4c8d-b963-1834dd66ba68
+hotel_865,Mornington Hotel Stockholm City,Nybrogatan 53  Stockholm  114 40,Stockholm,1c4169b0-8860-4f98-9965-32678be2995c
+hotel_867,Generator Stockholm,Torsgatan 10  Stockholm  111 23,Stockholm,b6dbf4c7-7c00-46c8-b1c7-3a7e157f1bf5
+hotel_868,Hotel Hornsgatan,Hornsgatan 66B  Stockholm  118 21,Stockholm,35cc0409-79c3-4e72-9662-7ad79e906c52
+hotel_869,Stockholm Inn Hotel,Drottninggatan 67  Stockholm  11136,Stockholm,a3316e6d-05f6-4754-a9f1-569d9efa76a2
+hotel_871,Elite Palace Hotel & Spa,St Eriksgatan 115  Stockholm  100 31,Stockholm,e9ce03e2-f126-4725-bff2-e4b17c5bdad9
+hotel_872,Thon Partner Hotel Kungsbron,Västra Järnvägsgatan 17  Stockholm  111 64,Stockholm,f043f970-f135-442c-a5eb-66225ebbdcdd
+hotel_873,Haymarket by Scandic,Hötorget 13-15  Stockholm  111 57,Stockholm,6517d67f-b296-4ac8-acfd-7bbd894114b4
+hotel_874,Crystal Plaza Hotel,Birger Jarlsgatan 35  Stockholm  111 45,Stockholm,7c9cf369-cc4f-4eee-b568-cc2bb381e043
+hotel_875,Hotell Skeppsbron,Skeppsbron 26  Stockholm  111 30,Stockholm,1d3d5808-caba-47d0-a801-39415d9302ba
+hotel_876,Aiden by Best Western Stockholm City,Alstromergatan 39  Stockholm  112 47,Stockholm,19ef0637-a42d-48fa-8394-97d43e341da1
+hotel_877,Grand Hôtel Stockholm,Södra Blasieholmshamnen 8  Stockholm  103 27,Stockholm,bdbfa898-d167-40d2-a7a4-99b06692b012
+hotel_878,Citybox Stockholm,Stadsgården 10  Stockholm  Stockholms län  116 45,Stockholm,27c94002-3b61-4582-a62c-1a010be52a27
+hotel_879,Clarion Hotel Stockholm,Ringvaegen 98  Stockholm  104 60,Stockholm,a92a796c-6238-4b6a-8079-9460148b5b56
+hotel_880,Biz Apartment Hammarby Sjostad,Heliosgången 20  Stockholm  12030,Stockholm,e9663dd3-67df-434b-b7c6-577ecbcb220b
+hotel_881,"Hotel Gamla Stan, BW Signature Collection",Skeppsbron 22a  Stockholm  11130,Stockholm,20d7387c-8f49-43ba-8c04-d104117e582c
+hotel_882,Hôtel Reisen in The Unbound Collection by Hyatt,Skeppsbron 12  Stockholm  111 30,Stockholm,4a66f414-bd46-47cd-a6c0-4c68bd08dbd1
+hotel_883,Comfort Hotel Xpress Stockholm Central,Kungsbron 1  Stockholm  111 22,Stockholm,e1e95668-c249-4350-9e36-f5aac0bed0f0
+hotel_884,Downtown Camper by Scandic,Brunkebergstorg 9  Stockholm  111 51,Stockholm,91da5cb1-7c93-4d5a-9f8c-3614ba8940b0
+hotel_885,Clarion Hotel Sign,Östra Järnvägsgatan 35  Stockholm  101 26,Stockholm,bbc17ca1-33a2-4215-a3ff-c960de27c07d
+hotel_886,Hobo Hotel Stockholm,Brunkebergstorg 4  Stockholm  Stockholms Laen  111 51,Stockholm,80386d1b-1f57-4949-8b45-827f04ac32a0
+hotel_888,Scandic Anglais,Humlegårdsgatan 23  Stockholm  102 44,Stockholm,0cf9bbf2-4134-4c9b-b309-8d236701ad7d
+hotel_889,Elite Hotel Stockholm Plaza,Birger Jarlsgatan 29  Stockholm  10395,Stockholm,e3688286-665a-408c-80e8-1b1506172c79
+hotel_890,Hotel Diplomat,Strandvagen 7c  Stockholm  114 56,Stockholm,5145b1e7-ffaf-48a5-9995-9b299e8f56ba
+hotel_891,At Six,Brunkebergstorg 6  Stockholm  Stockholms Laen  111 51,Stockholm,6e915e48-0cc3-4621-8836-6d3a52eae14a
+hotel_892,"Bank Hotel, a member of Small Luxury Hotels of The World",Arsenalsgatan 6  Stockholm  11147,Stockholm,db526729-56bd-4706-b734-f21343ac5931
+hotel_893,Hotel Hasselbacken,Hazeliusbacken 20  Stockholm  Stockholm  100 55,Stockholm,be8d9b00-fe1f-4a05-bc9f-321cacfb5656
+hotel_894,UNITY Hammarby Sjöstad Stockholm,13 Heliosgatan  Stockholm  Stockholms län  120 30,Stockholm,6a183e22-9dcb-44fe-bd0a-d9fb85d38cef
+hotel_895,Scandic Klara,Slöjdgatan 7  Stockholm  111 57,Stockholm,60b1b196-16c2-447f-8d1c-8a11c08d34dc
+hotel_896,Hotel Zinkensdamm,Zinkens väg 20  Stockholm  117 41,Stockholm,ace28994-979f-4c04-a024-92c1d3a82775
+hotel_897,The Sparrow Hotel,Birger Jarlsgatan 24  Stockholm  Östermalm  11434,Stockholm,31846c58-7d1b-41b6-9ac1-4cb588be0834
+hotel_898,Victory Hotel,Lilla Nygatan 5  Stockholm  111 28,Stockholm,f44d65cb-e4e3-4393-877d-d8cbd08f412f
+hotel_899,"Scandic Go, Upplandsgatan 4",Upplandsgatan 4  Stockholm  11123,Stockholm,3139ab2a-5838-44c2-afc9-733d65346805
+hotel_900,Hotel C Stockholm,Vasaplan 4  Stockholm  111 20,Stockholm,efecccf6-54c3-4907-aa47-d9a864045b45
+hotel_901,Stockholm Classic Hotell,Lundagatan 31  Södermalm  Stockholm  11727,Stockholm,985d0f9d-f8e2-41bd-8bc5-14487d8b2711
+hotel_902,Elite Hotel Adlon,Vasagatan 42  Stockholm  111 20,Stockholm,8ee371aa-3882-4cca-8d5f-49f03fd34349
+hotel_903,Hotel Fridhem,Sankt Eriksgatan 38  Stockholm  11234,Stockholm,670e95be-e0d3-4fe4-ad7e-24ff987b6a02
+hotel_904,Clas på Hörnet,Surbrunnsgatan 20  Stockholm  Stockholms län  11348,Stockholm,7998c227-bbee-4fe4-ba9b-304208eb615f
+hotel_905,Scandic Continental,Vasagatan 22  Stockholm  111 21,Stockholm,40a514c7-0906-4d60-ae3c-e3ee2718070a
+hotel_906,Hotel Hellsten,Luntmakargatan 68  Stockholm  113 51,Stockholm,67ab31bb-2222-4560-bb3b-e2477133d97a
+hotel_907,Hellstens Malmgård,Brannkyrkagatan 110  Stockholm  11727,Stockholm,2e6b416b-4bc1-4793-bf8b-3653436319b8
+hotel_908,ProfilHotels Central,Vasagatan  38  Stockholm  Stockholm County  11120,Stockholm,07201b62-1b4b-40ed-82b1-df18a38e10ea
+hotel_909,Scandic Grand Central,Kungsgatan 70  Stockholm  111 20,Stockholm,1443fd81-6172-4636-b9ab-1a28a0bf4718
+hotel_910,Hotel With Urban Deli,Sveavägen 44  Stockholm  111 34,Stockholm,310bfa23-5fb8-463c-9bba-f7d7083aa852
+hotel_911,Stockholm Stadshotell,23 Björngårdsgatan  Stockholm  Stockholms län  118 52,Stockholm,467342ad-ce54-4e9a-9894-ddcf8f75b3cd
+hotel_912,Scandic Malmen,Götgatan 49-51  Stockholm  102 66,Stockholm,8144a825-4d38-476a-9143-5db31f88c3ea
+hotel_913,Hotel Point,Östgötagatan 65  Stockholm  Stockholm  11664,Stockholm,aeee5ba4-f069-4e19-baac-51110f2a7b09
+hotel_914,Clarion Hotel Amaranten,Kungsholmsgatan 31  Stockholm  11227,Stockholm,967c011b-422e-4564-80ef-959ee119027b
+hotel_915,Hellstens Glashus,Wollmar Yxkullsgatan 13  Stockholm  11850,Stockholm,9c2076c0-c06b-4457-a9c6-18798c29c68b
+hotel_916,Ersta Konferens & Hotell,Erstagatan 1K  Stockholm  11691,Stockholm,c351ccd1-3fcd-4715-bb3e-7bbebbcdd22e
+hotel_917,Backstage Hotel Stockholm,Djurgardsvagen 68  Stockholm  115 21,Stockholm,d61fb9b7-1428-4b5f-b8a9-879226596df2
+hotel_918,Rex Hotel,Luntmakargatan 73  Stockholm  113 51,Stockholm,ae4a3316-310d-4609-8973-cfb58fef9a1e
+hotel_919,Scandic No 53,Kungsgatan 53  Stockholm  11122,Stockholm,524eee89-e63e-44a8-b04c-547727c9ab83
+hotel_920,Best Western Hotel Bentleys,Drottninggatan 77  Stockholm  111 60,Stockholm,1dc4ad67-6083-4c50-b269-6ae8c8e7f653
+hotel_921,Lydmar Hotel,SÖDRA BLASIEHOLMSHAMNEN 2  Stockholm  11148,Stockholm,5a4de8e7-10c8-4cd3-9e95-0f2f562b9e5b
+hotel_922,Elite Hotel Arcadia,Koersbaersvaegen 1  Stockholm  114 23,Stockholm,3055b123-500b-4ab0-a0b8-28de3b8a9f08
+hotel_923,Best Western Plus Time Hotel,Vanadisvägen 12  Stockholm  113 46,Stockholm,3106d9c0-d16c-4818-a4c1-c689a89f715f
+hotel_924,Hotel Hötorget,Holländargatan  8B  Stockholm  11136,Stockholm,49b20fbe-ee57-478e-ad79-d8e0238181cf
+hotel_925,Best Western Hotel Karlaplan,Skeppargatan 82  Stockholm  11459,Stockholm,f11494f5-a824-4dfc-875d-206364bb7f3c
+hotel_926,"Story Hotel Riddargatan, part of JDV by Hyatt",Riddargatan 6  Stockholm  114 35,Stockholm,65aafd44-7c5c-410e-b549-eb842eac57e0
+hotel_927,"Hotel Ruth, WorldHotels Crafted ",Dobelnsgatan 81  Stockholm  113 52,Stockholm,86b483de-a6bf-4627-9b08-8c0a4bd19656
+hotel_928,ProfilHotels Riddargatan,Riddargatan 14  Stockholm  114 35,Stockholm,799d9c43-0ee1-45a3-b0ea-2eae0ba86f2c
+hotel_929,Best Western Plus Park City Hammarby Sjostad,Midskeppsgatan 6  Stockholm  12066,Stockholm,52ca3367-f84a-47c5-ae57-57f0afea0950
+hotel_930,"Radisson Collection, Strand Hotel, Stockholm",9 Nybrokajen  Stockholm  103 27,Stockholm,0c47f8d9-42ef-4a40-a695-079914b8fc09
+hotel_931,Scandic Sjöfartshotellet,Katarinavägen 26  Stockholm  104 65,Stockholm,1fbd82a3-a81b-4443-b50a-df2ca3fd7fcc
+hotel_932,Hotel Tre Små Rum,Högbergsgatan 81  Stockholm  11854,Stockholm,138672ad-cf48-4785-8f10-5f73d9946c8a
+hotel_933,"Hotel Frantz, WorldHotels Crafted ",Peter Myndes Backe 5  Stockholm  11646,Stockholm,04de76aa-fe5b-4723-844b-aa44d836a431
+hotel_934,Sheraton Stockholm Hotel,Tegelbacken 6  BOX 195  Stockholm  10123,Stockholm,691fb35f-6788-4b9b-8e98-f883c6005a71
+hotel_935,Home Hotel Tapto,Jungfrugatan 57  Stockholm  115 31,Stockholm,884d19b7-3ccb-4a7f-aea5-611a504f9009
+hotel_936,Lord Nelson Hotel,Vasterlanggatan 22  Stockholm  111 29,Stockholm,09e603d1-8818-4c14-90dd-affbb5439b9a
+hotel_937,"Hotel Kung Carl, WorldHotels Crafted",Birger Jarlsgatan 21  Stockholm  111 87,Stockholm,8cf0afd5-fb43-49b7-8d74-12f9a9c8d68f
+hotel_938,Hilton Stockholm Slussen,Guldgränd 8  Stockholm  104 65,Stockholm,59245e85-613a-4778-b7f7-6a49761c0c02
+hotel_939,"Hotel Skeppsholmen, Stockholm, a Member of Design Hotels",Gröna gången 1  Stockholm  111 86,Stockholm,7fedf879-8261-4107-8989-e3e07c2c909a
+hotel_940,Ett Hem,2 Sköldungagatan  Stockholm  Stockholms län  114 27,Stockholm,11db5229-22bf-4a63-9faf-e47e4e3938ca
+hotel_941,ApartDirect Hammarby Sjöstad,Hammarby Fabriksväg 93  Stockholm  120 33,Stockholm,974a2db2-7989-4d5b-b8be-1a326b4c82bf
+hotel_942,Hotel Kungsträdgården,Västra Trädgårdsgatan 11B  Stockholm  111 53,Stockholm,e11a7a47-5c4d-48b7-8137-9f048b7dfb76
+hotel_943,Scandic Gamla Stan,Lilla Nygatan 25  Stockholm  111 28,Stockholm,7136d907-c3f9-4423-83eb-a549b2c40635
+hotel_944,Eight Rooms,Renstiernas gata 15  Stockholm  11628,Stockholm,dcfe5880-587b-473c-9571-67f7ddc733e8
+hotel_945,Sky Hotel Apartments Stockholm,Lindhagensgatan 90  Stockholm  11218,Stockholm,010462f5-1b3a-4993-9fae-eff31866c6f9
+hotel_946,Villa Dahlia,8 Tegnérlunden  Stockholm  Stockholms län  113 59,Stockholm,7edb5d30-1cf4-4183-a075-b54685b5de59
+hotel_947,Best Western Kom Hotel Stockholm,Doebelnsgatan 17  Stockholm  11140,Stockholm,b1145e57-8723-48ce-981d-23722bb5729f
+hotel_948,At Old Town Aparthotel,Skomakargatan  26  Stockholm  Stockholms län  111 29,Stockholm,1d4360b3-8139-4eae-8895-240eaab8516e
+hotel_949,"Hotel Esplanade, BW Signature Collection",Strandvagen 7A  Stockholm  11456,Stockholm,33fce9fa-8e43-4a6e-9802-c13d7df7ac32
+hotel_950,ApartDirect Gamla Stan II,Stora Nygatan 13  Stockholm  11127,Stockholm,91f10ec0-8c6c-424a-af79-c67b991a6c9d
+hotel_951,Best Western Hotel at 108,Sveavagen 108  Stockholm  113 50,Stockholm,b0bcad75-d097-4d8c-a86d-3ba791262520
+hotel_952,Reimersholme Hotel,Reimersholmsgatan 5  Stockholm  117 40,Stockholm,5e289111-54b9-4204-b9eb-e47f8f359232
+hotel_953,Courtyard by Marriott Stockholm Kungsholmen,Rålambshovsleden 50  Stockholm  112 19,Stockholm,6391b484-f2e7-4b45-ba79-b282354eb653
+hotel_954,ibis Styles Stockholm Odenplan,Vastmannagatan 61  Stockholm  11356,Stockholm,bd8e62b7-2347-4ca6-93c6-cf42bdec0341
+hotel_955,Liljeholmens Stadshotell,Nybohovsbacken 50  Stockholm  117 64,Stockholm,5ecd4d6c-74ba-49ad-ab08-d4b619d94ec4
+hotel_956,Rygerfjord Hotel & Hostel,Soder Malarstrand  Kajplats 13  Stockholm  Stockholm  118 25,Stockholm,b1683dea-93ed-416d-8d04-d3e091dabbf8
+hotel_957,STF af Chapman & Skeppsholmen - Hostel,Flaggmansvägen 8  Stockholm  11149,Stockholm,04a9ea3e-fe4e-4df7-9531-94f6d8b167f3

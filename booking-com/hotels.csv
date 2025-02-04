@@ -1,3 +1,4 @@
+hotel_id,hotel_name,hotel_address,hotel_city
 hotel_1,La Belle Ville,"349 Rue de Belleville, 19th arr., 75019 Paris, France",Paris
 hotel_2,Meliá Paris Vendôme,"8 Rue Cambon, 1st arr., 75001 Paris, France",Paris
 hotel_3,Hôtel Saint-Pétersbourg Opéra & Spa,"35, Rue Caumartin, 9th arr., 75009 Paris, France",Paris
@@ -241,7 +242,8 @@ hotel_455,KAIKA TOKYO by THE SHARE HOTELS,"Tokyo-to, Tokyo, Sumida-ku Honjo 2-16
 hotel_456,MONday Apart Asakusabashi Akihabara,"Tokyo-to, Tokyo, Taito-ku 4-15-5 Asakusabashi, Japan",Tokyo
 hotel_457,Petit Bali Ikebukuro,"Tokyo-to, Tokyo, Ikebukuro2-12-11, Japan",Tokyo
 hotel_458,MONday Apart Premium AKIHABARA,"Tokyo-to, Tokyo, 4-5 Sakuma-cho, Kanda, Chiyoda-ku, Japan",Tokyo
-hotel_459,HOTEL MYSTAYS PREMIER Omori,"Tokyo-to, Tokyo, Shinagawa-ku Minami-Oi 6-19-3, Japan",Tokyohotel_500,Cheval Gloucester Park at Kensington,"Ashburn Place, Kensington , London SW7 4LL, Kensington and Chelsea, London, SW7 4LL, United Kingdom",London
+hotel_459,HOTEL MYSTAYS PREMIER Omori,"Tokyo-to, Tokyo, Shinagawa-ku Minami-Oi 6-19-3, Japan",Tokyo
+hotel_500,Cheval Gloucester Park at Kensington,"Ashburn Place, Kensington , London SW7 4LL, Kensington and Chelsea, London, SW7 4LL, United Kingdom",London
 hotel_501,Millennium Hotel London Knightsbridge,"17-25 Sloane Street, Knightsbridge, Kensington and Chelsea, London, SW1X 9NU, United Kingdom",London
 hotel_502,citizenM Tower of London,"40 trinity square, City of London, London, EC3N 4DJ, United Kingdom",London
 hotel_503,"The May Fair, A Radisson Collection Hotel, Mayfair London","Stratton Street, Mayfair, Westminster Borough, London, W1J 8LT, United Kingdom",London
@@ -291,7 +293,8 @@ hotel_546,St Anne's Court by Indigo Flats,"Saint Anne's Court - Suite A, Westmin
 hotel_547,Grand Plaza Serviced Apartments,"42 Princes Square, Westminster Borough, London, W2 4AD, United Kingdom",London
 hotel_548,The Lincoln Suites,"37-39 Kingsway, Westminster Borough, London, WC2B 6TP, United Kingdom",London
 hotel_549,Wilde Aparthotels London Covent Garden,"11 ADAM STREET Covent Garden, Westminster Borough, London, WC2R 0DA, United Kingdom",London
-hotel_550,Bob W Hyde Park,"14 Devonshire Terrace, Westminster Borough, London, W2 3DW, United Kingdom",Londonhotel_600,Ferienwohnungen Maria Ginther,"Oberpinswang 24, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria"
+hotel_550,Bob W Hyde Park,"14 Devonshire Terrace, Westminster Borough, London, W2 3DW, United Kingdom",London
+hotel_600,Ferienwohnungen Maria Ginther,"Oberpinswang 24, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria"
 hotel_601,"Ferienwohnung Lechufer, 80m2 mit 2 Terrassen und Garten","34 Oberpinswang, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria"
 hotel_602,Erholung gesucht - gefunden,"71 Unterpinswang, 6600 Pinswang, Austria","Pinswang, Tyrol, Austria"
 hotel_603,Alpenchalet Vils Tirol,"Unterwies 1, 6682 Vils, Austria","Pinswang, Tyrol, Austria"
