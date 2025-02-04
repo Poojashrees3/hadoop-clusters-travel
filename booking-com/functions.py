@@ -28,8 +28,8 @@ def close_pop_up(driver):
     return None
 
 def write_hotel_details(data):
-    file_exists = os.path.exists("hotels.csv")
-    with open("hotels.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("booking-com/hotels.csv")
+    with open("booking-com/hotels.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["hotel_id", "hotel_name", "hotel_address", "hotel_city"])
@@ -37,8 +37,8 @@ def write_hotel_details(data):
     return None
 
 def write_review_details(data):
-    file_exists = os.path.exists("reviews.csv")
-    with open("reviews.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("booking-com/reviews.csv")
+    with open("booking-com/reviews.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["review_id", "hotel_id", "rating", "review_description"])
@@ -46,8 +46,8 @@ def write_review_details(data):
     return None
 
 def write_image_details(data):
-    file_exists = os.path.exists("images.csv")
-    with open("images.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("booking-com/images.csv")
+    with open("booking-com/images.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["image_id", "hotel_id", "image_path"])
@@ -55,8 +55,8 @@ def write_image_details(data):
     return None
 
 def write_price_details(data):
-    file_exists = os.path.exists("prices.csv")
-    with open("prices.csv", "a", newline="", encoding="utf-8") as file:
+    file_exists = os.path.exists("booking-com/prices.csv")
+    with open("booking-com/prices.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         if not file_exists:
             writer.writerow(["price_id", "hotel_id", "room_type", "price_per_night","total_price"])

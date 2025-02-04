@@ -242,4 +242,241 @@ hotel_568,hotel_456,Standard Family Room with Washing Machine,376.21,7148
 hotel_571,hotel_457,Standard Double Room,175.79,3340
 hotel_574,hotel_458,Superior Family Room with Washing Machine,443.47,8426
 hotel_577,hotel_459,Comfort Queen Room - Non-Smoking,151.79,2884
-
+hotel_500,hotel_500,Superior One-Bedroom Apartment,536.63,10196
+hotel_503,hotel_501,Standard Double Room,208.21,3956
+hotel_506,hotel_502,King Room,245.42,4663
+hotel_509,hotel_503,Collection Deluxe Room,402.16,7641
+hotel_512,hotel_504,Executive King Suite,888.84,16888
+hotel_515,hotel_505,Locke Studio,238.89,4539
+hotel_518,hotel_506,Superior Double Room,339.32,6447
+hotel_521,hotel_507,Superior Double Room with Internal View,262.58,4989
+hotel_524,hotel_508,Classic Double Room,351.32,6675
+hotel_527,hotel_509,Urban Deluxe,405.53,7705
+hotel_530,hotel_510,Small Queen Room,262.11,4980
+hotel_533,hotel_511,Double Room,172.84,3284
+hotel_536,hotel_512,Cozy Room,240.84,4576
+hotel_539,hotel_513,Economy Double Room,332.16,6311
+hotel_542,hotel_514,Deluxe View Room,483.84,9193
+hotel_545,hotel_515,Deluxe Double Room,395.84,7521
+hotel_548,hotel_516,City King or Twin Room,310.37,5897
+hotel_551,hotel_517,Superior King Room,294.95,5604
+hotel_554,hotel_518,Superior ME City View,640.53,12170
+hotel_557,hotel_519,One-Bedroom Apartment,226.74,4308
+hotel_560,hotel_520,Standard Double Room,423.89,8054
+hotel_563,hotel_521,Classic Studio Apartment,209.37,3978
+hotel_566,hotel_522,City Studio,198.79,3777
+hotel_569,hotel_523,Apartment,217.63,4135
+hotel_572,hotel_524,Small Queen Room,261.68,4972
+hotel_575,hotel_525,Premium Room,423.79,8052
+hotel_578,hotel_526,Executive Studio Suite,250.79,4765
+hotel_581,hotel_527,Superior King Room,377.47,7172
+hotel_584,hotel_528,Superior Room with Super King Bed,310.42,5898
+hotel_587,hotel_529,Superior Apartment,279.63,5313
+hotel_590,hotel_530,Standard Room,216.0,4104
+hotel_593,hotel_531,Junior Classroom,312.32,5934
+hotel_596,hotel_532,Small Double Room,231.05,4390
+hotel_599,hotel_533,Standard Room,173.11,3289
+hotel_602,hotel_534,Executive Double,511.26,9714
+hotel_605,hotel_535,Standard Double Room,200.58,3811
+hotel_608,hotel_536,Standard Room,406.95,7732
+hotel_611,hotel_537,Double Room,210.42,3998
+hotel_614,hotel_538,Studio (2 Adults),347.32,6599
+hotel_617,hotel_539,Compact Double Room,177.16,3366
+hotel_620,hotel_540,Apartment,713.84,13563
+hotel_623,hotel_541,Deluxe - No Window,267.68,5086
+hotel_626,hotel_542,City Studio,196.63,3736
+hotel_629,hotel_543,Double Room,168.16,3195
+hotel_632,hotel_544,Deluxe King / Twin Room,386.26,7339
+hotel_635,hotel_545,Lower Ground Floor Studios,217.47,4132
+hotel_638,hotel_546,One-Bedroom Apartment (2nd Floor - E),361.21,6863
+hotel_641,hotel_547,Double Executive Studio,157.84,2999
+hotel_644,hotel_548,Studio - No Window,241.42,4587
+hotel_647,hotel_549,Wilde Studio Windowless,243.26,4622
+hotel_650,hotel_550,Superior Double Room,205.16,3898
+hotel_600,hotel_600,One-Bedroom Apartment with Balcony,97.32,1849
+hotel_603,hotel_601,Two-Bedroom Apartment,126.84,2410
+hotel_606,hotel_602,Holiday Home,130.89,2487
+hotel_609,hotel_603,One-Bedroom Chalet,213.0,4047
+hotel_612,hotel_604,Apartment - Ground Floor,121.37,2306
+hotel_615,hotel_605,One-Bedroom Apartment,114.05,2167
+hotel_618,hotel_606,Apartment,117.0,2223
+hotel_621,hotel_607,One-Bedroom Apartment,153.16,2910
+hotel_624,hotel_608,Apartment,210.0,3990
+hotel_627,hotel_609,Two-Bedroom Superior Apartment,216.63,4116
+hotel_630,hotel_610,Two-Bedroom Apartment,112.37,2135
+hotel_633,hotel_611,Apartment with Lake View,556.37,10571
+hotel_642,hotel_614,Two-Bedroom Superior Apartment,208.84,3968
+hotel_651,hotel_617,Apartment (6 Adults),191.42,3637
+hotel_654,hotel_618,Apartment 2,75.84,1441
+hotel_657,hotel_619,Three-Bedroom House,257.37,4890
+hotel_660,hotel_620,Standard Apartment,83.05,1578
+hotel_663,hotel_621,Twin Room with Shower,90.0,1710
+hotel_666,hotel_622,Two-Bedroom Apartment,153.58,2918
+hotel_669,hotel_623,Double Room with Balcony,128.0,2432
+hotel_672,hotel_624,Superior One-Bedroom Apartment with Balcony,170.11,3232
+hotel_675,hotel_625,One-Bedroom Apartment,258.95,4920
+hotel_678,hotel_626,Two-Bedroom Apartment,123.16,2340
+hotel_681,hotel_627,One-Bedroom Apartment,95.89,1822
+hotel_684,hotel_628,Loft,206.95,3932
+hotel_687,hotel_629,Apartment with Mountain View,155.68,2958
+hotel_690,hotel_630,Two-Bedroom Apartment,118.42,2250
+hotel_693,hotel_631,Double Room with Lake View,315.21,5989
+hotel_696,hotel_632,Standard Double Room,186.0,3534
+hotel_699,hotel_633,Double Room with Balcony,121.0,2299
+hotel_702,hotel_634,Large Two-Bedroom Apartment,124.68,2369
+hotel_705,hotel_635,Standard Double Room,158.16,3005
+hotel_708,hotel_636,Double Room with Balcony,98.53,1872
+hotel_711,hotel_637,Apartment - Ground Floor,126.53,2404
+hotel_714,hotel_638,Two-Bedroom Chalet,170.21,3234
+hotel_717,hotel_639,Two-Bedroom Apartment,119.0,2261
+hotel_720,hotel_640,Apartment,108.63,2064
+hotel_723,hotel_641,Double Room with Balcony,117.53,2233
+hotel_726,hotel_642,Two-Bedroom Apartment,132.68,2521
+hotel_729,hotel_643,Double Room with Balcony,320.89,6097
+hotel_732,hotel_644,Loft,164.05,3117
+hotel_735,hotel_645,Apartment with Mountain View,87.0,1653
+hotel_738,hotel_646,Comfort Double Room with Balcony,116.0,2204
+hotel_741,hotel_647,One-Bedroom Apartment with Balcony,96.95,1842
+hotel_744,hotel_648,Double Room with Terrace,113.0,2147
+hotel_747,hotel_649,Superior Chalet,306.0,5814
+hotel_750,hotel_650,Apartment,106.11,2016
+hotel_753,hotel_651,Family Room,387.89,7370
+hotel_756,hotel_652,Apartment with Mountain View,169.0,3211
+hotel_759,hotel_653,One-Bedroom Apartment with Terrace,135.68,2578
+hotel_765,hotel_655,Apartment with Terrace,119.0,2261
+hotel_768,hotel_656,Two-Bedroom Apartment,191.58,3640
+hotel_771,hotel_657,One-Bedroom Apartment,185.42,3523
+hotel_774,hotel_658,Two-Bedroom Apartment with Balcony,150.16,2853
+hotel_777,hotel_659,Apartment,139.32,2647
+hotel_780,hotel_660,One-Bedroom Apartment,111.11,2111
+hotel_783,hotel_661,Two-Bedroom Apartment,352.16,6691
+hotel_786,hotel_662,Apartment,129.16,2454
+hotel_789,hotel_663,Two-Bedroom Apartment with Balcony,114.11,2168
+hotel_792,hotel_664,One-Bedroom Apartment,178.84,3398
+hotel_795,hotel_665,Double Room with Lake View,392.47,7457
+hotel_798,hotel_666,Apartment with Terrace,91.32,1735
+hotel_801,hotel_667,Two-Bedroom Apartment,76.95,1462
+hotel_804,hotel_668,Apartment,152.42,2896
+hotel_807,hotel_669,Apartment,186.0,3534
+hotel_810,hotel_670,Apartment with Mountain View,167.89,3190
+hotel_700,hotel_700,Studio,21.58,410
+hotel_703,hotel_701,"Deluxe Guest room, 1 King",191.42,3637
+hotel_706,hotel_702,Superior Double or Twin Room,57.58,1094
+hotel_709,hotel_703,Premier Twin Room,131.11,2491
+hotel_712,hotel_704,Studio Executive,69.84,1327
+hotel_715,hotel_705,Studio Deluxe,152.05,2889
+hotel_718,hotel_706,Studio King,85.63,1627
+hotel_721,hotel_707,Studio,59.21,1125
+hotel_724,hotel_708,Studio Executive,64.74,1230
+hotel_727,hotel_709,Deluxe King Room,234.74,4460
+hotel_730,hotel_710,Superior Twin Room,100.89,1917
+hotel_733,hotel_711,Grand Superior (Ruby Wing),80.89,1537
+hotel_736,hotel_712,Deluxe King Room,152.0,2888
+hotel_739,hotel_713,One-Bedroom Apartment,136.68,2597
+hotel_742,hotel_714,Junior Suite King,145.32,2761
+hotel_745,hotel_715,Superior Double Room,93.16,1770
+hotel_748,hotel_716,Studio Executive,63.84,1213
+hotel_751,hotel_717,Horizon City View,191.0,3629
+hotel_754,hotel_718,Deluxe Twin Room,64.68,1229
+hotel_757,hotel_719,Deluxe King Room,148.63,2824
+hotel_760,hotel_720,Grand Deluxe Room Twin with City View,171.68,3262
+hotel_763,hotel_721,Junior Suite,91.53,1739
+hotel_766,hotel_722,Standard Queen Room,62.58,1189
+hotel_769,hotel_723,Deluxe Double or Twin Room,160.74,3054
+hotel_772,hotel_724,Superior King Room,103.58,1968
+hotel_775,hotel_725,Deluxe King room - Jasmine,200.68,3813
+hotel_778,hotel_726,Premium Twin Room with City View - Non-Smoking,122.63,2330
+hotel_781,hotel_727,Deluxe City View Twin Room,70.63,1342
+hotel_784,hotel_728,Deluxe King,138.63,2634
+hotel_787,hotel_729,Superior Room,81.05,1540
+hotel_790,hotel_730,Deluxe Twin Room,99.68,1894
+hotel_793,hotel_731,One-Bedroom Suite,82.0,1558
+hotel_796,hotel_732,Superior Studio,125.37,2382
+hotel_799,hotel_733,Deluxe Room,102.53,1948
+hotel_802,hotel_734,Deluxe King Room,68.58,1303
+hotel_805,hotel_735,Superior King Room,121.42,2307
+hotel_808,hotel_736,One Bedroom Superior,99.53,1891
+hotel_811,hotel_737,Bronze King,116.68,2217
+hotel_814,hotel_738,Studio Superior King Room,96.47,1833
+hotel_817,hotel_739,The Stripe Yang,71.53,1359
+hotel_820,hotel_740,Superior Room,33.58,638
+hotel_823,hotel_741,Deluxe Suite,106.68,2027
+hotel_826,hotel_742,Superior Double Room,81.37,1546
+hotel_829,hotel_743,Studio Executive Double,48.32,918
+hotel_832,hotel_744,Premier Twin Room,109.63,2083
+hotel_835,hotel_745,Deluxe King Room,127.0,2413
+hotel_838,hotel_746,Standard King Room,123.58,2348
+hotel_841,hotel_747,Studio King Room,119.37,2268
+hotel_844,hotel_748,Deluxe Double Room,97.84,1859
+hotel_847,hotel_749,Superior Triple Room,160.11,3042
+hotel_850,hotel_750,Essential Twin Room,248.11,4714
+hotel_800,hotel_800,Large Double Room,239.89,4558
+hotel_803,hotel_801,Queen Room,201.68,3832
+hotel_806,hotel_802,Cozy Room,251.58,4780
+hotel_809,hotel_803,King Room,218.68,4155
+hotel_812,hotel_804,Studio,129.79,2466
+hotel_815,hotel_805,Small Budget Double Room,234.37,4453
+hotel_818,hotel_806,Standard Double Room,126.05,2395
+hotel_821,hotel_807,Twin Room,371.63,7061
+hotel_824,hotel_808,Apartment,184.47,3505
+hotel_827,hotel_809,Standard Double Room,228.26,4337
+hotel_830,hotel_810,Apartment with Balcony,133.21,2531
+hotel_833,hotel_811,Standard Double Room with Shared Bathroom,162.53,3088
+hotel_836,hotel_812,Standard Room,208.11,3954
+hotel_839,hotel_813,Studio,218.21,4146
+hotel_842,hotel_814,Apartment with Balcony,257.53,4893
+hotel_845,hotel_815,Urban Design Room,130.63,2482
+hotel_848,hotel_816,Double or Twin Room,174.63,3318
+hotel_851,hotel_817,Privilege Double Room with Sofa Bed,189.63,3603
+hotel_854,hotel_818,Junior One-Bedroom Apartment,153.79,2922
+hotel_857,hotel_819,Comfort Double Room,160.05,3041
+hotel_860,hotel_820,Senior One-Bedroom Apartment,222.32,4224
+hotel_863,hotel_821,Superior Queen Room,281.68,5352
+hotel_866,hotel_822,Junior One-Bedroom Apartment,159.84,3037
+hotel_869,hotel_823,Design,289.84,5507
+hotel_872,hotel_824,Studio with Balcony,137.74,2617
+hotel_875,hotel_825,"Junior 2 Bedroom Apartment, Building 2-6",213.11,4049
+hotel_878,hotel_826,Smart Room,261.05,4960
+hotel_881,hotel_827,Double Room,382.42,7266
+hotel_884,hotel_828,Club Twin Room with Lake View and M Club Lounge access,508.16,9655
+hotel_887,hotel_829,Double Room Plus,239.74,4555
+hotel_890,hotel_830,Comfort Double Room,262.79,4993
+hotel_893,hotel_831,Business Double Room (55 in bed width),140.58,2671
+hotel_896,hotel_832,Superior | East Wing,335.68,6378
+hotel_899,hotel_833,Small Double Room,275.16,5228
+hotel_902,hotel_834,Double Room,156.58,2975
+hotel_905,hotel_835,Locke Room with Balcony,179.63,3413
+hotel_908,hotel_836,Twin Room - Street Side,229.58,4362
+hotel_911,hotel_837,Standard Queen Room,276.84,5260
+hotel_914,hotel_838,Standard Double Room,151.21,2873
+hotel_917,hotel_839,Standard Double Room,210.74,4004
+hotel_920,hotel_840,Large One-Bedroom Apartment with Terrace,223.32,4243
+hotel_923,hotel_841,Comfort Double Room,357.0,6783
+hotel_926,hotel_842,Double Room,228.16,4335
+hotel_929,hotel_843,Double Room with Private Bathroom,138.26,2627
+hotel_932,hotel_844,Deluxe Double Room,302.11,5740
+hotel_935,hotel_845,Double Room,299.58,5692
+hotel_938,hotel_846,Junior Studio Apartment,148.63,2824
+hotel_941,hotel_847,One-Bedroom Apartment,186.89,3551
+hotel_944,hotel_848,Mini One-Bedroom Apartment,150.58,2861
+hotel_947,hotel_849,Double Room Mini,196.63,3736
+hotel_950,hotel_850,Comfort Double Room,286.95,5452
+hotel_953,hotel_851,Standard Studio,154.0,2926
+hotel_956,hotel_852,Standard Apartment,154.21,2930
+hotel_959,hotel_853,Cozy Double Room,415.32,7891
+hotel_962,hotel_854,Sheraton Double Room,266.26,5059
+hotel_965,hotel_855,Studio Apartment,154.21,2930
+hotel_968,hotel_856,Superior Single Room,444.16,8439
+hotel_971,hotel_857,Eden Suite,4367.16,82976
+hotel_974,hotel_858,Comfort Double Room,328.53,6242
+hotel_977,hotel_859,One-Bedroom Apartment with Balcony,233.95,4445
+hotel_980,hotel_860,Premium One-Bedroom Apartment,257.84,4899
+hotel_983,hotel_861,Grand Junior Suite with Balcony and Panoramic View,1409.42,26779
+hotel_986,hotel_862,Comfort One-Bedroom Apartment,264.37,5023
+hotel_989,hotel_863,Standard Queen Room,170.11,3232
+hotel_992,hotel_864,Classic Double Room,278.58,5293
+hotel_995,hotel_865,Double Room Plus,292.74,5562
+hotel_998,hotel_866,Superior Double or Twin Room,517.32,9829
+hotel_1001,hotel_867,Twin Room,148.95,2830
+hotel_1004,hotel_868,Ambassador Classic Plus,371.63,7061
+hotel_1007,hotel_869,Superior King Room,436.11,8286

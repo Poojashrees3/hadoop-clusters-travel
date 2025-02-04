@@ -24,7 +24,7 @@ close_pop_up(driver)
 
 
 # Search for hotels in a destination
-destination = "Tokyo" #Ran code in batches for each city
+destination = "Zürich" #Ran code in batches for each city
 driver.find_element(By.CLASS_NAME, "eb46370fe1").send_keys(destination)
 
 # Wait for the page to load
@@ -86,7 +86,7 @@ for index,hotel in enumerate(hotels):
         if image_url:
             response = requests.get(image_url, stream=True)
             if response.status_code == 200:
-                image_path = f'booking-com/hotel_images/hotel_{index + 400}.jpg'
+                image_path = f'booking-com/hotel_images/hotel_{index + 800}.jpg'
                 with open(image_path, 'wb') as img_file:
                     for chunk in response.iter_content(1024):
                         img_file.write(chunk)
@@ -95,7 +95,7 @@ for index,hotel in enumerate(hotels):
         else:
             image_path = "No image URL"
 
-        write_image_details([(f'hotel_{index + 400}',f'hotel_{index + 400}',image_path)])
+        write_image_details([(f'hotel_{index + 800}',f'hotel_{index + 800}',image_path)])
 
 
         # Getting more details
@@ -126,9 +126,9 @@ for index,hotel in enumerate(hotels):
         time.sleep(2)
 
         # Add details to data
-        write_hotel_details([(f'hotel_{index + 400}',name, address,destination)])
-        write_review_details([(f'review_{(2*index) + 400}',f'hotel_{index + 400}',rating,review_summary)])
-        write_price_details([(f'hotel_{(3*index)+400}',f'hotel_{index + 400}',bed_type,price_per_night,int(total_price.replace(',', '')))])
+        write_hotel_details([(f'hotel_{index + 800}',name, address,destination)])
+        write_review_details([(f'review_{(2*index) + 800}',f'hotel_{index + 800}',rating,review_summary)])
+        write_price_details([(f'hotel_{(3*index)+800}',f'hotel_{index + 800}',bed_type,price_per_night,int(total_price.replace(',', '')))])
 
         # Close the current tab and return to the main results page
         driver.close()
