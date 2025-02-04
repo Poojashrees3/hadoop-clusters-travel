@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # ------------------------------
 # SETUP: Launch Chrome and initialize WebDriverWait
 # ------------------------------
-chromedriver_path = r"C:\Users\SPEED FORCE\OneDrive\Desktop\Nimish Project\chromedriver-win64\chromedriver.exe"
+chromedriver_path = r"C:\Users\Varsha\OneDrive\Desktop\Binhvu\chromedriver-win64\chromedriver.exe"
 service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service)
 wait = WebDriverWait(driver, 15)
@@ -71,7 +71,7 @@ def select_date(date_value):
 # -----------------------------------------------
 # Main Code: Iterate over destinations and scrape results
 # -----------------------------------------------
-destinations = ["Copenhagen", "Rome", "Dubai", "Paris"]
+destinations = ["Bangkok","Copenhagen","Dubai","London","Madrid","Austria","Rome","Stockholm","Tokyo","Zürich"]
 all_flights = []
 
 for dest in destinations:
