@@ -1,0 +1,1101 @@
+Destination,Flight Price,Departure,Return Trip,Route from Origin,Route from Destination,airline
+Bangkok,1227.36,Sat Feb 22nd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Bangkok (DMK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1227.36,Sat Feb 22nd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Bangkok (DMK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1227.44,Sat Feb 22nd 2025,Tue Mar 25th 2025,Frankfurt (HHN) → Bangkok (DMK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1228.0,Sat Feb 22nd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Bangkok (DMK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1305.0,Sat Mar 1st 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1305.0,Sat Mar 1st 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1307.0,Sat Mar 1st 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1326.0,Fri Feb 28th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1326.0,Fri Feb 28th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,1326.0,Fri Feb 28th 2025,Tue Mar 25th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1327.0,Fri Feb 28th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1330.0,Sat Feb 8th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1330.0,Sat Feb 8th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1330.0,Sat Feb 8th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1332.0,Sat Feb 8th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1370.0,Sun Feb 23rd 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1417.0,Sat Mar 1st 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,1417.0,Sat Mar 1st 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1417.0,Sat Mar 1st 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1417.0,Sat Mar 1st 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1417.0,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,1417.0,Sat Mar 1st 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1417.0,Sat Mar 1st 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1417.0,Sat Mar 1st 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1417.0,Sat Mar 1st 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,1417.0,Sat Mar 1st 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1418.0,Wed Mar 5th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1418.0,Tue Mar 4th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1443.0,Sat Feb 8th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1443.0,Sat Feb 8th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1443.0,Sat Feb 8th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1443.0,Sat Feb 8th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1443.0,Sat Feb 8th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1443.0,Sat Feb 8th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1443.0,Sat Feb 8th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1444.0,Sat Feb 8th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1444.0,Sat Feb 8th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1444.0,Sat Feb 8th 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1458.0,Wed Feb 26th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1460.0,Tue Mar 4th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1462.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1471.0,Tue Mar 4th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,1471.0,Sun Feb 23rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1473.0,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1473.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1473.0,Sun Feb 23rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1473.0,Wed Mar 5th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,1501.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1501.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1505.0,Wed Feb 19th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1507.0,Wed Feb 19th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1507.0,Fri Feb 14th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1520.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,1521.0,Tue Mar 4th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1521.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1522.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1523.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1523.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1532.0,Mon Mar 3rd 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,1577.0,Wed Mar 5th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1578.0,Tue Mar 4th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Cathay Pacific
+Bangkok,1578.0,Tue Mar 4th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1580.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1580.0,Wed Mar 5th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1583.0,Tue Mar 4th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1583.0,Tue Mar 4th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1583.0,Sun Feb 23rd 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1583.0,Sun Feb 23rd 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1583.0,Sun Feb 23rd 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1583.0,Tue Mar 4th 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1583.0,Wed Mar 5th 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,1583.0,Wed Mar 5th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,1583.0,Wed Mar 5th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Lufthansa
+Bangkok,1613.0,Tue Feb 11th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1613.0,Tue Feb 11th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1613.0,Tue Feb 11th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1615.0,Tue Feb 11th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,1669.0,Mon Feb 24th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1675.0,Mon Mar 3rd 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,1690.0,Tue Mar 4th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1690.0,Tue Mar 4th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1690.0,Tue Mar 4th 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Qatar Airways
+Bangkok,1690.0,Wed Mar 5th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,1690.0,Wed Mar 5th 2025,Sat Mar 29th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,1690.0,Wed Mar 5th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,1711.0,Sat Mar 1st 2025,Sun Mar 16th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),KLM
+Bangkok,2086.0,Tue Feb 25th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Condor
+Bangkok,2175.0,Tue Mar 4th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,2213.0,Tue Mar 4th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,2213.0,Tue Mar 4th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Vietnam Airlines
+Bangkok,2225.0,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,2238.0,Mon Mar 3rd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,2238.0,Tue Feb 25th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,2239.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Bangkok,2254.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,2266.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Thai Airways
+Bangkok,2296.0,Wed Feb 26th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Etihad Airways
+Bangkok,2344.0,Thu Feb 20th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Air France
+Bangkok,2344.0,Wed Feb 19th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Emirates
+Bangkok,2344.0,Tue Feb 18th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Bangkok (BKK),Bangkok (BKK) → Frankfurt (FRA),Saudia
+Dubai,593.0,Thu Feb 27th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,593.0,Wed Feb 26th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,593.0,Tue Feb 25th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,596.0,Wed Feb 26th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,596.0,Thu Feb 27th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,596.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,598.0,Wed Feb 26th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,598.0,Thu Feb 27th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,598.0,Thu Feb 27th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,598.0,Wed Feb 26th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,598.0,Mon Feb 24th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,598.0,Wed Feb 26th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,598.0,Wed Mar 5th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,598.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,598.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,601.0,Mon Feb 24th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,601.0,Wed Feb 26th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,603.0,Mon Feb 24th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,603.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,603.0,Wed Feb 26th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,603.0,Wed Feb 26th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,603.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,603.0,Wed Mar 5th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,612.0,Wed Feb 26th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,612.0,Thu Feb 27th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,612.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,614.0,Wed Feb 26th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,614.0,Thu Feb 27th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,614.0,Tue Feb 25th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,617.0,Mon Feb 24th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,617.0,Wed Feb 26th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,617.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,619.0,Mon Feb 24th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,619.0,Wed Feb 26th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,619.0,Wed Mar 5th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,620.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,620.0,Thu Feb 27th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,621.0,Wed Feb 26th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,621.0,Thu Feb 27th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,627.0,Wed Feb 26th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,627.0,Thu Feb 27th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,627.0,Wed Feb 26th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,627.0,Thu Feb 27th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,632.0,Mon Feb 24th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,632.0,Mon Feb 24th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,632.0,Wed Feb 26th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,632.0,Wed Feb 26th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,632.0,Wed Mar 5th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,632.0,Wed Mar 5th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,641.0,Thu Feb 27th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,641.0,Wed Feb 26th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,643.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,643.0,Thu Feb 27th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,664.0,Wed Feb 26th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,664.0,Thu Feb 27th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,664.0,Thu Feb 27th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,664.0,Wed Feb 26th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,664.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,664.0,Thu Feb 27th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,669.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,684.0,Sat Mar 1st 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,686.0,Sat Mar 1st 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,691.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,691.0,Mon Mar 3rd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,691.0,Tue Mar 4th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,691.0,Sat Feb 22nd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,691.0,Fri Feb 28th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,691.0,Sun Mar 2nd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,691.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,693.0,Tue Feb 25th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,693.0,Mon Mar 3rd 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,693.0,Tue Mar 4th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,693.0,Sat Feb 22nd 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,693.0,Fri Feb 28th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,693.0,Sun Mar 2nd 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,693.0,Wed Mar 5th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,694.0,Wed Feb 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,699.0,Fri Feb 7th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,814.0,Wed Feb 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,817.0,Wed Feb 5th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1049.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1049.0,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1049.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1049.0,Tue Mar 4th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1415.0,Tue Feb 25th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1415.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1415.0,Mon Mar 3rd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1415.0,Wed Mar 5th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1418.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1418.0,Wed Feb 26th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1931.0,Tue Mar 4th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,1933.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,1933.0,Thu Feb 27th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,1939.0,Wed Mar 5th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,2015.0,Tue Feb 25th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,2026.0,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,2028.0,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+Dubai,2028.0,Thu Feb 27th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Qatar Airways
+Dubai,2034.0,Wed Mar 5th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Emirates
+Dubai,2255.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Dubai (SHJ),Dubai (SHJ) → Frankfurt (FRA),Lufthansa
+London,107.31,Mon Mar 3rd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,107.51,Sat Feb 15th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,107.51,Wed Feb 12th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,107.76,Mon Mar 3rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,107.96,Sat Feb 15th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,107.96,Wed Feb 12th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,108.75,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,109.0,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,109.2,Wed Feb 26th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,109.51,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,110.25,Tue Feb 25th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,110.7,Tue Feb 25th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,111.2,Sat Feb 8th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,111.38,Tue Feb 18th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,111.4,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,111.61,Wed Feb 12th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,111.61,Sat Feb 15th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,111.63,Mon Feb 10th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,111.63,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,111.65,Sat Feb 8th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,111.84,Tue Feb 18th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,111.92,Sun Feb 16th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,112.0,Mon Feb 10th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,112.0,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,112.37,Sun Feb 16th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,112.66,Sat Mar 1st 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,112.81,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,112.85,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,113.11,Sat Mar 1st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,113.14,Wed Mar 5th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,113.16,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,113.26,Tue Mar 4th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,113.59,Wed Mar 5th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,113.69,Tue Feb 11th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,114.14,Tue Feb 11th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,114.35,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,114.7,Mon Mar 3rd 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,114.91,Sat Feb 15th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,114.91,Wed Feb 12th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,114.93,Mon Feb 17th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,115.3,Sat Feb 8th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,115.38,Mon Feb 17th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,115.44,Mon Mar 3rd 2025,Sat Mar 8th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,115.48,Tue Feb 18th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,115.65,Wed Feb 12th 2025,Sat Mar 8th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,115.65,Sat Feb 15th 2025,Sat Mar 8th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,115.73,Mon Feb 10th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,115.73,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,116.0,Sun Feb 16th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,116.14,Wed Feb 26th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,116.31,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,116.45,Sun Mar 2nd 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,116.51,Wed Feb 12th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,116.51,Sat Feb 15th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,116.76,Sat Mar 1st 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,116.86,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,116.86,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,116.88,Wed Feb 26th 2025,Sat Mar 8th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,116.91,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,117.0,Sat Feb 15th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,117.0,Wed Feb 12th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,117.0,Wed Feb 12th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,117.0,Sat Feb 15th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,117.17,Mon Mar 3rd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,117.23,Wed Mar 5th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,117.38,Sat Feb 15th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,117.38,Wed Feb 12th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,117.65,Tue Feb 25th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,117.75,Wed Feb 26th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,118.0,Sun Mar 2nd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,118.22,Mon Mar 3rd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,118.22,Mon Mar 3rd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.22,Mon Mar 3rd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,118.22,Mon Mar 3rd 2025,Fri Mar 28th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,118.22,Mon Mar 3rd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Wed Feb 12th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Sat Feb 15th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,118.43,Wed Feb 12th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Sat Feb 15th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Wed Feb 12th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,118.43,Sat Feb 15th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Wed Feb 12th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),British Airways
+London,118.43,Sat Feb 15th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,118.43,Sat Feb 15th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),KLM
+London,118.43,Wed Feb 12th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,118.49,Mon Mar 3rd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,118.59,Sat Feb 8th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Air France
+London,118.61,Wed Feb 26th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+London,118.7,Sat Feb 15th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Ryanair
+London,118.7,Wed Feb 12th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+London,339.0,Sat Mar 1st 2025,Sun Mar 23rd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Eurowings
+London,339.0,Tue Mar 4th 2025,Sun Mar 23rd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Eurowings
+London,339.0,Mon Mar 3rd 2025,Sun Mar 23rd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Eurowings
+London,339.0,Wed Mar 5th 2025,Sun Mar 23rd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Ryanair
+London,346.0,Sat Mar 1st 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Air France
+London,346.0,Sat Mar 1st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Ryanair
+London,346.0,Tue Mar 4th 2025,Sun Mar 9th 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),KLM
+London,346.0,Mon Mar 3rd 2025,Sun Mar 9th 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Air France
+London,346.0,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),Lufthansa
+London,346.0,Wed Mar 5th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → London (LHR),London (LHR) → Frankfurt (FRA),KLM
+Madrid,260.98,Wed Feb 19th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,260.98,Wed Feb 19th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,260.98,Wed Feb 19th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,260.98,Wed Feb 19th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,260.98,Wed Feb 19th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,260.98,Wed Feb 19th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,260.98,Wed Feb 19th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,265.7,Wed Feb 19th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,266.5,Wed Feb 19th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,269.28,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,269.28,Wed Feb 19th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,284.98,Wed Feb 19th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (HHN),Iberia
+Madrid,286.76,Thu Feb 20th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,286.76,Thu Feb 20th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,286.76,Thu Feb 20th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,286.76,Thu Feb 20th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,286.76,Thu Feb 20th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,286.76,Thu Feb 20th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,286.76,Thu Feb 20th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,287.0,Tue Feb 25th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,288.0,Tue Feb 25th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,288.0,Mon Feb 24th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,288.0,Sat Feb 22nd 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,288.0,Sat Feb 22nd 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,288.18,Tue Feb 25th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,288.18,Tue Feb 25th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,288.18,Tue Feb 25th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,288.18,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,288.18,Tue Feb 25th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,288.18,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,288.18,Tue Feb 25th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,291.48,Thu Feb 20th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,292.44,Sat Feb 22nd 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (HHN),KLM
+Madrid,292.6,Wed Feb 19th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,292.6,Wed Feb 19th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,292.9,Tue Feb 25th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,293.2,Wed Feb 19th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,293.2,Wed Feb 19th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,297.84,Sat Feb 22nd 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Madrid (MAD),Madrid (MAD) → Frankfurt (HHN),Air France
+Madrid,306.0,Tue Feb 25th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,306.0,Mon Feb 24th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,307.0,Tue Feb 25th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,307.0,Tue Mar 4th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,307.0,Mon Feb 24th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,307.0,Mon Feb 24th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,307.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,307.0,Sat Feb 22nd 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,307.0,Sat Feb 22nd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,307.0,Sat Feb 22nd 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,307.0,Sat Feb 22nd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,308.0,Tue Feb 18th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,308.0,Tue Mar 4th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,308.0,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,308.0,Tue Feb 25th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,324.0,Tue Feb 18th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,324.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,324.0,Tue Mar 4th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,324.0,Tue Feb 18th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,324.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,324.0,Sat Feb 22nd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,324.0,Sun Feb 16th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,324.0,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,324.0,Sun Feb 16th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,324.0,Sat Feb 22nd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,324.0,Mon Feb 17th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,324.0,Wed Feb 19th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,325.0,Tue Mar 4th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,325.0,Tue Feb 18th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,325.0,Tue Feb 18th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,325.0,Tue Feb 18th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,325.0,Tue Feb 18th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,330.0,Wed Feb 5th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,330.0,Wed Feb 5th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,345.0,Sat Feb 22nd 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,345.0,Sat Feb 22nd 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,345.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,345.0,Tue Feb 25th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,345.0,Wed Feb 26th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,345.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,349.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,350.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,350.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,352.0,Wed Feb 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,352.0,Wed Feb 5th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,360.0,Sat Feb 22nd 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,360.0,Tue Feb 25th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,360.0,Sat Feb 22nd 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,365.0,Tue Feb 25th 2025,Sat Mar 22nd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,365.0,Sat Feb 22nd 2025,Sat Mar 22nd 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,366.0,Tue Mar 4th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,384.0,Wed Feb 5th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,384.0,Wed Feb 5th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,527.0,Mon Feb 24th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,539.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Ryanair
+Madrid,539.0,Tue Mar 4th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air France
+Madrid,539.0,Fri Feb 28th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Lufthansa
+Madrid,539.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Air Europa
+Madrid,539.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Madrid,539.0,Fri Feb 28th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),KLM
+Madrid,539.0,Fri Feb 28th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Madrid (MAD),Madrid (MAD) → Frankfurt (FRA),Iberia
+Austria,189.0,Tue Mar 4th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,189.0,Tue Mar 4th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,189.0,Tue Mar 4th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,200.0,Tue Feb 18th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,200.0,Tue Feb 18th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,200.0,Tue Feb 18th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,254.24,Fri Feb 21st 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,254.24,Fri Feb 21st 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,254.24,Fri Feb 21st 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,256.52,Mon Feb 17th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,285.84,Fri Feb 21st 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,289.38,Sun Feb 23rd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,293.1,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,304.8,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,307.98,Sun Feb 23rd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,308.48,Sun Mar 2nd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,311.1,Sun Feb 23rd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,312.2,Sun Mar 2nd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,313.68,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,314.78,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,316.1,Sun Feb 23rd 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,316.1,Sun Feb 23rd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,316.82,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (HHN),Eurowings
+Austria,317.96,Sun Feb 23rd 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,319.76,Sat Mar 1st 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,319.82,Sun Mar 2nd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,320.24,Mon Feb 10th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,323.1,Sun Feb 23rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,323.48,Sat Mar 1st 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,323.54,Sun Mar 2nd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,327.0,Sun Mar 2nd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,332.18,Tue Feb 11th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,332.94,Sat Mar 1st 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,334.8,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,335.2,Sun Mar 2nd 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,337.16,Mon Feb 24th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,338.36,Sat Mar 1st 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,338.42,Sun Mar 2nd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,341.48,Sat Mar 1st 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,341.54,Sun Mar 2nd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,342.2,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,345.16,Sat Mar 1st 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,346.48,Sat Mar 1st 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,346.48,Sat Mar 1st 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,346.54,Sun Mar 2nd 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Austrian Airlines
+Austria,346.54,Sun Mar 2nd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Lufthansa
+Austria,348.34,Sat Mar 1st 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (HHN),Eurowings
+Austria,350.24,Mon Feb 10th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,351.1,Sun Feb 23rd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,351.1,Sun Feb 23rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,351.1,Sun Feb 23rd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,353.1,Sun Feb 23rd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,353.48,Sat Mar 1st 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,353.54,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,354.6,Sat Feb 22nd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,362.8,Mon Mar 3rd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,362.8,Mon Mar 3rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,362.8,Mon Mar 3rd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,364.8,Mon Mar 3rd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,367.16,Mon Feb 24th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,370.0,Sun Feb 16th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,370.2,Sun Mar 2nd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,370.2,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,370.2,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,372.2,Sun Mar 2nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,378.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,378.24,Mon Feb 10th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,378.24,Mon Feb 10th 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,378.24,Mon Feb 10th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,380.24,Mon Feb 10th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,381.48,Sat Mar 1st 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,381.48,Sat Mar 1st 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,381.48,Sat Mar 1st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,381.54,Sun Mar 2nd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,381.54,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,381.54,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,383.48,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,383.54,Sun Mar 2nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,395.16,Mon Feb 24th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Austrian Airlines
+Austria,395.16,Mon Feb 24th 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,400.0,Sun Feb 16th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Eurowings
+Austria,408.3,Sat Mar 1st 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Vienna (VIE),Vienna (VIE) → Frankfurt (FRA),Lufthansa
+Austria,594.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Eurowings
+Austria,594.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,594.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Austrian Airlines
+Austria,594.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Eurowings
+Austria,615.0,Thu Feb 20th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,615.0,Thu Feb 27th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Eurowings
+Austria,615.0,Sat Mar 1st 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Austrian Airlines
+Austria,615.0,Thu Feb 27th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Eurowings
+Austria,834.0,Sat Mar 1st 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Eurowings
+Austria,859.0,Sat Mar 1st 2025,Sun Mar 23rd 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,860.0,Thu Feb 27th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Austrian Airlines
+Austria,860.0,Thu Feb 27th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Austrian Airlines
+Austria,860.0,Thu Feb 27th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,861.0,Sat Mar 1st 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,862.0,Wed Mar 5th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,862.0,Sun Mar 2nd 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Austria,862.0,Sun Mar 2nd 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Austrian Airlines
+Austria,862.0,Fri Feb 28th 2025,Sat Mar 15th 2025,Frankfurt (FRA) → Salzburg (SZG),Salzburg (SZG) → Frankfurt (FRA),Lufthansa
+Rome,150.77,Sat Feb 22nd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,157.2,Sat Feb 22nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,157.2,Sat Feb 22nd 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,157.2,Sat Feb 22nd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,157.2,Sat Feb 22nd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,157.2,Sat Feb 22nd 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,157.2,Sat Feb 22nd 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,157.2,Sat Feb 22nd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,158.43,Sat Feb 8th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,160.12,Sat Feb 22nd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,161.77,Sat Feb 22nd 2025,Sat Mar 8th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,164.86,Sat Feb 8th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,164.86,Sat Feb 8th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,164.86,Sat Feb 8th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,164.86,Sat Feb 8th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,164.86,Sat Feb 8th 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,164.86,Sat Feb 8th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,164.86,Sat Feb 8th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,167.79,Sat Feb 8th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,169.41,Sun Feb 23rd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,169.44,Sat Feb 8th 2025,Sat Mar 8th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,175.2,Sat Mar 1st 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,175.84,Sun Feb 23rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,175.84,Sun Feb 23rd 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,175.84,Sun Feb 23rd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,175.84,Sun Feb 23rd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,175.84,Sun Feb 23rd 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,175.84,Sun Feb 23rd 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,175.84,Sun Feb 23rd 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,177.96,Sat Feb 22nd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,177.96,Sat Feb 22nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Eurowings
+Rome,177.96,Sat Feb 22nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),KLM
+Rome,177.96,Sat Feb 22nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,177.96,Sat Feb 22nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Eurowings
+Rome,177.96,Sat Feb 22nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,178.77,Sun Feb 23rd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,180.41,Sun Feb 23rd 2025,Sat Mar 8th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,181.63,Sat Mar 1st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,181.63,Sat Mar 1st 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,181.63,Sat Mar 1st 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,181.63,Sat Mar 1st 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,181.63,Sat Mar 1st 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,181.63,Sat Mar 1st 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,181.63,Sat Mar 1st 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,184.56,Sat Mar 1st 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,185.7,Sat Feb 8th 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,185.7,Sat Feb 8th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,185.7,Sat Feb 8th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Lufthansa
+Rome,185.7,Sat Feb 8th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),KLM
+Rome,185.7,Sat Feb 8th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),KLM
+Rome,185.7,Sat Feb 8th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,186.2,Sat Mar 1st 2025,Sat Mar 8th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,189.72,Wed Feb 26th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,196.79,Sun Feb 23rd 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,196.79,Sun Feb 23rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Lufthansa
+Rome,196.79,Sun Feb 23rd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,196.79,Sun Feb 23rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,196.79,Sun Feb 23rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,196.79,Sun Feb 23rd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,202.63,Sat Mar 1st 2025,Wed Apr 2nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Lufthansa
+Rome,202.63,Sat Mar 1st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),KLM
+Rome,202.63,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,202.63,Sat Mar 1st 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,202.63,Sat Mar 1st 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,202.63,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Eurowings
+Rome,204.72,Sun Feb 16th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,226.52,Sat Feb 22nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,234.18,Sat Feb 8th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,236.1,Sat Feb 22nd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,243.84,Sat Feb 8th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Rome,245.16,Sun Feb 23rd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,246.33,Sat Feb 15th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,249.57,Sun Feb 16th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,251.22,Sun Mar 2nd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,252.76,Sat Feb 15th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,252.76,Sat Feb 15th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,252.76,Sat Feb 15th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,252.76,Sat Feb 15th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,252.76,Sat Feb 15th 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,252.76,Sat Feb 15th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,252.76,Sat Feb 15th 2025,Sat Mar 22nd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),KLM
+Rome,255.69,Sat Feb 15th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,256.0,Sun Feb 16th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,256.0,Sun Feb 16th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Ryanair
+Rome,256.0,Sun Feb 16th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Eurowings
+Rome,256.0,Sun Feb 16th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,256.0,Sun Feb 16th 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,256.0,Sun Feb 16th 2025,Sat Mar 15th 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Air France
+Rome,257.64,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),Lufthansa
+Rome,326.0,Fri Feb 21st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Rome (FCO),Rome (FCO) → Frankfurt (HHN),ITA Airways
+Rome,629.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,629.0,Mon Mar 3rd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Lufthansa
+Rome,629.0,Mon Mar 3rd 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Ryanair
+Rome,629.0,Wed Feb 26th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,629.0,Tue Mar 4th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,629.0,Wed Feb 26th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),KLM
+Rome,629.0,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,629.0,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),ITA Airways
+Rome,629.0,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Eurowings
+Rome,629.0,Mon Mar 3rd 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Rome (FCO),Rome (FCO) → Frankfurt (FRA),Air France
+Stockholm,277.6,Fri Feb 21st 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,279.76,Fri Feb 28th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,284.0,Sun Feb 16th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,285.22,Fri Feb 21st 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (VST) → Frankfurt (HHN),Air France
+Stockholm,285.44,Fri Feb 21st 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (VST) → Frankfurt (HHN),SAS
+Stockholm,285.68,Fri Feb 7th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,287.38,Fri Feb 28th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (VST) → Frankfurt (HHN),SAS
+Stockholm,287.38,Sun Mar 2nd 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Stockholm (VST),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,287.72,Fri Feb 21st 2025,Sat Mar 29th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),KLM
+Stockholm,289.3,Fri Feb 21st 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,306.0,Sat Feb 8th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,310.0,Mon Feb 24th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Lufthansa
+Stockholm,312.84,Sat Feb 8th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),SAS
+Stockholm,316.84,Mon Feb 24th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,329.9,Sat Feb 22nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Lufthansa
+Stockholm,336.66,Sat Feb 22nd 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,337.18,Sat Feb 15th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),SAS
+Stockholm,343.94,Sat Feb 15th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),SAS
+Stockholm,362.54,Sat Feb 8th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,362.54,Sat Feb 8th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,362.54,Sat Feb 8th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,362.54,Sat Feb 8th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,362.54,Sat Feb 8th 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,362.54,Sat Feb 8th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,362.54,Sat Feb 8th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,362.54,Sat Feb 8th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,362.54,Sat Feb 8th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,362.54,Sat Feb 8th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,362.54,Sat Feb 8th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,362.54,Sat Feb 8th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,362.76,Sat Feb 8th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,366.54,Mon Feb 24th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,366.54,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,366.54,Mon Feb 24th 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,366.54,Mon Feb 24th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,366.54,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,366.54,Mon Feb 24th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,366.54,Mon Feb 24th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,366.54,Mon Feb 24th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,366.54,Mon Feb 24th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,366.54,Mon Feb 24th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,366.54,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,366.54,Mon Feb 24th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,366.76,Mon Feb 24th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,386.36,Sat Feb 22nd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,386.36,Sat Feb 22nd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,386.36,Sat Feb 22nd 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,386.36,Sat Feb 22nd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,386.36,Sat Feb 22nd 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,386.36,Sat Feb 22nd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,386.36,Sat Feb 22nd 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,386.36,Sat Feb 22nd 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,386.36,Sat Feb 22nd 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,386.36,Sat Feb 22nd 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,386.36,Sat Feb 22nd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,386.36,Sat Feb 22nd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,386.58,Sat Feb 22nd 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,387.22,Mon Feb 10th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,387.22,Mon Feb 10th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,393.64,Sat Feb 15th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,393.64,Sat Feb 15th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,393.64,Sat Feb 15th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,393.64,Sat Feb 15th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,393.64,Sat Feb 15th 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,393.64,Sat Feb 15th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,393.64,Sat Feb 15th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,393.64,Sat Feb 15th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,393.64,Sat Feb 15th 2025,Fri Mar 14th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,393.64,Sat Feb 15th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,393.64,Sat Feb 15th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,393.64,Sat Feb 15th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,393.86,Sat Feb 15th 2025,Fri Mar 28th 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,408.5,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,408.5,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),Norwegian
+Stockholm,412.14,Sat Feb 8th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,415.26,Wed Feb 26th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),SAS
+Stockholm,415.26,Wed Feb 26th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (HHN),KLM
+Stockholm,420.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,420.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,420.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,420.0,Wed Mar 5th 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,496.0,Wed Feb 26th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,496.0,Wed Feb 26th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,496.0,Wed Feb 26th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,496.0,Wed Feb 26th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,496.0,Wed Feb 26th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,496.0,Wed Feb 26th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,496.0,Wed Feb 26th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,496.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,496.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,549.0,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,549.0,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,557.0,Wed Feb 26th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,557.0,Wed Feb 26th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,560.0,Wed Feb 26th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Stockholm,560.0,Wed Feb 26th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Norwegian
+Stockholm,569.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),SAS
+Stockholm,569.0,Wed Feb 26th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Air France
+Stockholm,569.0,Wed Feb 26th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),Lufthansa
+Stockholm,569.0,Wed Feb 26th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Stockholm (ARN),Stockholm (ARN) → Frankfurt (FRA),KLM
+Tokyo,1231.0,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1231.0,Mon Feb 24th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1231.0,Tue Mar 4th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1231.0,Wed Feb 26th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1231.0,Wed Feb 19th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1344.86,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1347.56,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1360.76,Mon Mar 3rd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1363.46,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1366.52,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1369.18,Sat Feb 22nd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1375.3,Sat Feb 22nd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1386.0,Tue Feb 25th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1404.72,Sat Feb 22nd 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1459.0,Sat Feb 22nd 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1459.0,Sat Feb 22nd 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1459.0,Sat Feb 22nd 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1467.0,Wed Feb 19th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1468.0,Wed Feb 19th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1479.0,Mon Feb 24th 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1479.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1482.0,Tue Feb 25th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1482.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1482.0,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1482.0,Tue Feb 25th 2025,Fri Mar 14th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1482.0,Mon Feb 24th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1482.0,Tue Mar 4th 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1482.0,Tue Mar 4th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1482.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1482.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1484.0,Wed Feb 19th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1494.0,Sat Feb 22nd 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Finnair
+Tokyo,1498.0,Tue Feb 25th 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1526.66,Sat Mar 1st 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1528.14,Sat Mar 1st 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1534.26,Sat Mar 1st 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1541.28,Sat Mar 1st 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1563.68,Sat Mar 1st 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1575.46,Sat Mar 1st 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1617.98,Sat Mar 1st 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1617.98,Sat Mar 1st 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1617.98,Sat Mar 1st 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1637.0,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1638.0,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1645.0,Mon Mar 3rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1653.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1653.0,Sat Mar 1st 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Qatar Airways
+Tokyo,1654.34,Sat Mar 1st 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Lufthansa
+Tokyo,1670.16,Sat Mar 1st 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Lufthansa
+Tokyo,1678.0,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1691.0,Mon Mar 3rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1695.0,Fri Feb 14th 2025,Fri Mar 7th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1695.0,Fri Feb 14th 2025,Fri Mar 7th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1705.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1705.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1706.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1706.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1706.0,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1713.0,Tue Feb 25th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1713.0,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1713.0,Tue Mar 4th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1721.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1721.0,Mon Feb 24th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1746.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1746.0,Mon Feb 24th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1759.0,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1771.0,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,1771.0,Mon Feb 24th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Tokyo,1771.0,Tue Feb 25th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,1777.0,Mon Mar 3rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Qatar Airways
+Tokyo,1778.0,Mon Mar 3rd 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1778.0,Mon Mar 3rd 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Japan Airlines
+Tokyo,1778.0,Mon Mar 3rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,1778.0,Mon Mar 3rd 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,1778.0,Mon Mar 3rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,1845.0,Tue Feb 25th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Lufthansa
+Tokyo,1845.0,Mon Feb 24th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Lufthansa
+Tokyo,1864.0,Tue Feb 25th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),Finnair
+Tokyo,1864.0,Mon Feb 24th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (HND) → Frankfurt (FRA),ANA
+Tokyo,2322.0,Tue Feb 25th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,2434.0,Tue Feb 18th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,2434.0,Tue Feb 18th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Japan Airlines
+Tokyo,2434.0,Tue Mar 4th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,2434.0,Tue Mar 4th 2025,Fri Mar 21st 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,2434.0,Tue Feb 18th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,2434.0,Tue Mar 4th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,2434.0,Tue Mar 4th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,2441.0,Tue Feb 18th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,2441.0,Tue Mar 4th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,2455.0,Wed Feb 19th 2025,Thu Mar 20th 2025,Frankfurt (FRA) → Tokyo (NRT),Tokyo (NRT) → Frankfurt (FRA),Emirates
+Tokyo,2569.0,Wed Mar 5th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),Emirates
+Tokyo,2709.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),Emirates
+Tokyo,2715.0,Wed Mar 5th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),Qatar Airways
+Tokyo,2875.0,Tue Mar 4th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),Finnair
+Tokyo,2877.0,Wed Mar 5th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),Emirates
+Tokyo,2881.0,Tue Mar 4th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (HND) → Frankfurt (FRA),ANA
+Tokyo,5713.0,Wed Feb 19th 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (NRT) → Frankfurt (FRA),ANA
+Tokyo,5713.0,Wed Feb 19th 2025,Fri Apr 4th 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (NRT) → Frankfurt (FRA),Qatar Airways
+Tokyo,5713.0,Wed Feb 19th 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (NRT) → Frankfurt (FRA),Lufthansa
+Tokyo,5713.0,Wed Feb 19th 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Tokyo (HND),Tokyo (NRT) → Frankfurt (FRA),Finnair
+Zürich,95.53,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),SWISS
+Zürich,95.53,Sun Mar 2nd 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),SWISS
+Zürich,95.53,Thu Feb 6th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),Lufthansa
+Zürich,95.53,Thu Feb 6th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),SWISS
+Zürich,95.53,Sat Feb 8th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),Lufthansa
+Zürich,95.53,Sat Feb 8th 2025,Tue Apr 1st 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),SWISS
+Zürich,95.53,Sun Mar 2nd 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),SWISS
+Zürich,95.53,Thu Feb 6th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),Eurowings
+Zürich,95.53,Sat Feb 8th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),Eurowings
+Zürich,99.78,Sun Mar 2nd 2025,Sun Mar 16th 2025,Frankfurt (HHN) → Sofia (SOF),Sofia (SOF) → Frankfurt (HHN),Eurowings
+Zürich,102.96,Fri Feb 21st 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,102.96,Mon Feb 17th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Mon Feb 17th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Fri Feb 21st 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,102.98,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,102.98,Fri Feb 21st 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Mon Feb 17th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Mon Feb 17th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,102.98,Fri Feb 21st 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,102.98,Mon Feb 17th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Fri Feb 21st 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,102.98,Mon Feb 24th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,102.98,Mon Feb 17th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,102.98,Fri Feb 21st 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Mar 3rd 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,103.0,Mon Mar 3rd 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Mar 3rd 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Mar 3rd 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,103.0,Mon Feb 24th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Feb 24th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Feb 24th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,103.0,Mon Feb 24th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,103.0,Mon Feb 24th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,103.0,Mon Mar 3rd 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,107.0,Mon Feb 10th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,107.1,Mon Feb 10th 2025,Mon Mar 17th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,107.1,Mon Feb 10th 2025,Fri Mar 21st 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,107.1,Mon Feb 10th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),SWISS
+Zürich,107.1,Mon Feb 10th 2025,Fri Mar 7th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Lufthansa
+Zürich,107.1,Mon Feb 10th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → Milan (BGY),Milan (BGY) → Frankfurt (HHN),Eurowings
+Zürich,107.31,Mon Mar 3rd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,107.51,Wed Feb 12th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,107.51,Sat Feb 15th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,107.76,Mon Mar 3rd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,107.96,Wed Feb 12th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,107.96,Sat Feb 15th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,108.75,Wed Feb 26th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,109.0,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,109.2,Wed Feb 26th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,109.51,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,110.25,Tue Feb 25th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,110.7,Tue Feb 25th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,111.2,Sat Feb 8th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,111.38,Tue Feb 18th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,111.4,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,111.61,Wed Feb 12th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,111.61,Sat Feb 15th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,111.63,Sun Mar 2nd 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,111.63,Mon Feb 10th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,111.65,Sat Feb 8th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,111.84,Tue Feb 18th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,111.92,Sun Feb 16th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,112.0,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,112.0,Mon Feb 10th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,112.37,Sun Feb 16th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,112.66,Sat Mar 1st 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,112.81,Tue Mar 4th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,112.85,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,113.11,Sat Mar 1st 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,113.14,Wed Mar 5th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,113.16,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,113.26,Tue Mar 4th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,113.59,Wed Mar 5th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,113.69,Tue Feb 11th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,114.14,Tue Feb 11th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,114.35,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,114.37,Sun Feb 9th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,114.7,Mon Mar 3rd 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,114.82,Sun Feb 9th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,114.91,Wed Feb 12th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,114.91,Sat Feb 15th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,114.93,Mon Feb 17th 2025,Fri Apr 4th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,115.3,Sat Feb 8th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,115.38,Mon Feb 17th 2025,Thu Apr 3rd 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,115.48,Tue Feb 18th 2025,Mon Mar 31st 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,116.14,Wed Feb 26th 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Eurowings
+Zürich,116.31,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,116.45,Sun Mar 2nd 2025,Mon Mar 24th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,116.51,Wed Feb 12th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),Lufthansa
+Zürich,116.51,Sat Feb 15th 2025,Thu Mar 6th 2025,Frankfurt (HHN) → London (STN),London (STN) → Frankfurt (HHN),SWISS
+Zürich,363.0,Tue Mar 4th 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Eurowings
+Zürich,363.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Lufthansa
+Zürich,363.0,Tue Mar 4th 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),SWISS
+Zürich,363.0,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Eurowings
+Zürich,363.0,Tue Mar 4th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),SWISS
+Zürich,363.0,Sun Mar 2nd 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Lufthansa
+Zürich,363.0,Sun Mar 2nd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Lufthansa
+Zürich,363.0,Sun Mar 2nd 2025,Mon Mar 17th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Lufthansa
+Zürich,363.0,Sun Mar 2nd 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),Eurowings
+Zürich,363.0,Sun Mar 2nd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Berlin (BER),Berlin (BER) → Frankfurt (FRA),SWISS
+Copenhagen,259.0,Sun Feb 9th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,261.1,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Lufthansa
+Copenhagen,262.68,Tue Feb 11th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,263.2,Sun Feb 16th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,269.94,Wed Feb 5th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),KLM
+Copenhagen,271.2,Sun Feb 9th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,272.48,Sun Feb 9th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,273.22,Tue Mar 4th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Lufthansa
+Copenhagen,274.5,Tue Mar 4th 2025,Thu Mar 20th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),Air France
+Copenhagen,274.8,Tue Feb 11th 2025,Thu Mar 13th 2025,Frankfurt (HHN) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (HHN),SAS
+Copenhagen,314.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,314.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,314.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,314.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,345.0,Tue Mar 4th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,345.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,345.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,345.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,345.0,Fri Feb 21st 2025,Sun Mar 9th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Fri Feb 28th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Thu Feb 27th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Thu Feb 27th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Fri Feb 28th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Fri Feb 28th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Fri Feb 28th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Tue Feb 25th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,413.0,Fri Feb 28th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Tue Feb 25th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Mon Mar 3rd 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,413.0,Thu Feb 27th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Tue Feb 25th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Thu Feb 27th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Thu Feb 27th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Mon Mar 3rd 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,413.0,Mon Mar 3rd 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,414.0,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,414.0,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Sun Mar 2nd 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Sun Mar 2nd 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Sun Mar 2nd 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,414.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Wed Feb 26th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,414.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,414.0,Tue Mar 4th 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Wed Feb 26th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,414.0,Wed Feb 26th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,414.0,Mon Feb 24th 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 24th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,414.0,Mon Feb 24th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,414.0,Wed Feb 26th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,414.0,Tue Mar 4th 2025,Mon Mar 10th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,415.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,415.0,Tue Feb 25th 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,415.0,Fri Feb 28th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,415.0,Thu Feb 27th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,415.0,Thu Feb 27th 2025,Fri Mar 28th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,415.0,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,415.0,Thu Feb 27th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,415.0,Fri Feb 28th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,415.0,Tue Feb 25th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,415.0,Thu Feb 27th 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,416.0,Sun Mar 2nd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,419.0,Sun Mar 2nd 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,419.0,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,419.0,Sun Mar 2nd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,447.0,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,447.0,Sun Mar 2nd 2025,Mon Mar 31st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,451.0,Sun Mar 2nd 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,451.0,Sun Mar 2nd 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),SAS
+Copenhagen,451.0,Sun Mar 2nd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Lufthansa
+Copenhagen,501.0,Tue Mar 4th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),KLM
+Copenhagen,1011.0,Mon Feb 10th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Copenhagen,1144.0,Sun Feb 9th 2025,Thu Mar 13th 2025,Frankfurt (FRA) → Copenhagen (CPH),Copenhagen (CPH) → Frankfurt (FRA),Air France
+Paris,257.72,Tue Mar 4th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Paris (ORY),Paris (BVA) → Frankfurt (HHN),Ryanair
+Paris,257.74,Wed Feb 19th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (HHN),Air France
+Paris,257.74,Tue Mar 4th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (ORY),Paris (BVA) → Frankfurt (HHN),EasyJet
+Paris,257.76,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (HHN),Lufthansa
+Paris,258.98,Wed Feb 19th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (HHN),Lufthansa
+Paris,259.0,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (HHN),Air France
+Paris,315.14,Tue Mar 4th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Paris (ORY),Paris (BVA) → Frankfurt (FRA),EasyJet
+Paris,315.16,Wed Feb 19th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (FRA),EasyJet
+Paris,316.4,Wed Feb 19th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Paris (BVA),Paris (BVA) → Frankfurt (FRA),Air France
+Paris,319.58,Wed Feb 19th 2025,Mon Mar 10th 2025,Frankfurt (HHN) → Paris (ORY),Paris (BVA) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,329.0,Mon Mar 3rd 2025,Thu Mar 6th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,351.12,Wed Feb 19th 2025,Sun Mar 30th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,351.12,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,351.12,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Tue Mar 18th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Tue Mar 11th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 5th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 26th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 12th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 19th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,351.12,Wed Feb 19th 2025,Wed Mar 5th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,351.12,Wed Feb 19th 2025,Thu Mar 27th 2025,Frankfurt (HHN) → Paris (ORY),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,495.0,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 5th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,495.0,Sun Feb 23rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,495.0,Sun Feb 23rd 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 19th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 12th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Tue Mar 11th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,495.0,Sun Feb 23rd 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,495.0,Sun Feb 23rd 2025,Tue Mar 18th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,497.0,Sun Feb 23rd 2025,Thu Apr 3rd 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,497.0,Sun Feb 23rd 2025,Wed Apr 2nd 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,497.0,Sun Feb 23rd 2025,Tue Apr 1st 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,503.0,Tue Mar 4th 2025,Fri Mar 7th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,503.0,Tue Mar 4th 2025,Fri Mar 7th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,503.0,Tue Mar 4th 2025,Sat Mar 8th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,503.0,Tue Mar 4th 2025,Wed Mar 26th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Thu Feb 27th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Mar 4th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Feb 25th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Sun Feb 23rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Mon Feb 24th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Mon Feb 24th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Thu Feb 27th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Wed Feb 26th 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Ryanair
+Paris,518.0,Mon Mar 3rd 2025,Sun Mar 30th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Lufthansa
+Paris,518.0,Tue Feb 25th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet
+Paris,518.0,Tue Mar 4th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),Air France
+Paris,518.0,Tue Mar 4th 2025,Thu Mar 27th 2025,Frankfurt (FRA) → Paris (CDG),Paris (CDG) → Frankfurt (FRA),EasyJet

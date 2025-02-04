@@ -24,7 +24,7 @@ close_pop_up(driver)
 
 
 # Search for hotels in a destination
-destination = "Zürich" #Ran code in batches for each city
+destination = "Heidelberg" #Ran code in batches for each city
 driver.find_element(By.CLASS_NAME, "eb46370fe1").send_keys(destination)
 
 # Wait for the page to load
